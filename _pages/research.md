@@ -35,10 +35,10 @@ Given the critical importance of trust and transparency in AI technologies, addr
 #### Applied Cryptography:
 Cryptography serves as a fundamental building block for information security, and applied cryptography aims to bridge theory and practice by studying the best practical implementation and usage of cryptographic algorithms for real-world applications. My research in this area covers the following different aspects:
 
-- Differentially private algorithms and applications <span style="color:blue">[TIFS'22] </span>
+- Differentially private algorithms and applications <span style="color:blue">[[TIFS'22]({{site.baseurl}}/research/appCrypt)] </span>
 
-- Privacy-preserving machine learning <span style="color:blue">[TDSC'19], [ISCC'22]</span>
+- Privacy-preserving machine learning <span style="color:blue">[[TDSC'19]({{site.baseurl}}/research/appCrypt)], [[ISCC'22]({{site.baseurl}}/research/appCrypt)]</span>
 
-- Customized multi-party computation protocols for new applications <span style="color:blue">[Asia CCS'24], [ACNS'23], [TDSC'18]</span>
+- Customized multi-party computation protocols for new applications <span style="color:blue">[[Asia CCS'24]({{site.baseurl}}/research/appCrypt)], [[ACNS'23]({{site.baseurl}}/research/appCrypt)], [[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>
 
-- Emerging authentication methods <span style="color:blue">[RAID'23]</span>
+- Emerging authentication methods <span style="color:blue">[[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>
