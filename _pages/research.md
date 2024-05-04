@@ -5,7 +5,7 @@ permalink: /research/
 published: true
 ---
 
-## Research
+<!--## Research
 My research interests fall in three macro-areas of computer science and engineering:
 - distributed systems
 - intelligent and autonomous systems
@@ -19,4 +19,26 @@ Focuses I have interested on are:
 - Autonomous Vehicles
 - Reinforcement Learning
 - Swarm Intelligence
-- Genetic Algorithms
+- Genetic Algorithms-->
+
+
+My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__.
+
+#### Trustworthy AI: 
+Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
+- Understanding and improving adversarial robustness <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Deisning and defeating poisoning attacks <span style="color:blue"> [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Preventing privacy and IP leakage <span style="color:blue"> [[AAAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24c]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23b]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Improving overall performance in the presence of adversaries <span style="color:blue"> [[TIFS'23]({{site.baseurl}}/research/trustworthyAI)] </span>  
+
+
+#### Applied Cryptography:
+Cryptography serves as a fundamental building block for information security, and applied cryptography aims to bridge theory and practice by studying the best practical implementation and usage of cryptographic algorithms for real-world applications. My research in this area covers the following different aspects:
+
+- Differentially private algorithms and applications <span style="color:blue">[TIFS'22] </span>
+
+- Privacy-preserving machine learning <span style="color:blue">[TDSC'19], [ISCC'22]</span>
+
+- Customized multi-party computation protocols for new applications <span style="color:blue">[Asia CCS'24], [ACNS'23], [TDSC'18]</span>
+
+- Emerging authentication methods <span style="color:blue">[RAID'23]</span>
