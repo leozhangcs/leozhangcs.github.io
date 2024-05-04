@@ -1,10 +1,10 @@
 ### your site title here
-title: Lorenzo Carnevale
-description: Assistant Professor at University of Messina
+title: Leo Zhang
+description: Senior Lecturer at Griffith University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: leo.zhang@griffith.edu.au
 
 highlighter: rouge
 markdown: kramdown
