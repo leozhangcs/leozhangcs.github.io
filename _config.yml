@@ -8,7 +8,7 @@ email: leo.zhang@griffith.edu.au
 
 highlighter: rouge
 markdown: kramdown
-  syntax_highlighter: rouge
+#  syntax_highlighter: rouge
 
 # Pagination
 # paginate: 4
