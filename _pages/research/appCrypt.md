@@ -19,3 +19,12 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 0.  Lorenzo Carnevale, Massimo Villari. "<i>A Nature-Inspired Coordination System to Decentralize Intelligence at the Disconnected Edge</i>". 2022 7th IEEE Cyber Science and Technology Congress (CyberSciTech), Falerna (CZ), Italy, September 2022 [[poster](https://drive.google.com/file/d/1mfqEl_vW5i_8IJl8kc6gmqlJYM0uF7Ng/view?usp=sharing)]
 {: reversed="reversed"}
 -->
+
+#### Selected Publications in Applied Cryptography:  
+- <span style="color:blue">[Asia CCS'24]</span>   F. Wang, Z. Chen, L. Pan, L. Y. Zhang, J. Zhou, "CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments," in AsiaCCS, 2024.
+- <span style="color:blue">[RAID'23]</span> L. Li, C. Chen, L. Pan, L. Y. Zhang, J. Zhang, Y. Xiang, "SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display," in RAID, 2023. 
+- <span style="color:blue">[ACNS'23]</span> Y. Yang, J. Weng, Y. Yi, C. Dong, L. Y. Zhang, J. Y. Zhou, "Predicate Private Set Intersection with Linear Complexity," in ACNS, 2023. 
+- <span style="color:blue">[ISCC'22]</span> F. Wang, L. Y. Zhang, L. Pan, S. Hu, R. Doss, "Towards Privacy-Preserving Neural Architecture Search," in IEEE ISCC, 2022. 
+- <span style="color:blue">[TIFS'22]</span> Z. Zheng, Z. Li, H. Jiang, L. Y. Zhang, D. Tu, "Semantic-Aware Privacy-Preserving Online Location Trajectory Data Sharing," IEEE Transactions on Information Forensics and Security, 2022.
+- <span style="color:blue">[TDSC'19]</span> S. Hu, L. Y. Zhang, Q. Wang, Z. Qin, C. Wang, "Towards Private and Scalable Cross-Media Retrieval," IEEE Transactions on Dependable and Secure Computing, 2019.
+- <span style="color:blue">[TDSC'18]</span> L. Y. Zhang, Y. Zheng, J. Weng, C. Wang, Z. Shan, K. Ren, "You Can Access But You Cannot Leak: Defending Against Illegal Content Redistribution in Encrypted Cloud Media Center," IEEE Transactions on Dependable and Secure Computing, 2018.

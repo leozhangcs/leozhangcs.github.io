@@ -19,3 +19,30 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 0.  Lorenzo Carnevale, Massimo Villari. "<i>A Nature-Inspired Coordination System to Decentralize Intelligence at the Disconnected Edge</i>". 2022 7th IEEE Cyber Science and Technology Congress (CyberSciTech), Falerna (CZ), Italy, September 2022 [[poster](https://drive.google.com/file/d/1mfqEl_vW5i_8IJl8kc6gmqlJYM0uF7Ng/view?usp=sharing)]
 {: reversed="reversed"}
 -->
+
+
+#### Selected Publications in Trustworthy AI:  
+- <span style="color:blue">[Oakland'24a]</span>  Y. Zhang, S. Hu, L. Y. Zhang, J. Shi, M. Li, X. Liu, W. Wan, H. Jin, "Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training," in Oakland, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[Oakland'24b]</span>  X. Mo, Y. Zhang, L. Y. Zhang, W. Luo, N. Sun, S. Hu, S. Gao, Y. Xiang, "Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics," in Oakland, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[Oakland'24c]</span>  Z. Zhou, M. Li, W. Liu, S. Hu, Y. Zhang, W. Wan, L. Xue, L. Y. Zhang, D. Yao, H. Jin, "Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples," in Oakland, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[IJCAI'24a]</span>  H. Zhang, S. Hu, Y. Wang, L. Y. Zhang, Z. Zhou, X. Wang, Y. Zhang, C. Chen,  "Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness," in IJCAI, 2024. [PDF]() [CODE]() [BLOG]()
+- <span style="color:blue">[IJCAI'24b]</span>  W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, L. Y. Zhang, Y. Wang, "DarkFed: A Data-Free Backdoor Attack in Federated Learning," in IJCAI, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[AAA'24a]</span>  Q. Duan, Z. Hua, Q. Liao, Y. Zhang, L. Y. Zhang, "Conditional Backdoor Attack via JPEG Compression," in AAAI, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[AAAI'24b]</span>  D. Mi, Y. Zhang, L. Y. Zhang, S. Hu, Q. Zhong, H. Yuan, S. Pan, "Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation," in AAAI, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[AAAI'24c]</span>  L. Xue, S. Hu, R. Zhao, L. Y. Zhang, S. Hu, L. Sun, D. Yao, "Revisiting Gradient Pruning: A Dual Realization for Defending Against Gradient Attacks," in AAAI, 2024. [PDF]() [CODE]()
+- <span style="color:blue">[Acm MM'23]</span>  W. Wan, S. Hu, M. Li, J. Lu, L. Zhang, L. Y. Zhang, H. Jin, "A Four-Pronged Defense Against Byzantine Attacks in Federated Learning," in Acm MM, 2023. 
+- <span style="color:blue">[ICCV'23]</span>  Z. Zhou, S. Hu, R. Zhao, Q. Wang, L. Y. Zhang, J. Hou, H. Jin, "Downstream-agnostic Adversarial Examples," in ICCV, 2023.
+- <span style="color:blue">[IJCAI'23]</span>  H. Zhang, Z. Yao, L. Y. Zhang, S. Hu, C. Chen, A. W.-C. Liew, Z. Li, "Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning," in IJCAI, 2023. 
+- <span style="color:blue">[Asia CCS'23a]</span>  X. Zhang, Z. Zhang, Q. Zhong, X. Zheng,  Y. Zhang,  S. Hu, L. Y. Zhang, "Masked Language Model Based Textual Adversarial Example Detection," in AsiaCCS, 2023.
+- <span style="color:blue">[Asia CCS'23b]</span>  M. Ma, Y. Zhang, P. C. M. Arachchige, L. Y. Zhang, M. B. Chhetri, G. Bai, "LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks," in AsiaCCS, 2023.
+- <span style="color:blue">[TIFS'23]</span>  Z. Gong, L. Shen, Y. Zhang, L. Y. Zhang, J. Wang, G. Bai, Y. Xiang, "AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification," IEEE Transactions on Information Forensics and Security, 2023.
+- <span style="color:blue">[CVPR'22]</span>  S. Hu, X. Liu, Y. Zhang, M. Li, L. Y. Zhang, H. Jin, L. Wu, "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer," in IEEE/CVF CVPR, 2022.
+- <span style="color:blue">[IJCAI'22]</span>  W. Wan, S. Hu, J. Lu, L. Y. Zhang, H. Jin, Y. He, "Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection," in IJCAI, 2022.
+
+<!--
+Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
+- Understanding and improving adversarial robustness <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Designing and defeating poisoning attacks <span style="color:blue"> [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Preventing privacy and IP leakage <span style="color:blue"> [[AAAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24c]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23b]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Improving overall performance in the presence of adversaries <span style="color:blue"> [[TIFS'23]({{site.baseurl}}/research/trustworthyAI)] </span>  
+-->
