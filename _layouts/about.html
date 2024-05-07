@@ -8,4 +8,10 @@ layout: default
     {% endif %}
 {% endif %}
 
+{% if page.research %}
+    {% if page.research.image %}
+      <img class="research {{ page.research.align }}"  width ="40%" src="{{ page.research.image | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url}}">
+    {% endif %}
+{% endif %}
+
 {{ content }}

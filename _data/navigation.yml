@@ -2,16 +2,20 @@
   url: /
 - title: Research
   url: /research/
-  sublinks:
-    - title: Publications
-      url: /publications/
-    - title: Projects
-      url: /projects/
-    - title: Activities
-      url: /activities/
-- title: Students
-  url: /teaching/
-- title: Blog
-  url: /blog/
-- title: Venue
-  url: /venue/
+  #sublinks:
+    #- title: Publications
+    #  url: /publications/
+    #- title: Projects
+    #  url: /projects/
+- title: Resrouces
+  url: /resrouces/
+- title: Services
+  url: /services/
+- title: Team
+  url: /Team/
+- title: Pros.-Students
+  url: /prosStudents/
+#- title: Blog
+#  url: /blog/
+#- title: Venue
+#  url: /venue/

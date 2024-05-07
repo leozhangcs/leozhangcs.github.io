@@ -136,5 +136,3 @@ published: true
 1. Chengqing Li, Leo Yu Zhang, Rong Ou, Kwok-Wo Wong, "Breaking a novel colour image encryption algorithm based on chaos," Nonlinear Dynamics, vol. 70, no. 4, pp. 2383-2388, 2012.
 1. Leo Yu Zhang, Chengqing Li, Kwok-Wo Wong, Shi Shu, Guanrong Chen, "Cryptanalyzing a chaos-based image encryption algorithm using alternate structure," Journal of Systems and Software, vol. 85, no. 9, pp. 2077-2085, 2012.
 1. Leo Yu Zhang, Chengqing Li, Qin Li, Dan Zhang, Shi Shu, "Breaking a chaotic image encryption algorithm based on perceptron model," Nonlinear Dynamics, vol. 69, no. 3, pp. 1091-1096, 2012.
-</details>
-{::options parse_block_html="false" /}
