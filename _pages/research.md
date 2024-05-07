@@ -24,7 +24,7 @@ Focuses I have interested on are:
 
 My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. The word cloud below summarizes my research focuses very well. 
 
-The complete list of my publications can be found at the end of this page or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
+The complete list of my publications can be found [here]({{site.baseurl}}//research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
 
 #### Trustworthy AI:  
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
@@ -41,4 +41,6 @@ Cryptography serves as a fundamental building block for information security, an
 - Customized multi-party computation protocols for new applications <span style="color:blue"> [[Asia CCS'24]({{site.baseurl}}/research/appCrypt)], [[ACNS'23]({{site.baseurl}}/research/appCrypt)], [[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>  
 - Emerging authentication methods <span style="color:blue"> [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
 
-#### Full Publication List 
+
+
+
