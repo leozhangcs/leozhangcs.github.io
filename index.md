@@ -23,6 +23,11 @@ I am always actively looking for self-motivated students. Please email me your C
 - [Apr-24] I will serve as a __Program Committee member__ for _PETS-25_. Looking forward to reviewing your excellent submissions!
 
 - [Apr-24] Our new works __Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness__ and __DarkFed: A Data-Free Backdoor Attack in Federated Learning__ have been accepted by the 33rd _International Joint Conference on Artificial Intelligence (IJCAI 2024)_!
+- [Mar-24] Our new work __Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds__ has been accepted by the 29th _European Symposium on Research in Computer Security (ESORICS 2024)_!
+
+- [Mar-24] Our new work __CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments__ has been accepted by the 19th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024)_!
+
+- [Mar-24] Our new work __Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples__ has been accepted with shepherding by the winter round of the 45th _IEEE Symposium on Security and Privacy (Oakland 2024)_! 
 
 <!--{::options parse_block_html="true" /}
 <details open> <summary markdown="span"> __News__ </summary>
@@ -33,12 +38,6 @@ I am always actively looking for self-motivated students. Please email me your C
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">Older News</summary>
-[Mar-24] Our new work __Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds__ has been accepted by the 29th _European Symposium on Research in Computer Security (ESORICS 2024)_!
-
-[Mar-24] Our new work __CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments__ has been accepted by the 19th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024)_!
-
-[Mar-24] Our new work __Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples__ has been accepted with shepherding by the winter round of the 45th _IEEE Symposium on Security and Privacy (Oakland 2024)_! 
-
 [Dec-23] Glad to share that our three papers, __Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation__, __Conditional Backdoor Attack via JPEG Compression__, __Revisiting Gradient Pruning: A Dual Realization for Defending Against Gradient Attacks__, have been accepted by the 38th _AAAI Conference on Artificial Intelligence (AAAI-24)_!
 
 [Nov-23] I have joined the editorial team of __IEEE Transactions on Dependable and Secure Computing__ as an associate editor. Please submit your good works!
