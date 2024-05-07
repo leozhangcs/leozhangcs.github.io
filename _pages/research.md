@@ -22,9 +22,9 @@ Focuses I have interested on are:
 - Genetic Algorithms-->
 
 
-My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. The word cloud below summarizes my research focuses very well. 
+My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. The word cloud below summarizes my research focuses. 
 
-The complete list of my publications can be found [here]({{site.baseurl}}//research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
+The complete list of my publications can be found [here]({{site.baseurl}}/research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
 
 #### Trustworthy AI:  
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
