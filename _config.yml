@@ -2,7 +2,7 @@
 title: Leo Zhang
 description: Senior Lecturer, Griffith University
 
-baseurl: "" #name of GitHub repository
+baseurl: "leozhangcs.github.io" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: leo.zhang@griffith.edu.au
 
