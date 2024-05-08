@@ -4,7 +4,7 @@ layout: default
 permalink: /teaching/
 published: true
 ---
-### Under Construction
+### Under construction.
 <!-- 
 ## Classes
 - **University of Messina**, Computer Networks [2021 - now], [eLearning 2022/2023](https://moodle2.unime.it/course/view.php?id=48404) - [git](https://github.com/lcarnevale/computer-networks)
