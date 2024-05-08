@@ -4,7 +4,23 @@ layout: default
 permalink: /teaching/
 published: true
 ---
-### Under construction.
+
+
+### At Griffith
++ Trustworthy AI: T2-2024
++ Cyber Security Risk Management: T2-2024
++ Programming Principles (1811ICT/2807ICT/7001ICT): T3-2023
+
+
+### At Deakin (2018-2022)
+- Ethical Hacking (SIT379): 2018-T1, 2019-T1, 2020-T1, 2021-T1, 2022-T2
+- Advanced Topics in Digital Security (SIT704): 2020-T1, 2021-T1, 2022-T2
+- Real-World Practices for Cyber Security (SIT182): 2022-T2
+- Introduction to Programming (SIT102): 2021-T3, 2022-T3
+- Cryptography (SIT281):  2018-T2, 2019-T2, 2020-T2, 2021-T2
+- Advanced Digital Forensics (SIT703): 2018-T2
+- Networks and Communications (SIT202): 2020-T1
+
 <!-- 
 ## Classes
 - **University of Messina**, Computer Networks [2021 - now], [eLearning 2022/2023](https://moodle2.unime.it/course/view.php?id=48404) - [git](https://github.com/lcarnevale/computer-networks)

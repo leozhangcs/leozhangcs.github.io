@@ -14,7 +14,7 @@ I am a Senior Lecturer in the [School of ICT](https://www.griffith.edu.au/griffi
 
 I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring  trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq). 
 
-I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about [Griffith PhD admission and scholarships]() can be found [here](). 
+I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about __Griffith PhD admission and scholarships__ can be found [here]({{site.baseurl}}/prosStudents). 
 
 
 #### News
