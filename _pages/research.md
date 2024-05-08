@@ -25,7 +25,7 @@ Focuses I have interested on are:
 - Genetic Algorithms-->
 
 
-My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. The word cloud on the right summarizes my current research focuses. 
+My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. I used to work on _Chaotic Cryptography_ (inactive since 2014) and _Compressed Sensing Secrecy_ (inactive since 2016). The word cloud on the right summarizes my current research focuses. 
 
 The complete list of my publications can be found [here]({{site.baseurl}}/research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
 
