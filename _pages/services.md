@@ -10,7 +10,7 @@ published: true
 
 
 ### Program Committee Member
-+ 2024: Acm MM, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, 
++ 2024: Acm MM, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, 
 + 2023: Acm MM, IJCAI, AAAI, ICCV, CVPR,
 + 2022: NeurIPS, Acm MM, IJCAI, AAAI, NSS,
 + 2021: NSS, Acm MM, MSN, PRDC, CPSCom, 
