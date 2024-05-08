@@ -4,17 +4,21 @@ layout: default
 permalink: /prosStudents/
 published: true
 ---
-
-I am interested in a wide range of research topics in cyber security, and I am always looking for self-motivated students. 
-
 ### For prospective students
+- I am interested in a wide range of research topics in cyber security (currently focusing on Trustworthy AI and Applied Cryptography), and I am always actively looking for self-motivated students. 
+- If you have the same research interests as me and want to do a PhD degree at Griffith, please email me with your CV, transcript, and eligible English test score.
+- If you work in a slightly different field and want me to host you, please email me the required material, and I will contact you further. 
+
+
+<!--### For prospective students
 I totally understand your eagerness to get accepted to start your Ph.D. journey as early as possible (I have had the same experience at your age), but this is just not how the scholarship selection and admission process work. As a research student, you need to invest a huge amount of time in researching the scholarship selection and admission process of your target supervisor and university/organization. At this stage, my experience and advice could help you accelerate this process and make you more competitive in selection. So, I recommend you drop me an email to express your interest sooner rather than later. 
+-->
 
 ### Scholarship opportunities for PhD students
-- Griffith University Honours Entry Postgraduate Research Scholarship (GUHEPRS)
-- Griffith University Postgraduate Research Scholarship (GUPRS)
-- China Scholarship Council - Griffith University Joint Funding Program (CSC-Griffith)
-- Normal CSC Scholarship
+- Griffith University Honours Entry Postgraduate Research Scholarship ([GUHEPRS](https://www.griffith.edu.au/research-study/scholarships/griffith-university-honours-entry-postgraduate-research))
+- Griffith University Postgraduate Research Scholarship ([GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs))
+- China Scholarship Council - Griffith University Joint Funding Program ([CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship))
+- Normal [CSC](https://www.csc.edu.cn/chuguo) Scholarship
 
 
 ### University Admission Process
