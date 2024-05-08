@@ -5,10 +5,10 @@ permalink: /resources/
 published: true
 ---
 
-This page contains some information that it useful for research.
+This page contains some information that is useful for research.
 
 ### Technical Courses
-- Cryptography (by Jonathan Katz)
+- [Cryptography](https://www.coursera.org/learn/cryptography) (by Jonathan Katz)
 - Cryptography I (by Dan Boneh)
 - Cryptography II (by Dan Boneh)
 - Matrix Analysis and Computations
