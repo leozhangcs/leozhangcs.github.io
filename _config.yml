@@ -1,6 +1,6 @@
 ### your site title here
 title: Leo Zhang
-description: Senior Lecturer at Griffith University
+description: Senior Lecturer, Griffith University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -21,9 +21,9 @@ markdown: kramdown
 linkedin: "leo-yu-zhang-9420997b"
 # github: "lcarnevale"
 researchgate: "Leo-Zhang-9"
-orcid: "identifier0000-0001-9330-2662"
+orcid: "0000-0001-9330-2662"
 #google_analytics: "G-V0TBR5PTVH"
-#scopus: "57195963279"
+scopus: "57249742600"
 google_scholar: "JK21OM0AAAAJ"
 #flickr: "lorenzocarnevale"
 

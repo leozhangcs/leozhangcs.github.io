@@ -7,14 +7,14 @@
     #  url: /publications/
     #- title: Projects
     #  url: /projects/
-- title: Team
-  url: /team/
 - title: Services
   url: /services/
-- title: Pros.-Students
-  url: /prosStudents/
 - title: Teaching
   url: /teaching/
+- title: Team
+  url: /team/
+- title: Pros.-Students
+  url: /prosStudents/
 - title: Resrouces
   url: /resrouces/
 #- title: Blog
