@@ -16,9 +16,11 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about __Griffith PhD admission and scholarships__ can be found [here]({{site.baseurl}}/prosStudents). 
 
 
+<p>
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<h4> &nbsp; 2 CSC PhD students and 2 visiting positions available for 2025! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
+</p>
 
-<div style="float: left;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15"/></div> 
-#### Quite a long title, potentially going over several lines
 
 ### News
 - [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_!
