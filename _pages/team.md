@@ -15,7 +15,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 - Chenyu Zhu (2024-now, Msc@HUST):  Mitigate Backdoor in Object Detection Models
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-now, PhD student@HUST): Downstream Adversarial Attacks and Defenses
-- [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, Visiting PhD@Griffith): Security and Privacy in Deep Learning
+- [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, Visiting PhD@Griffith): Detecting AI-Generated Contents
 - [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-now, Msc@HUST): Fine-Grained Poisoning in Federated Learning
 - Xiaoxing Mo (2022-now, PhD student@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
 - Jiaheng Wei (2022-now, PhD student@RMIT): Memorization in Deep Learning and Its Interplay with Privacy and Security
