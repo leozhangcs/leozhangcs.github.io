@@ -19,6 +19,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Mitigate Backdoor in Object Detection Models
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): 
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
+- Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun Hua](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
+  * Adversarial Robustness and Generalization in Computer Vision
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Downstream Adversarial Attacks and Defenses
 - [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, Visiting PhD@Griffith, jointly supervised with [Prof. Yanjun ZHANG](https://scholar.google.com.hk/citations?user=HKq2LkwAAAAJ)): 
@@ -31,6 +33,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Memorization in Deep Learning and Its Interplay with Privacy and Security
 - Lulu Xue (2022-now, Msc student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Privacy Attack and Defense in Federated Learning
+- Linshan Hou (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun Hua](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
+  *  Backdoor Attack and Defense of Deep Neural Networks
 - Khondaker Tasrif Noor (2021-now, PhD student@Deakin, jointly supervised with [Prof. Wei LUO](https://scholar.google.com.hk/citations?user=fIxBU34AAAAJ) and [Prof. Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)): 
   * Architecture and Algorithm Design for Hierarchical Classification
 - Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
