@@ -41,7 +41,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Poisoning Attacks in Deep Learning
 - Zeming Yao (2021-now, PhD student@Swinburne, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)): 
   * Preventing Neural Trojan in Computer Vision
-- Di Mi (21-now, Msc student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
+- Di Mi (21-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
   * Model Extraction Attack and Defense in Image-to-Image Translation
 - [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2020-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ))
   * Adversarial Robustness in Deep Learning
