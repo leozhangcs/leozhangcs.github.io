@@ -13,7 +13,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Adversarial Robustness in NLP Applications
 - Chenhong Luo (PhD student@Griffith, starts at Late 2024): 
   * Private and Fairness-aware Deep Learning
-- Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ))
+- Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Security and Privacy Risks in Large Language Model
 - Dong Chen (2024-now, Visiting PhD@Griffith): 
   * Secure Aggregation With Applications
