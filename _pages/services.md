@@ -11,10 +11,11 @@ published: true
 
 
 ### Program Committee Member
-+ 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, 
-+ 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR,
-+ 2022: NeurIPS, ACM Multimedia, IJCAI, AAAI, NSS,
-+ 2021: NSS, ACM Multimedia, International Conference on Mobility, Sensing and Networking (MSN), PRDC,  IEEE International Conference on Cyber, Physical and Social Computing (CPSCom), 
++ 2025: PETS; 
++ 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
++ 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR;
++ 2022: NeurIPS, ACM Multimedia, IJCAI, AAAI, NSS;
++ 2021: NSS, ACM Multimedia, International Conference on Mobility, Sensing and Networking (MSN), PRDC,  IEEE International Conference on Cyber, Physical and Social Computing (CPSCom);  
 + ...
 
 ### Editorship

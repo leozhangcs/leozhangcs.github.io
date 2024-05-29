@@ -14,7 +14,7 @@ published: true
 I totally understand your eagerness to get accepted to start your Ph.D. journey as early as possible (I have had the same experience at your age), but this is just not how the scholarship selection and admission process work. As a research student, you need to invest a huge amount of time in researching the scholarship selection and admission process of your target supervisor and university/organization. At this stage, my experience and advice could help you accelerate this process and make you more competitive in selection. So, I recommend you drop me an email to express your interest sooner rather than later. 
 -->
 
-### Scholarship Opportunities for PhD Students
+### Scholarship Opportunities for PhD Students (long-running schemes)
 - Australian University Honours Entry Postgraduate Research Scholarship ([AUHEPS](https://www.griffith.edu.au/research-study/scholarships/griffith-university-honours-entry-postgraduate-research))
 - Griffith University Postgraduate Research Scholarship ([GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs))
 - China Scholarship Council - Griffith University Joint Funding Program ([CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship))
@@ -22,9 +22,10 @@ I totally understand your eagerness to get accepted to start your Ph.D. journey 
 
 
 ### University Admission Process
-- The AUHEPS scheme is for those who have recently completed (or are in the process of completing) a bachelor degree with honours program or an eligible HDR pathway program at Griffith University.
-- For the GUPRS scheme, there is an EOI (express of interest) stage followed by the full application (3 rounds per year, with September being the main round).
-- For the CSC-Griffith scheme or CSC scheme, please follow the instructions from CSC.
+- The [AUHEPS](https://www.griffith.edu.au/research-study/scholarships/griffith-university-honours-entry-postgraduate-research) scheme is for those who have recently completed (or are in the process of completing) a bachelor degree with honours program or an eligible HDR pathway program at Griffith University.
+- For the [GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs) scheme, there is an EOI (express of interest) stage followed by the full application (3 rounds per year, with September being the main round).
+- For the [CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship) scheme, there is a separate application at Griffith (normally open in November every year). After obtaining the conditional offer from Griffith, you can then make the application to CSC.
+- For the normal [CSC](https://www.csc.edu.cn/chuguo) scheme, please follow the instructions from CSC.
 - To be successful in the scholarship competition, applicants generally should have: 1. a valid English test, 2. GPA > 80 (out of 100 and the higher the better) for the Bachelor and the Master, 3. First-authored JCR Q1 publications >= 2.
 
 ### Opportunities for Visiting Scholars/PhD Students
