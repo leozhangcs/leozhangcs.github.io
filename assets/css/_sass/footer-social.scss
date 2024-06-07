@@ -30,7 +30,8 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
+.rounded-social-buttons 
+.fa-twitter,
 .fa-flickr,
 .fa-facebook-f,
 .fa-linkedin,
@@ -49,6 +50,16 @@
   color: #3b5998;
   background: #fefefe;
   border-color: #3b5998;
+}
+
+.rounded-social-buttons .social-button.arxiv {
+  background: #55acee;
+}
+
+.rounded-social-buttons .social-button.arxiv:hover, .rounded-social-buttons .social-button.arxiv:focus {
+  color: #55acee;
+  background: #fefefe;
+  border-color: #55acee;
 }
 
 .rounded-social-buttons .social-button.twitter {

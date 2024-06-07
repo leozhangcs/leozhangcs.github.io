@@ -28,16 +28,18 @@
     </a>
     {%- endif -%}
 
-    <!-- I want to add a host icon
-    {%- if site.Gprofile -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Gprofile' }}"
-    class="social-button Gprofile"
-    href="https://experts.griffith.edu.au/{{ site.Gprofile }}" itemprop="sameAs"
+
+    <!--The insititution icon-->
+    {%- if site.arxiv -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'arxiv' }}"
+    class="social-button arxiv"
+    href="https://experts.griffith.edu.au/{{ site.arxiv }}" itemprop="sameAs"
     target="_blank">
-    <i class="fab fa-Gprofile"></i>
+    <i class="ai ai-arxiv"></i>
     </a>
     {%- endif -%}
-    -->
+    
+ 
 
     {%- if site.linkedin -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
@@ -47,6 +49,8 @@
     <i class="fab fa-linkedin"></i>
     </a>
     {%- endif -%}
+
+    
 
     <!--
     {%- if site.github -%}
@@ -89,6 +93,7 @@
     <i class="fab fa-flickr"></i>
     </a>
     {%- endif -%}
+
 
     {%- if site.twitter -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
