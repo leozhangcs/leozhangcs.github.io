@@ -16,6 +16,8 @@
     <i class="ai ai-scopus"></i>
     </a>
     {%- endif -%}
+    
+
 
     {%- if site.google_scholar -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
@@ -25,6 +27,17 @@
     <i class="ai ai-google-scholar"></i>
     </a>
     {%- endif -%}
+
+    <!-- I want to add a host icon
+    {%- if site.Gprofile -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Gprofile' }}"
+    class="social-button Gprofile"
+    href="https://experts.griffith.edu.au/{{ site.Gprofile }}" itemprop="sameAs"
+    target="_blank">
+    <i class="fab fa-Gprofile"></i>
+    </a>
+    {%- endif -%}
+    -->
 
     {%- if site.linkedin -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
@@ -45,6 +58,10 @@
     </a>
     {%- endif -%}
     -->
+
+    
+  
+    
 
     {%- if site.researchgate -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
