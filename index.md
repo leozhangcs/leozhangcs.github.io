@@ -23,11 +23,14 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_!
+
 - [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_!
 
 - [Apr-24] I will serve as a __Program Committee member__ for _PETS-25_. Looking forward to reviewing your excellent submissions!
 
 - [Apr-24] Our new works __Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness__ and __DarkFed: A Data-Free Backdoor Attack in Federated Learning__ have been accepted by the 33rd _International Joint Conference on Artificial Intelligence (IJCAI 2024)_!
+
 - [Mar-24] Our new work __Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds__ has been accepted by the 29th _European Symposium on Research in Computer Security (ESORICS 2024)_!
 
 - [Mar-24] Our new work __CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments__ has been accepted by the 19th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024)_!
