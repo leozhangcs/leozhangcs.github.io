@@ -30,7 +30,8 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
+.rounded-social-buttons 
+.fa-twitter,
 .fa-flickr,
 .fa-facebook-f,
 .fa-linkedin,
@@ -50,6 +51,8 @@
   background: #fefefe;
   border-color: #3b5998;
 }
+
+
 
 .rounded-social-buttons .social-button.twitter {
   background: #55acee;

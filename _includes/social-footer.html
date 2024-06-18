@@ -16,6 +16,8 @@
     <i class="ai ai-scopus"></i>
     </a>
     {%- endif -%}
+    
+
 
     {%- if site.google_scholar -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
@@ -26,6 +28,20 @@
     </a>
     {%- endif -%}
 
+
+    <!--The insititution icon
+    {%- if site.arxiv -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'arxiv' }}"
+    class="social-button arxiv"
+    href="https://experts.griffith.edu.au/{{ site.arxiv }}" itemprop="sameAs"
+    target="_blank">
+    <i class="ai ai-arxiv"></i>
+    </a>
+    {%- endif -%}
+    -->
+    
+ 
+
     {%- if site.linkedin -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
     class="social-button linkedin"
@@ -34,6 +50,8 @@
     <i class="fab fa-linkedin"></i>
     </a>
     {%- endif -%}
+
+    
 
     <!--
     {%- if site.github -%}
@@ -45,6 +63,10 @@
     </a>
     {%- endif -%}
     -->
+
+    
+  
+    
 
     {%- if site.researchgate -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
@@ -72,6 +94,7 @@
     <i class="fab fa-flickr"></i>
     </a>
     {%- endif -%}
+
 
     {%- if site.twitter -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
