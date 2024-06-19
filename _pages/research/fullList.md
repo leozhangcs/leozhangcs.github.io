@@ -12,6 +12,7 @@ published: true
 
 
 ### Conference Papers
+1. L. Hou, R. Feng, Z. Hua, W. Luo, __L. Y. Zhang__, Y. Li, "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency," in ICML, 2024. (core a*, ccf a)
 1. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, Y. Wang, "DarkFed: A Data-Free Backdoor Attack in Federated Learning," in IJCAI, 2024.  (core a*, ccf a)
 1. H. Zhang, S. Hu, Y. Wang, L. Y. Zhang, Z. Zhou, X. Wang, Y. Zhang, C. Chen,  "Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness," in IJCAI, 2024. (core a*, ccf a)
 1. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, H. Jin, "MISA: Unveiling the Vulnerabilities in Split Federated Learning," in ICASSP, 2024. (ccf b)
@@ -62,6 +63,7 @@ published: true
 1. __Leo Yu Zhang__*, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
   
 ### Journal Papers
+1. L. Hou, Z. Hua,Y. Li, Y. Zheng, __L. Y. Zhang__, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models," IEEE Transactions on Circuits and Systems for Video Technology, in press, 2024. DOI: 10.1109/TCSVT.2024.3417410
 1. M. Xue, X. Wang, Y. Wu, S. Ni, __L. Y. Zhang__, Y. Zhang, W. Liu, "An Explainable Intellectual Property Protection Method for Deep Neural Networks based on Intrinsic Features," IEEE Transactions on Artificial Intelligence, in press, 2024. DOI: 10.1109/TAI.2024.3388389.
 1. X. Xiao, Y. Zhang, __L. Y. Zhang__, Z. Hua, Z. Liu, J. Huang, "FairCMS: Cloud Media Sharing With Fair Copyright Protection," IEEE Transactions on Computational Social Systems, in press, 2024. DOI: 10.1109/TCSS.2024.3374452.
 1. Z. Hou, J. Ning, X. Huang, S. Xu, __L. Y. Zhang__, "Blockchain-based efficient verifiable outsourced attribute-based encryption in cloud," Computer Standards & Interfaces, in press, 2024. DOI: 10.1016/j.csi.2024.103854.
