@@ -22,6 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:  
+- - <span style="color:blue">[ICML'24]</span> L. Hou, R. Feng, Z. Hua, W. Luo, L. Y. Zhang, Y. Li, "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency," in ICML, 2024. (core a*, ccf a)
 - <span style="color:blue">[Oakland'24a]</span>  Y. Zhang, S. Hu, L. Y. Zhang, J. Shi, M. Li, X. Liu, W. Wan, H. Jin, "Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training," in Oakland, 2024. [PDF](https://arxiv.org/abs/2307.07873) [CODE](https://github.com/CGCL-codes/TransferAttackSurrogates) [SLIDES]({{site.baseurl}}/assets/slides/advtransfer.pdf)
 - <span style="color:blue">[Oakland'24b]</span>  X. Mo, Y. Zhang, L. Y. Zhang, W. Luo, N. Sun, S. Hu, S. Gao, Y. Xiang, "Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics," in Oakland, 2024. [PDF](https://arxiv.org/abs/2312.02673) [CODE](https://github.com/tedbackdoordefense/ted) [SLIDES]({{site.baseurl}}/assets/slides/ted.pdf)
 - <span style="color:blue">[Oakland'24c]</span>  Z. Zhou, M. Li, W. Liu, S. Hu, Y. Zhang, W. Wan, L. Xue, L. Y. Zhang, D. Yao, H. Jin, "Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples," in Oakland, 2024. [PDF](https://arxiv.org/abs/2403.10801) [CODE](https://github.com/CGCL-codes/Gen-AF)
