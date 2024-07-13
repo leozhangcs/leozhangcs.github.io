@@ -7,8 +7,8 @@ published: true
 
 
 ### At Griffith
-+ Trustworthy AI: T2-2024
-+ Cyber Security Risk Management: T2-2024
++ Trustworthy AI (3015ICT/7017ICT): T2-2024
++ Cyber Security Risk Management & Standards (2007ICT/7019ICT): T2-2024
 + Programming Principles (1811ICT/2807ICT/7001ICT): T3-2023
 
 

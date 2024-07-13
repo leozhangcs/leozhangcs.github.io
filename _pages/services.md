@@ -11,7 +11,7 @@ published: true
 
 
 ### Program Committee Member
-+ 2025: PETS; 
++ 2025: PETS, AAAI; 
 + 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
 + 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR;
 + 2022: NeurIPS, ACM Multimedia, IJCAI, AAAI, NSS;

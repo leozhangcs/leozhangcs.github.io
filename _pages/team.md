@@ -9,6 +9,7 @@ published: true
 I have a small group at Griffith and Deakin, and I also remotely supervise research students.
 
 ### Current Members:
+
 - Xiaomei Zhang (PhD student@Griffith, starts at Late 2024):
   * Adversarial Robustness in NLP Applications
 - Chenhong Luo (PhD student@Griffith, starts at Late 2024): 
@@ -19,6 +20,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Secure Aggregation With Applications
 - Chenyu Zhu (2024-now, Msc@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)):  
   * Mitigate Backdoor in Object Detection Models
+- Niao Yang (2024-now, Honours student@Griffith):
+  * Malicious Secure Computations
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): 
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
 - Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
