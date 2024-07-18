@@ -23,6 +23,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM) 2024_!
+
 - [Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_!
 
 - [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_!
