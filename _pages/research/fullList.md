@@ -64,7 +64,8 @@ published: true
 1. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
   
 ### Journal Papers
-1. M. Xue, Y. Wu, __L. Y. Zhang__, D. Gu, Y. Zhang, W. Liu, "SSAT: Active Authorization Control and User’s Fingerprint Tracking Framework for DNN IP Protection", ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. DOI: 10.1145/3679202
+1. Y. Wang, __L. Y. Zhang__, X. Zhang, X. Wang, F. Wang, S. Hu, R. Doss, "Towards Threshold Anonymous Announcement With Batch Verification for Cooperative Intelligent Transport Systems," IEEE Transactions on Vehicular Technology, 2024. DOI: 10.1109/TVT.2024.3435930
+1. M. Xue, Y. Wu, __L. Y. Zhang__, D. Gu, Y. Zhang, W. Liu, "SSAT: Active Authorization Control and User’s Fingerprint Tracking Framework for DNN IP Protection," ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. DOI: 10.1145/3679202
 1. L. Hou, Z. Hua, Y. Li, Y. Zheng, __L. Y. Zhang__, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models," IEEE Transactions on Circuits and Systems for Video Technology, in press, 2024. DOI: 10.1109/TCSVT.2024.3417410
 1. M. Xue, X. Wang, Y. Wu, S. Ni, __L. Y. Zhang__, Y. Zhang, W. Liu, "An Explainable Intellectual Property Protection Method for Deep Neural Networks based on Intrinsic Features," IEEE Transactions on Artificial Intelligence, in press, 2024. DOI: 10.1109/TAI.2024.3388389.
 1. X. Xiao, Y. Zhang, __L. Y. Zhang__, Z. Hua, Z. Liu, J. Huang, "FairCMS: Cloud Media Sharing With Fair Copyright Protection," IEEE Transactions on Computational Social Systems, in press, 2024. DOI: 10.1109/TCSS.2024.3374452.
