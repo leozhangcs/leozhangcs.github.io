@@ -25,6 +25,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Aug-24] I will serve as a __Program Committee member__ for _ASIACCS-25_. Looking forward to reviewing your excellent submissions!
+
 - [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM 2024)_!
 
 - [Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_!
