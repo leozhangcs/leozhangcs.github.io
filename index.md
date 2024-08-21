@@ -25,6 +25,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Aug-24] Our new work __Stealing Watermarks of Large Language Models via Mixed Integer Programming__ has been accepted by the 2024 _Annual Computer Security Applications Conference (ACSAC 2024)_!
+
 - [Aug-24] I will serve as a __Program Committee member__ for _ASIACCS-25_. Looking forward to reviewing your excellent submissions!
 
 - [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM 2024)_!
