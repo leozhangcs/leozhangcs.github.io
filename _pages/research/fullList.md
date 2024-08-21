@@ -12,6 +12,7 @@ published: true
 
 
 ### Conference Papers
+1. Z. Zhang, X. Zhang, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Hu, A. Gill, S. Pan, "Stealing Watermarks of Large Language Models via Mixed Integer Programming", in ACSAC, 2024. (core a)
 1. Y. Zhou, Y. Zhang, __L. Y. Zhang__, Zhongyun Hua, "DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in ACM MM, 2024. (core a*, ccf a)
 1. L. Hou, R. Feng, Z. Hua, W. Luo, __L. Y. Zhang__, Y. Li, "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency," in ICML, 2024. (core a*, ccf a)
 1. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, Y. Wang, "DarkFed: A Data-Free Backdoor Attack in Federated Learning," in IJCAI, 2024.  (core a*, ccf a)
