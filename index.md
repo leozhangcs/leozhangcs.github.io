@@ -18,7 +18,7 @@ I am always actively looking for self-motivated students. Please email me your C
 
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
-<h4> &nbsp; I am recruiting 2-4 PhD students with full scholarship to work on quantum-safe algorithms and protocols for the 
+<h4> &nbsp; I am recruiting 2 PhD students with full scholarship to work on quantum-safe algorithms and protocols for the 
 <a href = "https://science.desi.qld.gov.au/industry/quantum/programs">Quantum and Advanced Technologies Program</a>. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
 
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
