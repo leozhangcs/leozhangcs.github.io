@@ -7,7 +7,8 @@ published: true
 
 
 
-## **PhD Student Positions Available – Stipend AU$ 40K per Year (Tax-Free) & Tuition Waiver**
+## **PhD Student Positions Available**
+### **Stipend AU$ 40K per Year (Tax-Free) & Tuition Waiver**
 
 Starting 2025, PhD student positions are available to join my research team at Griffith University. We are seeking **self-motivated** and **hardworking** PhD students to work on cutting-edge topics in the field of  applied cryptography and cybersecurity.
 
