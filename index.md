@@ -24,7 +24,8 @@ I am always actively looking for self-motivated students. Please email me your C
 <h4> &nbsp; The main round of the 2025 Griffith PhD Scholarship is open until 27-08-2024 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
 -->
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
-<h4> &nbsp; I am recruiting 2-4 PhD students with full scholarship to work on quantum-safe algorithms and protocols for the [Quantum and Advanced Technologies Program](https://science.desi.qld.gov.au/industry/quantum/programs). See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
+<h4> &nbsp; I am recruiting 2-4 PhD students with full scholarship to work on quantum-safe algorithms and protocols for the 
+<a href = "https://science.desi.qld.gov.au/industry/quantum/programs">Quantum and Advanced Technologies Program</a>. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
 </p>
 
 
