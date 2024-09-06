@@ -14,7 +14,9 @@ published: true
 I totally understand your eagerness to get accepted to start your Ph.D. journey as early as possible (I have had the same experience at your age), but this is just not how the scholarship selection and admission process work. As a research student, you need to invest a huge amount of time in researching the scholarship selection and admission process of your target supervisor and university/organization. At this stage, my experience and advice could help you accelerate this process and make you more competitive in selection. So, I recommend you drop me an email to express your interest sooner rather than later. 
 -->
 
-### Scholarship Opportunities for PhD Students (long-running schemes)
+<!-- ### Scholarship Opportunities for PhD Students (long-running schemes) -->
+### Scholarship Opportunities for PhD Students
+- [Quantum and Advanced Technologies Program-funded Scholarship]({{site.baseurl}}/CFP/HDR-Adv)
 - Australian University Honours Entry Postgraduate Research Scholarship ([AUHEPS](https://www.griffith.edu.au/research-study/scholarships/griffith-university-honours-entry-postgraduate-research))
 - Griffith University Postgraduate Research Scholarship ([GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs))
 - China Scholarship Council - Griffith University Joint Funding Program ([CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship))
