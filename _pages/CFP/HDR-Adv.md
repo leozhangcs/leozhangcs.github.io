@@ -23,10 +23,10 @@ PhD positions are available in the following areas:
   - A **Master's** or **Honours** degree in **Mathematics, Cybersecurity, Computer Science,** or **Software Engineering**.
   - Applicants must have completed a substantial research project, equivalent to one year's work at the Honours level, or a **Master's by research degree**, or at least 25% research component during a Master’s coursework degree.
   - The research component must have been assessed individually with a **High Distinction (H1)** grade (80–100%).
-  - **Strong background** in mathematics, data structures, algorithms, databases, and computer networks.
-  - Must meet Griffith University’s **English language proficiency requirements**. For details, visit: [English Language Requirements](https://www.griffith.edu.au/apply/international/understanding-entry-requirements).
-  - An overall **H1 grade (80–100%)** in your Honours or Master's degree.
-  - Have >= 2 publications in JCR Q1 journals or equivalent conference papers.
+- **Strong background** in mathematics, data structures, algorithms, databases, and computer networks.
+- Must meet Griffith University’s **English language proficiency requirements**. For details, visit: [English Language Requirements](https://www.griffith.edu.au/apply/international/understanding-entry-requirements).
+- An overall **H1 grade (80–100%)** in your Honours or Master's degree.
+- Have >= 2 publications in JCR Q1 journals or equivalent conference papers.
 
 ### **How to Apply**
 Interested applicants should send the following documents:
