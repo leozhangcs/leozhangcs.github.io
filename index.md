@@ -30,25 +30,27 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
-- [Aug-24] Our new work __Stealing Watermarks of Large Language Models via Mixed Integer Programming__ has been accepted by the 2024 _Annual Computer Security Applications Conference (ACSAC 2024)_!
+- [Aug-24] Our new work __DarkSAM: Fooling Segment Anything Model to Segment Nothing__ has been accepted by the Thirty-eighth _Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_! Congrats, Ziqi!
+
+- [Aug-24] Our new work __Stealing Watermarks of Large Language Models via Mixed Integer Programming__ has been accepted by the 2024 _Annual Computer Security Applications Conference (ACSAC 2024)_! Congrats, Zhaoxi and Xiaomei!
 
 - [Aug-24] I will serve as a __Program Committee member__ for _ASIACCS-25_. Looking forward to reviewing your excellent submissions!
 
-- [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM 2024)_!
+- [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM 2024)_! Congrats, Yuhang!
 
-- [Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_!
+- [Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_! Congrats, Xianlong!
 
-- [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_!
+- [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_! Congrats, Linshan!
 
 - [Apr-24] I will serve as a __Program Committee member__ for _PETS-25_. Looking forward to reviewing your excellent submissions!
 
-- [Apr-24] Our new works __Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness__ and __DarkFed: A Data-Free Backdoor Attack in Federated Learning__ have been accepted by the 33rd _International Joint Conference on Artificial Intelligence (IJCAI 2024)_!
+- [Apr-24] Our new works __Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness__ and __DarkFed: A Data-Free Backdoor Attack in Federated Learning__ have been accepted by the 33rd _International Joint Conference on Artificial Intelligence (IJCAI 2024)_! Congrats, Hangtao and Wei!
 
-- [Mar-24] Our new work __Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds__ has been accepted by the 29th _European Symposium on Research in Computer Security (ESORICS 2024)_!
+- [Mar-24] Our new work __Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds__ has been accepted by the 29th _European Symposium on Research in Computer Security (ESORICS 2024)_! Congrats, Xianlong!
 
-- [Mar-24] Our new work __CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments__ has been accepted by the 19th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024)_!
+- [Mar-24] Our new work __CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments__ has been accepted by the 19th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2024)_! Congrats, Fuyi!
 
-- [Mar-24] Our new work __Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples__ has been accepted with shepherding by the winter round of the 45th _IEEE Symposium on Security and Privacy (Oakland 2024)_! 
+- [Mar-24] Our new work __Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples__ has been accepted with shepherding by the winter round of the 45th _IEEE Symposium on Security and Privacy (Oakland 2024)_! Congrats, Ziqi!
 
 <!--{::options parse_block_html="true" /}
 <details open> <summary markdown="span"> __News__ </summary>
