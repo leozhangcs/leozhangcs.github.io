@@ -9,11 +9,10 @@ published: true
 I have a small group at Griffith and Deakin, and I also remotely supervise research students.
 
 ### Current Members:
-
+- Chenhong Luo (2024.10-now, PhD student@Griffith): 
+  * Private and Fairness-aware Deep Learning
 - Xiaomei Zhang (2024.09-now, PhD student@Griffith):
   * Security Risks in Large Language Model
-- Chenhong Luo (PhD student@Griffith, starts at Late 2024): 
-  * Private and Fairness-aware Deep Learning
 - Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
 - Dong Chen (2024-now, Visiting PhD@Griffith): 
