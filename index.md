@@ -30,7 +30,9 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
-- [Aug-24] Our new work __DarkSAM: Fooling Segment Anything Model to Segment Nothing__ has been accepted by the Thirty-eighth _Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_! Congrats, Ziqi!
+- [Oct-24] I have joined the editorial team of __IEEE Transactions on Multimedia__ as an associate editor. Please submit your good works!
+
+- [Sep-24] Our new work __DarkSAM: Fooling Segment Anything Model to Segment Nothing__ has been accepted by the Thirty-eighth _Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_! Congrats, Ziqi!
 
 - [Aug-24] Our new work __Stealing Watermarks of Large Language Models via Mixed Integer Programming__ has been accepted by the 2024 _Annual Computer Security Applications Conference (ACSAC 2024)_! Congrats, Zhaoxi and Xiaomei!
 
