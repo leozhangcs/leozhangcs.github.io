@@ -19,6 +19,7 @@ published: true
 + ...
 
 ### Editorship
++ Oct. 2024-Now, [Associate Editor](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IEEE Transactions on Multimedia (TMM)
 + Nov. 2023-Now, [Associate Editor](https://www.computer.org/csdl/journal/tq/about/107350), IEEE Transactions on Dependable and Secure Computing (TDSC)
 + 2020-Now, [Academic Editor](https://www.hindawi.com/journals/scn/editors/), Security and Communication Networks (SCN)
 
