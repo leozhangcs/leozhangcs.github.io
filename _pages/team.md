@@ -59,7 +59,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 
 ### Past Members: 
 + Qiuyu Duan (21-24, Msc@@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
-+ [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; now Research Fellow@RMIT): Attack and Defence on PPG-Based Cybersecurity System
++ [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; 24 Research Fellow@RMIT; now Lecturer at SCU@GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU; now Msc student@XMU): Privacy-Aware Multimodal Deep Learning
 + Yanping Wang (22-23, Visiting PhD student from UESTC): Anonymous and authenticated announcements in VANET
 + [Qi Zhong](https://fds.cityu.edu.mo/members/286) (19-23, PhD student@Deakin; now Assistant Professor at CityU@Macau): Intellectual property protection of deep neural models
