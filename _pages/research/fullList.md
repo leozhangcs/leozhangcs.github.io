@@ -12,6 +12,7 @@ published: true
 
 
 ### Conference Papers
+1. Z. Zhou, Y. Song, M. Li, S. Hu, X. Wang, __L. Y. Zhang__, D. Yao, H. Jin, "DarkSAM: Fooling Segment Anything Model to Segment Nothing", in NeurIPS, 2024 (core a*)
 1. Z. Zhang, X. Zhang, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Hu, A. Gill, S. Pan, "Stealing Watermarks of Large Language Models via Mixed Integer Programming", in ACSAC, 2024. (core a)
 1. Y. Zhou, Y. Zhang, __L. Y. Zhang__, Zhongyun Hua, "DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in ACM MM, 2024. (core a*, ccf a)
 1. L. Hou, R. Feng, Z. Hua, W. Luo, __L. Y. Zhang__, Y. Li, "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency," in ICML, 2024. (core a*, ccf a)
@@ -65,6 +66,7 @@ published: true
 1. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
   
 ### Journal Papers
+1. K. Zhang, Z. Hou, Z. Hua, Y. Zheng, __L. Y. Zhang__, "Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement", IEEE Transactions on Circuits and Systems for Video Technology, 2024. DOI: 10.1109/TCSVT.2024.3462985
 1. Y. Wang, __L. Y. Zhang__, X. Zhang, X. Wang, F. Wang, S. Hu, R. Doss, "Towards Threshold Anonymous Announcement With Batch Verification for Cooperative Intelligent Transport Systems," IEEE Transactions on Vehicular Technology, 2024. DOI: 10.1109/TVT.2024.3435930
 1. M. Xue, Y. Wu, __L. Y. Zhang__, D. Gu, Y. Zhang, W. Liu, "SSAT: Active Authorization Control and User’s Fingerprint Tracking Framework for DNN IP Protection," ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. DOI: 10.1145/3679202
 1. L. Hou, Z. Hua, Y. Li, Y. Zheng, __L. Y. Zhang__, "M-to-N Backdoor Paradigm: A Multi-Trigger and Multi-Target Attack to Deep Learning Models," IEEE Transactions on Circuits and Systems for Video Technology, in press, 2024. DOI: 10.1109/TCSVT.2024.3417410
