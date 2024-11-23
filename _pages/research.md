@@ -41,10 +41,19 @@ Given the critical importance of trust and transparency in AI technologies, addr
 
 ### Applied Cryptography:
 Cryptography serves as a fundamental building block for information security, and applied cryptography aims to bridge theory and practice by studying the best practical implementation and usage of cryptographic algorithms for real-world applications. My research in this area covers the following different aspects:
-- Differentially private algorithms and applications <span style="color:blue"> [[TIFS'22]({{site.baseurl}}/research/appCrypt)] </span>  
-- Privacy-preserving machine learning <span style="color:blue"> [[TDSC'19]({{site.baseurl}}/research/appCrypt)], [[ISCC'22]({{site.baseurl}}/research/appCrypt)]</span>  
-- Customized multi-party computation protocols for new applications <span style="color:blue"> [[Asia CCS'24]({{site.baseurl}}/research/appCrypt)], [[ACNS'23]({{site.baseurl}}/research/appCrypt)], [[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>  
-- Emerging authentication methods <span style="color:blue"> [[TVT'24]({{site.baseurl}}/research/appCrypt)], [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
+- Differentially private algorithms and applications <span style="color:blue"> 
+[[TC'24]({{site.baseurl}}/research/appCrypt)]
+[[TIFS'22]({{site.baseurl}}/research/appCrypt)] </span>  
+- Privacy-preserving machine learning <span style="color:blue"> 
+[[TDSC'19]({{site.baseurl}}/research/appCrypt)], 
+[[ISCC'22]({{site.baseurl}}/research/appCrypt)]</span>  
+- Customized multi-party computation protocols for new applications <span style="color:blue"> 
+[[Asia CCS'24]({{site.baseurl}}/research/appCrypt)], 
+[[ACNS'23]({{site.baseurl}}/research/appCrypt)], 
+[[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>  
+- Emerging authentication methods <span style="color:blue"> 
+[[ACNS'25]({{site.baseurl}}/research/appCrypt)], 
+[[TVT'24]({{site.baseurl}}/research/appCrypt)], [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
 
 
 

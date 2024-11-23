@@ -21,6 +21,8 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 -->
 
 #### Selected Publications in Applied Cryptography:  
+- <span style="color:blue">[ACNS'25]</span> F. Wang, J. Ouyang, L. Y. Zhang, L. Pan, S. Hu, R. Doss, J. Zhou, "SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation", in ACNS, 2025.
+- <span style="color:blue">[TC'24]</span> C. Luo, Y. Wang, Y. Zhang, L. Y. Zhang, "Distributed Differentially Private Matrix Factorization for Implicit Data via Secure Aggregation", IEEE Transactions on Computers, 2024. DOI: 10.1109/TC.2024.3500383
 - <span style="color:blue">[TVT'24]</span>   Y. Wang, L. Y. Zhang, X. Zhang, X. Wang, F. Wang, S. Hu, R. Doss, "Towards Threshold Anonymous Announcement With Batch Verification for Cooperative Intelligent Transport Systems," IEEE Transactions on Vehicular Technology, 2024. DOI: 10.1109/TVT.2024.3435930
 - <span style="color:blue">[Asia CCS'24]</span>   F. Wang, Z. Chen, L. Pan, L. Y. Zhang, J. Zhou, "CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments," in AsiaCCS, 2024.
 - <span style="color:blue">[RAID'23]</span> L. Li, C. Chen, L. Pan, L. Y. Zhang, J. Zhang, Y. Xiang, "SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display," in RAID, 2023. 
