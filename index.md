@@ -30,6 +30,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Nov-24] I will co-organise [RAID'25](https://raid2025.github.io/index.html) as a local chair.!
+
 - [Oct-24] I have joined the editorial team of __IEEE Transactions on Multimedia__ as an associate editor. Please submit your good works!
 
 - [Sep-24] Our new work __DarkSAM: Fooling Segment Anything Model to Segment Nothing__ has been accepted by the Thirty-eighth _Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_! Congrats, Ziqi!
