@@ -18,10 +18,14 @@ I am always actively looking for self-motivated students. Please email me your C
 
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<h4> &nbsp; I am recruiting 2 PhD students with full scholarship to work on Trustworthy AI. See <a href = "{{site.baseurl}}/CFP/AI-HDR-Adv">here</a> for more information.</h4>
+
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
 
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; <del>1 CSC PhD students and 2</del> 1 visiting positions are available for 2025! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
+
 <!--
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; The main round of the 2025 Griffith PhD Scholarship is open until 27-08-2024 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
