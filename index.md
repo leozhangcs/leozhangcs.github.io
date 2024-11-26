@@ -18,12 +18,12 @@ I am always actively looking for self-motivated students. Please email me your C
 
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
-<h4> &nbsp; I am recruiting ~~2~~ 1 PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
-<p>
+<h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
+</p>
 
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
-<h4> &nbsp; ~~1~~ 0 CSC PhD students and <s>2<s> 1 visiting positions are available for 2025! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
+<h4> &nbsp; <del>1</del> 0 CSC PhD students and <del>2</del> 1 visiting positions are available for 2025! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
 <!--
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; The main round of the 2025 Griffith PhD Scholarship is open until 27-08-2024 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
@@ -67,6 +67,7 @@ I am always actively looking for self-motivated students. Please email me your C
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">Older News</summary>
+
 [Dec-23] Glad to share that our three papers, __Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation__, __Conditional Backdoor Attack via JPEG Compression__, __Revisiting Gradient Pruning: A Dual Realization for Defending Against Gradient Attacks__, have been accepted by the 38th _AAAI Conference on Artificial Intelligence (AAAI-24)_!
 
 [Nov-23] I have joined the editorial team of __IEEE Transactions on Dependable and Secure Computing__ as an associate editor. Please submit your good works!
