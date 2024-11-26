@@ -10,7 +10,7 @@ published: true
 ## **PhD Student Positions Available in Trustworthy AI**
 ### **Stipend AU$ 38K per Year (Tax-Free) & Tuition Waiver**
 
-Starting 2025, PhD student positions are available to join my research team at Griffith University. We are seeking **self-motivated** and **hardworking** PhD students to work on cutting-edge topics in the field of **Trustworthy AI** and Foundation Model Security.
+Starting 2025, PhD student positions are available to join my research team at Griffith University. We are seeking **self-motivated** and **hardworking** PhD students to work on cutting-edge topics in the field of **Trustworthy AI and Foundation Model Security**.
 
 ### **Research Areas**
 PhD positions are available in the following areas:
@@ -25,7 +25,7 @@ PhD positions are available in the following areas:
   - A **Master's** or **Honours** degree in **Computer Science, Software Engineering, Mathematics** or **Cybersecurity**.
   - Applicants must have completed a substantial research project, equivalent to one year's work at the Honours level, or a **Master's by research degree**, or at least 25% research component during a Master’s coursework degree to meet the University's requirement. 
   - The research component must have been assessed individually with a **High Distinction (H1)** grade (80–100%).
-- **Strong background** in mathematics, data structures, algorithms, databases, and computer networks.
+- **Strong skills/knowledge** in python, mathematics, data structures, algorithms, databases, and computer networks.
 - Must meet Griffith University’s **English language proficiency requirements**. For details, visit: [English Language Requirements](https://www.griffith.edu.au/apply/international/understanding-entry-requirements).
 - An overall **H1 grade (80–100%)** in your Honours or Master's degree.
 - Have publications in refereed conferences or journals is a bonus.
