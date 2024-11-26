@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /CFP/HDR-Adv
+permalink: /CFP/AI-HDR-Adv
 published: true
 ---
 
