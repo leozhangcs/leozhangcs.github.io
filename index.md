@@ -33,6 +33,7 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+
 - [Dec-24] Our new work __SEBioID: Secure and Efficient Biometric Identification with
   Two-Party Computation__ has been accepted by the 2025 _International Conference on Applied Cryptography and Network Security (ACNS, Cycle 1 AR =15.5%)_! Congrats, Fuyi!
 
