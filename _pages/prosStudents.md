@@ -16,6 +16,7 @@ I totally understand your eagerness to get accepted to start your Ph.D. journey 
 
 <!-- ### Scholarship Opportunities for PhD Students (long-running schemes) -->
 ### Scholarship Opportunities for PhD Students
+- [2 Full Scholarship]({{site.baseurl}}/CFP/AI-HDR-Adv) supported by the ARC LP and ARC DP grants
 - [2 Full Scholarship]({{site.baseurl}}/CFP/HDR-Adv) supported by the Quantum and Advanced Technologies Program
 - Australian University Honours Entry Postgraduate Research Scholarship ([AUHEPS](https://www.griffith.edu.au/research-study/scholarships/griffith-university-honours-entry-postgraduate-research))
 - Griffith University Postgraduate Research Scholarship ([GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs))
