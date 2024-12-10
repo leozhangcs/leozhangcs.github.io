@@ -33,7 +33,7 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
-- [Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by AAAI 2025! Congrats, Ziqi, Xianlong, and Yechao!
+- [Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by _AAAI 2025_! Congrats, Ziqi, Xianlong, and Yechao!
 
 - [Dec-24] Our new work __PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks__ has been accepted by the 2025 _International Conference Financial Cryptography and Data Security (FC 2025, AR =15.7%)_! Well done, Fuyi!
 
