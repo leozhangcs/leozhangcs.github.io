@@ -33,6 +33,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th Usenix Security Symposium_! Congrats to Dayong and the team! 
+
 - [Jan-25] Our new work __BadRobot: Manipulating Embodied LLMs in the Physical World__ has been accepted by the 2025 _International Conference on Learning Representations (ICLR)_! Congrats, Hangtao!
 
 - [Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by _AAAI 2025_! Congrats, Ziqi, Xianlong, and Yechao!
