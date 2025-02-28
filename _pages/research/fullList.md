@@ -12,6 +12,8 @@ published: true
 
 
 ### Conference Papers
+1. Z. Zhou, B. Li, Y. Song, Z. Yu, S. Hu, W. Wan, __L. Y. Zhang__, D. Yao, H. Jin, "NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors", in AAAI, 2025. (core a*, ccf a)
+1. F. Wang, Z. Chen, M. Fan, J. Zhou, L. Pan, __L. Y. Zhang__, "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks", in International Conference on Financial Cryptography and Data Security (FC), 2025. (core a, ccf c)
 1. F. Wang, J. Ouyang, __L. Y. Zhang__, L. Pan, S. Hu, R. Doss, J. Zhou, "SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation", in ACNS, 2025. (ccf c)
 1. F. Wang, J. Ouyang, L. Pan, __L. Y. Zhang__, X. Liu, Y. Wang, R. Doss, "TrustMIS: Trust-Enhanced Inference Framework for Medical Imaging Segmentation", in ECAI, 2024. (core a)
 1. Z. Zhang, X. Zhang, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Hu, A. Gill, S. Pan, "Stealing Watermarks of Large Language Models via Mixed Integer Programming", in ACSAC, 2024. (core a)
