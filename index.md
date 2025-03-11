@@ -51,14 +51,13 @@ I am always actively looking for self-motivated students. Please email me your C
 <details>
 <summary markdown="span">Older News</summary>
 
-- [Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by _AAAI 2025_! Congrats, Ziqi, Xianlong, and Yechao!
+[Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by _AAAI 2025_! Congrats, Ziqi, Xianlong, and Yechao!
 
-- [Dec-24] Our new work __PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks__ has been accepted by the 2025 _International Conference Financial Cryptography and Data Security (FC 2025, AR =15.7%)_! Well done, Fuyi!
+[Dec-24] Our new work __PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks__ has been accepted by the 2025 _International Conference Financial Cryptography and Data Security (FC 2025, AR =15.7%)_! Well done, Fuyi!
 
-- [Dec-24] Our new work __SEBioID: Secure and Efficient Biometric Identification with
-  Two-Party Computation__ has been accepted by the 2025 _International Conference on Applied Cryptography and Network Security (ACNS 2025, Cycle 1 AR =15.5%)_! Congrats, Fuyi!
+[Dec-24] Our new work __SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation__ has been accepted by the 2025 _International Conference on Applied Cryptography and Network Security (ACNS 2025, Cycle 1 AR =15.5%)_! Congrats, Fuyi!
 
-- [Nov-24] I will co-organise [RAID'25](https://raid2025.github.io/index.html) as a local chair. Please submit your good works!
+[Nov-24] I will co-organise [RAID'25](https://raid2025.github.io/index.html) as a local chair. Please submit your good works!
 
 [Oct-24] I have joined the editorial team of __IEEE Transactions on Multimedia__ as an associate editor. Please submit your good works!
 
