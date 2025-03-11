@@ -21,7 +21,7 @@ I am always actively looking for self-motivated students. Please email me your C
 <h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on Trustworthy AI. See <a href = "{{site.baseurl}}/CFP/AI-HDR-Adv">here</a> for more information.</h4>
 
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
-<h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</h4>
+<h4> &nbsp; <del>I am recruiting 2  PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</del></h4>
 
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; 2 CSC PhD students and <del>2</del> 1 CSC visiting positions are available for 2026! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
