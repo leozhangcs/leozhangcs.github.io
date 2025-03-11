@@ -33,6 +33,8 @@ I am always actively looking for self-motivated students. Please email me your C
 
 
 ### News
+- [Mar-25] Two new works, __Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset__ and __Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning__, have been accepted by the _46th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Yechao, Zirui and the team!
+
 - [Feb-25] Our new work __Test-Time Backdoor Detection for Object Detection Models__ has been accepted by the 2025 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_! Well done, Hangtao!
 
 - [Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th Usenix Security Symposium_! Congrats to Dayong and the team! 
