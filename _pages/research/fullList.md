@@ -12,18 +12,28 @@ published: true
 
 
 ### Conference Papers
-1. Z. Zhou, B. Li, Y. Song, Z. Yu, S. Hu, W. Wan, __L. Y. Zhang__, D. Yao, H. Jin, "NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors", in AAAI, 2025. (core a*, ccf a)
-1. F. Wang, Z. Chen, M. Fan, J. Zhou, L. Pan, __L. Y. Zhang__, "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks", in International Conference on Financial Cryptography and Data Security (FC), 2025. (core a, ccf c)
-1. F. Wang, J. Ouyang, __L. Y. Zhang__, L. Pan, S. Hu, R. Doss, J. Zhou, "SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation", in ACNS, 2025. (ccf c)
-1. F. Wang, J. Ouyang, L. Pan, __L. Y. Zhang__, X. Liu, Y. Wang, R. Doss, "TrustMIS: Trust-Enhanced Inference Framework for Medical Imaging Segmentation", in ECAI, 2024. (core a)
-1. Z. Zhang, X. Zhang, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Hu, A. Gill, S. Pan, "Stealing Watermarks of Large Language Models via Mixed Integer Programming", in ACSAC, 2024. (core a)
-1. Y. Zhou, Y. Zhang, __L. Y. Zhang__, Zhongyun Hua, "DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group", in ACM MM, 2024. (core a*, ccf a)
+1. D. Ye, T. Zhu, J. Li, K. Gao, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning," in Usenix Security, 2025. (core a*, ccf a)
+1. D. Ye, T. Zhu, S. Wang, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, 
+"Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI," in Usenix Security, 2025. (core a*, ccf a)
+1. H. Zhang, Y. Wang, S. Yan, C. Zhu, Z. Zhou, L. Hou, S. Hu, M. Li, Y. Zhang, __L. Y. Zhang__, "CVPR: Test-Time Backdoor Detection for Object Detection Models," in CVPR, 2025. (core a*, ccf a)
+1. H. Zhang, C. Zhu, X. Wang, Z. Zhou, C. Yin, M. Li, L. Xue, Y. Wang, S. Hu, A. Liu, P. Guo, __L. Y Zhang__, "BadRobot: Jailbreaking Embodied LLMs in the Physical World," in ICLR, 2025. (core a*)
+1. M. Li, X. Wang, Z. Yu, S. Hu, Z. Zhou, L. Zhang, __L. Y. Zhang__, "Detecting and Corrupting Convolution-based Unlearnable Examples," in AAAI, 2025. (core a*, ccf a)
+1. Y. Zhang, Y. Xu, J. Shi, __L. Y. Zhang__, S. Hu, M. Li, Y. Zhang, 
+"Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization," in AAAI, 2025. (core a*, ccf a)
+1. Z. Zhou, B. Li, Y. Song, Z. Yu, S. Hu, W. Wan, __L. Y. Zhang__, D. Yao, H. Jin, "NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors," in AAAI, 2025. (core a*, ccf a)
+1. F. Wang, Z. Chen, M. Fan, J. Zhou, L. Pan, __L. Y. Zhang__, "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks," in International Conference on Financial Cryptography and Data Security (FC), 2025. (core a, ccf c)
+1. F. Wang, J. Ouyang, __L. Y. Zhang__, L. Pan, S. Hu, R. Doss, J. Zhou, "SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation," in ACNS, 2025. (ccf c)
+1. F. Wang, J. Ouyang, L. Pan, __L. Y. Zhang__, X. Liu, Y. Wang, R. Doss, "TrustMIS: Trust-Enhanced Inference Framework for Medical Imaging Segmentation," in ECAI, 2024. (core a)
+1. Z. Zhang, X. Zhang, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Hu, A. Gill, S. Pan, "Stealing Watermarks of Large Language Models via Mixed Integer Programming," in ACSAC, 2024. (core a)
+1. Y. Zhou, Y. Zhang, __L. Y. Zhang__, Zhongyun Hua, "DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group," in ACM MM, 2024. (core a*, ccf a)
 1. L. Hou, R. Feng, Z. Hua, W. Luo, __L. Y. Zhang__, Y. Li, "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency," in ICML, 2024. (core a*, ccf a)
 1. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, Y. Wang, "DarkFed: A Data-Free Backdoor Attack in Federated Learning," in IJCAI, 2024.  (core a*, ccf a)
 1. H. Zhang, S. Hu, Y. Wang, L. Y. Zhang, Z. Zhou, X. Wang, Y. Zhang, C. Chen,  "Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness," in IJCAI, 2024. (core a*, ccf a)
 1. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, H. Jin, "MISA: Unveiling the Vulnerabilities in Split Federated Learning," in ICASSP, 2024. (ccf b)
 1. Z. Zhou, M. Li, W. Liu, S. Hu, Y. Zhang, W. Wan, L. Xue, __L. Y. Zhang__, D. Yao, H. Jin, "Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples," in Oakland, 2024. (core a*, ccf a)
-1. X. Wang, S. Hu, P. Xu, W. Liu, __L. Y. Zhang__, M. Li, Y. Zhang, “Exploiting Class-Wise Rotation for Availability Poisoning Attacks in 3D Point Clouds,” in Esorics, 2024. (core a, ccf b) 
+1. X. Wang, S. Hu, Y. Zhang, Z. Zhou, __L. Y. Zhang__, P. Xu, W. Wan, H. Jin, 
+"ECLIPSE: Expunging clean-label indiscriminate poisons via sparse diffusion purification," in Esorics, 2024. (core a, ccf b)
+1. X. Wang, S. Hu, P. Xu, W. Liu, __L. Y. Zhang__, M. Li, Y. Zhang, “PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds,” in Esorics, 2024. (core a, ccf b) 
 1. F. Wang, Z. Chen, L. Pan, __L. Y. Zhang__, J. Zhou, "CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments," in AsiaCCS, 2024. (core a, ccf c)
 1. D. Mi, Y. Zhang, __L. Y. Zhang__, S. Hu, Q. Zhong, H. Yuan, S. Pan, "Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation," in AAAI, 2024. (core a*, ccf a)
 1. Q. Duan, Z. Hua, Q. Liao, Y. Zhang, __L. Y. Zhang__, "Conditional Backdoor Attack via JPEG Compression," in AAAI, 2024. (core a*, ccf a)
@@ -69,6 +79,7 @@ published: true
 1. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
   
 ### Journal Papers
+1. K. Zhang, Z. Hou, Z. Hua, Y. Zheng, __L. Y. Zhang__, "Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement," IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no.  1, pp. 953 - 966, 2025. DOI: 10.1109/TCSVT.2024.3462985
 1. C. Luo, Y. Wang, Y. Zhang, __L. Y. Zhang__, "Distributed Differentially Private Matrix Factorization for Implicit Data via Secure Aggregation", IEEE Transactions on Computers, 2024. DOI: 10.1109/TC.2024.3500383
 1. Y. Wang, __L. Y. Zhang__, X. Zhang, X. Wang, F. Wang, S. Hu, R. Doss, "Towards Threshold Anonymous Announcement With Batch Verification for Cooperative Intelligent Transport Systems," IEEE Transactions on Vehicular Technology, 2024. DOI: 10.1109/TVT.2024.3435930
 1. M. Xue, Y. Wu, __L. Y. Zhang__, D. Gu, Y. Zhang, W. Liu, "SSAT: Active Authorization Control and User’s Fingerprint Tracking Framework for DNN IP Protection," ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. DOI: 10.1145/3679202
