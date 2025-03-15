@@ -80,6 +80,7 @@ published: true
   
 ### Journal Papers
 1. K. Zhang, Z. Hou, Z. Hua, Y. Zheng, __L. Y. Zhang__, "Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement," IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no.  1, pp. 953 - 966, 2025. DOI: 10.1109/TCSVT.2024.3462985
+1. K. T. Noor, A. Robles-Kelly, __L. Y. Zhang__, M. R. Bouadjenek, W. Luo, "A consistency-aware deep capsule network for hierarchical multi-label image classification," vol. 604, article no. 128376, 2024. DOI: 10.1016/j.neucom.2024.128376
 1. C. Luo, Y. Wang, Y. Zhang, __L. Y. Zhang__, "Distributed Differentially Private Matrix Factorization for Implicit Data via Secure Aggregation", IEEE Transactions on Computers, 2024. DOI: 10.1109/TC.2024.3500383
 1. Y. Wang, __L. Y. Zhang__, X. Zhang, X. Wang, F. Wang, S. Hu, R. Doss, "Towards Threshold Anonymous Announcement With Batch Verification for Cooperative Intelligent Transport Systems," IEEE Transactions on Vehicular Technology, 2024. DOI: 10.1109/TVT.2024.3435930
 1. M. Xue, Y. Wu, __L. Y. Zhang__, D. Gu, Y. Zhang, W. Liu, "SSAT: Active Authorization Control and User’s Fingerprint Tracking Framework for DNN IP Protection," ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. DOI: 10.1145/3679202
