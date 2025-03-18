@@ -15,8 +15,9 @@ published: true
 1. D. Ye, T. Zhu, J. Li, K. Gao, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning," in Usenix Security, 2025. (core a*, ccf a)
 1. D. Ye, T. Zhu, S. Wang, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, 
 "Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI," in Usenix Security, 2025. (core a*, ccf a)
-1. H. Zhang, Y. Wang, S. Yan, C. Zhu, Z. Zhou, L. Hou, S. Hu, M. Li, Y. Zhang, __L. Y. Zhang__, "CVPR: Test-Time Backdoor Detection for Object Detection Models," in CVPR, 2025. (core a*, ccf a)
+1. H. Zhang, Y. Wang, S. Yan, C. Zhu, Z. Zhou, L. Hou, S. Hu, M. Li, Y. Zhang, __L. Y. Zhang__, "Test-Time Backdoor Detection for Object Detection Models," in CVPR, 2025. (core a*, ccf a)
 1. H. Zhang, C. Zhu, X. Wang, Z. Zhou, C. Yin, M. Li, L. Xue, Y. Wang, S. Hu, A. Liu, P. Guo, __L. Y Zhang__, "BadRobot: Jailbreaking Embodied LLMs in the Physical World," in ICLR, 2025. (core a*)
+1. Z. Zhou, Y. Song, M. Li, S. Hu, X. Wang, __L. Y. Zhang__, D. Yao, H. Jin, "DarkSAM: Fooling Segment Anything Model to Segment Nothing," in NeurIPS, 2025. (core a*, ccf a)
 1. M. Li, X. Wang, Z. Yu, S. Hu, Z. Zhou, L. Zhang, __L. Y. Zhang__, "Detecting and Corrupting Convolution-based Unlearnable Examples," in AAAI, 2025. (core a*, ccf a)
 1. Y. Zhang, Y. Xu, J. Shi, __L. Y. Zhang__, S. Hu, M. Li, Y. Zhang, 
 "Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization," in AAAI, 2025. (core a*, ccf a)
