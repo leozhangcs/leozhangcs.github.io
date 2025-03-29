@@ -31,7 +31,8 @@ The complete list of my publications can be found [here]({{site.baseurl}}/resear
 
 ### Trustworthy AI:
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
-- Investigating the security and privacy issues of foundation models <span style="color:blue"> [[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Machine unlearning and its security and privacy issues:<span style="color:blue"> [[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span> 
+- Investigating the security and privacy issues of foundation models <span style="color:blue"> [[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)], [[SEC'25b]({{site.baseurl}}/research/trustworthyAI)] </span>  
 - Understanding and improving adversarial robustness <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
 - Designing and defeating poisoning attacks <span style="color:blue"> 
 [[ICML'24]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
