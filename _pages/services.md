@@ -11,8 +11,8 @@ published: true
 + 2023: [CIMSS](https://cimssworkshop.github.io/contents/CIMSS2023/contents/committee.html) (co-located with ACNS2023, Workshop Chair)
 
 
-### Program Committee Member
-+ 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS; 
+### Program Committee/SPC/AC
++ 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS (AC); 
 + 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
 + 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR;
 + 2022: NeurIPS, ACM Multimedia, IJCAI, AAAI, NSS;
