@@ -79,6 +79,7 @@ published: true
 1. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
   
 ### Journal Papers
+1. J. Wei, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Pan, K. Ong, "Extracting Private Training Data in Federated Learning from Clients," IEEE Transactions on Information Forensics and Security, 2025. DOI: 10.1109/TIFS.2025.3558581
 1. K. Zhang, Z. Hou, Z. Hua, Y. Zheng, __L. Y. Zhang__, "Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement," IEEE Transactions on Circuits and Systems for Video Technology, vol. 35, no.  1, pp. 953 - 966, 2025. DOI: 10.1109/TCSVT.2024.3462985
 1. K. T. Noor, A. Robles-Kelly, __L. Y. Zhang__, M. R. Bouadjenek, W. Luo, "A consistency-aware deep capsule network for hierarchical multi-label image classification," vol. 604, article no. 128376, 2024. DOI: 10.1016/j.neucom.2024.128376
 1. C. Luo, Y. Wang, Y. Zhang, __L. Y. Zhang__, "Distributed Differentially Private Matrix Factorization for Implicit Data via Secure Aggregation", IEEE Transactions on Computers, 2024. DOI: 10.1109/TC.2024.3500383
