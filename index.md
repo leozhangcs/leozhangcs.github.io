@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Apr-25] Our new work __When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning__ has been directly accepted (14 out of 269) to  Cycle 2 of the 20th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2025)_! Congrats, Ruining!
+- [Apr-25] Our new work __When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning__ has been directly accepted (14 out of 269) to Cycle 2 of the 20th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2025)_! Congrats, Ruining!
 
 - [Apr-25] I will serve as an __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
 
