@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Apr-25] I will serve as a __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
+- [Apr-25] I will serve as an __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
 
 - [Mar-25] I will serve as a __Program Committee member__ for _ACSAC-25_. Excited to review your outstanding work!
 
