@@ -34,7 +34,9 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Mar-25] I will serve as a __Program Committee member__ for _ACSAC-25_. Looking forward to reviewing your excellent submissions!
+- [Apr-25] I will serve as a __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
+
+- [Mar-25] I will serve as a __Program Committee member__ for _ACSAC-25_. Excited to review your outstanding work!
 
 - [Mar-25] Two new works, __Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset__ and __Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning__, have been accepted by the _46th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Yechao, Zirui and the team!
 
