@@ -13,7 +13,7 @@ published: true
 
 ### Conference Papers
 1. Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, __L. Y. Zhang__, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a)
-1. Z. Gong, Y. Zhang, _L. Y. Zhang_, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a)
+1. Z. Gong, Y. Zhang, __L. Y. Zhang__, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a)
 1. D. Ye, T. Zhu, J. Li, K. Gao, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning," in Usenix Security, 2025. (core a*, ccf a)
 1. D. Ye, T. Zhu, S. Wang, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI," in Usenix Security, 2025. (core a*, ccf a)
 1. H. Zhang, Y. Wang, S. Yan, C. Zhu, Z. Zhou, L. Hou, S. Hu, M. Li, Y. Zhang, __L. Y. Zhang__, "Test-Time Backdoor Detection for Object Detection Models," in CVPR, 2025. (core a*, ccf a)
