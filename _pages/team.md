@@ -45,8 +45,6 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Architecture and Algorithm Design for Hierarchical Classification
 - Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
   * Proactive Defense Mechanisms for Internet of Things
-- Fuyi Wang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Lei PAN](https://scholar.google.com.hk/citations?user=fxf8zr0AAAAJ)): 
-  * Secure Multiparty Computation Techniques and Applications
 - Bilal Hussain Abbasi (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
   * Poisoning Attacks in Deep Learning
 - Zeming Yao (2021-now, PhD student@Swinburne, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)): 
@@ -58,7 +56,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 
 
 ### Past Members: 
-- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (20-25.7, PhD@HUST; Assistant Professor@CityU Macau): Poisoning Attack and Defense in Federated Learning
+- [Fuyi Wang](https://scholar.google.com.hk/citations?user=I6Qh0k0AAAAJ) (2021-2025.4, PhD@Deakin, now Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
+- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (20-25.7, PhD@HUST; now Assistant Professor@CityU Macau): Poisoning Attack and Defense in Federated Learning
 + Qiuyu Duan (21-24, Msc@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; 24 Research Fellow@RMIT; now Lecturer at SCU@GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU; now Msc student@XMU): Privacy-Aware Multimodal Deep Learning
