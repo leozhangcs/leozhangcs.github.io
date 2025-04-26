@@ -51,13 +51,13 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Preventing Neural Trojan in Computer Vision
 - Di Mi (21-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
   * Model Extraction Attack and Defense in Image-to-Image Translation
-- [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2020-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ))
-  * Adversarial Robustness in Deep Learning
+
 
 
 ### Past Members: 
-- [Fuyi Wang](https://scholar.google.com.hk/citations?user=I6Qh0k0AAAAJ) (21-25.4, PhD@Deakin, now Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
-- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (21-25.7, PhD@HUST; now Assistant Professor@CityU Macau): Research on Key Technologies for Robustness Evaluation and Robustness Enhancement in Federated Learning
++ [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2022-2025.7, PhD@HUST): Research on the Transfer Mechanism of Security Vulnerabilities in Deep Learning Models
++ [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (21-25.7, PhD@HUST; now Assistant Professor@CityU Macau): Research on Key Technologies for Robustness Evaluation and Robustness Enhancement in Federated Learning
++ [Fuyi Wang](https://academics.rmit.edu.au/fuyi-wang/) (21-25.4, PhD@Deakin, now Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
 + Qiuyu Duan (21-24, Msc@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; 24 Research Fellow@RMIT; now Lecturer@SCU GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU; now Msc student@XMU): Privacy-Aware Multimodal Deep Learning
