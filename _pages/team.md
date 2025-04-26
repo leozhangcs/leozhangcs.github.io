@@ -55,12 +55,11 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Model Extraction Attack and Defense in Image-to-Image Translation
 - [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2020-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ))
   * Adversarial Robustness in Deep Learning
-- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (2020-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ))
-  * Poisoning Attack and Defense in Federated Learning
 
 
 ### Past Members: 
-+ Qiuyu Duan (21-24, Msc@@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
+- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (20-25.7, PhD@HUST; assistant professor@ CityU Macau): Poisoning Attack and Defense in Federated Learning
++ Qiuyu Duan (21-24, Msc@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; 24 Research Fellow@RMIT; now Lecturer at SCU@GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU; now Msc student@XMU): Privacy-Aware Multimodal Deep Learning
 + Yanping Wang (22-23, Visiting PhD student from UESTC): Anonymous and authenticated announcements in VANET
