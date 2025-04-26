@@ -58,10 +58,10 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 + [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2022-2025.7, PhD@HUST): Research on the Transfer Mechanism of Security Vulnerabilities in Deep Learning Models
 + [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (21-25.7, PhD@HUST -> Assistant Professor@CityU Macau): Research on Key Technologies for Robustness Evaluation and Robustness Enhancement in Federated Learning
 + [Fuyi Wang](https://academics.rmit.edu.au/fuyi-wang/) (21-25.4, PhD@Deakin -> Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
-+ Qiuyu Duan (21-24, Msc@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
++ Qiuyu Duan (21-24, Msc@HITsz -> Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne -> Lecturer@SCU GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU -> Msc student@XMU): Privacy-Aware Multimodal Deep Learning
-+ Yanping Wang (22-23, Visiting PhD student from UESTC): Anonymous and authenticated announcements in VANET
++ Yanping Wang (22-23, Visiting PhD from UESTC -> Lecturer@Xihua Uni): Anonymous and authenticated announcements in VANET
 + [Qi Zhong](https://fds.cityu.edu.mo/members/286) (19-23, PhD student@Deakin -> Assistant Professor@CityU Macau): Intellectual property protection of deep neural models
 + Run Ran (19-22, CQUPT; now PhD student at PolyU@HK): Differential-private recommender system
 + [Nan Sun](https://www.unsw.edu.au/staff/nan-sun) (17-20, PhD student@Deakin; 20-21 Rearch Fellow@Deakin -> Lecturer@UNSW): Data-driven cybersecurity incident prediction and discovery
