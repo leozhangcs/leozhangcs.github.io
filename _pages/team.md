@@ -58,12 +58,12 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 
 
 ### Past Members: 
-- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (20-25.7, PhD@HUST; assistant professor@ CityU Macau): Poisoning Attack and Defense in Federated Learning
+- [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (20-25.7, PhD@HUST; assistant professor@CityU Macau): Poisoning Attack and Defense in Federated Learning
 + Qiuyu Duan (21-24, Msc@HITsz; now Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne; 24 Research Fellow@RMIT; now Lecturer at SCU@GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU; now Msc student@XMU): Privacy-Aware Multimodal Deep Learning
 + Yanping Wang (22-23, Visiting PhD student from UESTC): Anonymous and authenticated announcements in VANET
-+ [Qi Zhong](https://fds.cityu.edu.mo/members/286) (19-23, PhD student@Deakin; now Assistant Professor at CityU@Macau): Intellectual property protection of deep neural models
++ [Qi Zhong](https://fds.cityu.edu.mo/members/286) (19-23, PhD student@Deakin;  Assistant Professor@CityU Macau): Intellectual property protection of deep neural models
 + Run Ran (19-22, CQUPT; now PhD student at PolyU@HK): Differential-private recommender system
 + [Nan Sun](https://www.unsw.edu.au/staff/nan-sun) (17-20, PhD student@Deakin; 20-21 Rearch Fellow@Deakin; now Lecturer at UNSW): Data-driven cybersecurity incident prediction and discovery
 + Junyang Qiu (17-20, now Research Scientist@Jiangnan Institute of Computing Technology): Data-Driven Android Malware Intelligence with Machine Learning through Static Analysis
