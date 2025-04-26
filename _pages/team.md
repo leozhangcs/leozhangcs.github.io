@@ -63,9 +63,9 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU -> Msc student@XMU): Privacy-Aware Multimodal Deep Learning
 + Yanping Wang (22-23, Visiting PhD from UESTC -> Lecturer@Xihua Uni): Anonymous and authenticated announcements in VANET
 + [Qi Zhong](https://fds.cityu.edu.mo/members/286) (19-23, PhD student@Deakin -> Assistant Professor@CityU Macau): Intellectual property protection of deep neural models
-+ Run Ran (19-22, CQUPT; now PhD student at PolyU@HK): Differential-private recommender system
++ Run Ran (19-22, Master@CQUPT ->  PhD student@PolyU HK): Differential-private recommender system
 + [Nan Sun](https://www.unsw.edu.au/staff/nan-sun) (17-20, PhD student@Deakin; 20-21 Rearch Fellow@Deakin -> Lecturer@UNSW): Data-driven cybersecurity incident prediction and discovery
-+ Junyang Qiu (17-20, now Research Scientist@Jiangnan Institute of Computing Technology): Data-Driven Android Malware Intelligence with Machine Learning through Static Analysis
++ Junyang Qiu (17-20, PhD@Deakin -> Research Scientist@Jiangnan Institute of Computing Technology): Data-Driven Android Malware Intelligence with Machine Learning through Static Analysis
 + Chee Keong (Allan) Ng (now with Melbourne Polytechnic as Sessional Lecturer): VoterChoice: A Ransomware Detection Honeypot with Multiple Voting Concept
 + Dr. Shuxin Yang (19-20, JXUST)
 + Dr. Hong Liu (18-19, CQUPT): 
