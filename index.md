@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Apr-25] Two new works __MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation__ and __Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach__ have been accepted by the 34th _International Joint Conference on Artificial Intelligence (IJCAI 2025)_!
+- [Apr-25] Two new works, __MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation__ and __Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach__, have been accepted by the 34th _International Joint Conference on Artificial Intelligence (IJCAI 2025)_!
 
 - [Apr-25] Our new work __When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning__ has been directly accepted (14 out of 269) to Cycle 2 of the 20th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2025)_! Congrats, Ruining!
 
