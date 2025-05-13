@@ -22,7 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:  
-- <span style="color:blue">[Oakland'25a]</span>  Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, L. Y. Zhang, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a)
+- <span style="color:blue">[Oakland'25a]</span>  Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, L. Y. Zhang, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a) [PDF](https://arxiv.org/abs/2504.11990) [SLIDES]({{site.baseurl}}/assets/slides/SP25 Secure_TL.pdf) [POSTER]({{site.baseurl}}/assets/slides/Yechao_SP25_poster.pdf)
 - <span style="color:blue">[Oakland'25b]</span>  Z. Gong, Y. Zhang, L. Y. Zhang, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a)
 - <span style="color:blue">[ICLR'25]</span> H. Zhang, C. Zhu, X. Wang, Z. Zhou, C. Yin, M. Li, L. Xue, Y. Wang, S. Hu, A. Liu, P. Guo, L. Y Zhang, “BadRobot: Jailbreaking Embodied LLMs in the Physical World,” in ICLR, 2025. (core a*) [PDF](https://arxiv.org/abs/2407.20242) [POSTER]({{site.baseurl}}/assets/slides/icml25_poster_BadRobot.pdf) [WEB](https://embodied-llms-safety.github.io/)
 - <span style="color:blue">[NeurIPS'25]</span> Z. Zhou, Y. Song, M. Li, S. Hu, X. Wang, L. Y. Zhang, D. Yao, H. Jin, “DarkSAM: Fooling Segment Anything Model to Segment Nothing,” in NeurIPS, 2025. (core a*, ccf a)
