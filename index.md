@@ -34,6 +34,10 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [May-25] Happy to share that I was recognized as one of the [Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers) for ICLR 2025!
+
+- [May-25] I have joined the [Secure Learning Task Force](https://sites.google.com/view/ieee-tf-secure-learning) of the IEEE CIS Neural Networks Technical Committee as Vice Chair. Excited to contribute to advancing trustworthy AI!
+
 - [May-25] Our new work __BiMark: Unbiased Multilayer Watermarking for Large Language Models__ has been accepted by the 42nd _International Conference on Machine Learning (ICML)_! Well done, Xiaoyan!
 
 - [Apr-25] Two new works, __MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation__ and __Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach__, have been accepted by the 34th _International Joint Conference on Artificial Intelligence (IJCAI 2025)_!
