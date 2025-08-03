@@ -34,6 +34,8 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Jul-25] I will serve as a __Senior PC__ for AAAI-26. Looking forward to your excellent submissions!
+
 - [May-25] Happy to share that I was recognized as one of the [Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers) for ICLR 2025!
 
 - [May-25] I have joined the [Secure Learning Task Force](https://sites.google.com/view/ieee-tf-secure-learning) of the IEEE CIS Neural Networks Technical Committee as Vice Chair. Excited to contribute to advancing trustworthy AI!
