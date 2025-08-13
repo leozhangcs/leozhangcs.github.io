@@ -17,12 +17,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Security Risks in Large Language Model
 - Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
-- Dong Chen (2024-now, Visiting PhD@Griffith): 
-  * Secure Aggregation With Applications
-- Chenyu Zhu (2024-now, Msc@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)):  
-  * Mitigate Backdoor in Object Detection Models
-- Niao Yang (2024-now, Honours student@Griffith):
-  * Malicious Secure Computations
+
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): 
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
 - Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
@@ -58,6 +53,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 + [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2022-2025.5, PhD@HUST -> Research Fellow@NTU Singapore): Research on the Transfer Mechanism of Security Vulnerabilities in Deep Learning Models
 + [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (21-25.5, PhD@HUST -> Assistant Professor@CityU Macau): Research on Key Technologies for Robustness Evaluation and Robustness Enhancement in Federated Learning
 + [Fuyi Wang](https://academics.rmit.edu.au/fuyi-wang/) (21-25.4, PhD@Deakin -> Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
++ Dong Chen (24-25, PhD@ShandongUniv, Visiting PhD@Griffith): Secure Aggregation With Applications
++ Chenyu Zhu (24-25, Msc@HUST): Mitigate Backdoor in Object Detection Models
 + Qiuyu Duan (21-24, Msc@HITsz -> Software Engineer@Tencent): Novel Backdoor Attacks on Deep Neural Networks
 + [Lin Li](https://nastul.github.io/) (21-24, PhD student@Swinburne -> Lecturer@SCU GC): Attack and Defence on PPG-Based Cybersecurity System
 + Jinzhi Ouyang (21-23, Undergraduate student@XTU -> Msc student@XMU): Privacy-Aware Multimodal Deep Learning
