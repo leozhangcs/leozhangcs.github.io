@@ -12,6 +12,7 @@ published: true
 
 
 ### Conference Papers
+1. Z. Zhang, X. Zhang, Y. Zhang, H. Zhang, S. Pan, B. Liu, A. Gill, __L. Y. Zhang__, Character-Level Perturbations Disrupt LLM Watermarks, to appear in NDSS, 2026. 
 1. X. Feng, H. Zhang, Y. Zhang, __L. Y. Zhang__, S Pan, "BiMark: Unbiased Multilayer Watermarking for Large Language Models", in ICML, 2025. (core a*, ccf a)
 1. Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, __L. Y. Zhang__, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a)
 1. Z. Gong, Y. Zhang, __L. Y. Zhang__, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a)
