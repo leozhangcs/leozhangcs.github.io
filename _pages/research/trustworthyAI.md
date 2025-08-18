@@ -22,6 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:  
+- <span style="color:blue">[NDSS'26]</span> Z. Zhang, X. Zhang, Y. Zhang, H. Zhang, S. Pan, B. Liu, A. Gill, L. Y. Zhang, "Character-Level Perturbations Disrupt LLM Watermarks", in NDSS, 2026. (core a*) 
 - <span style="color:blue">[ICML'25]</span> X. Feng, H. Zhang, Y. Zhang, L. Y. Zhang, S Pan, "BiMark: Unbiased Multilayer Watermarking for Large Language Models", in ICML, 2025. (core a*, ccf a) [PDF](https://arxiv.org/pdf/2506.21602)
 - <span style="color:blue">[Oakland'25a]</span>  Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, L. Y. Zhang, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a) [PDF](https://arxiv.org/abs/2504.11990) [SLIDES]({{site.baseurl}}/assets/slides/SP25 Secure_TL.pdf) [POSTER]({{site.baseurl}}/assets/slides/Yechao_SP25_poster.pdf)
 - <span style="color:blue">[Oakland'25b]</span>  Z. Gong, Y. Zhang, L. Y. Zhang, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a) [PDF](https://arxiv.org/abs/2503.08976) [SLIDES]({{site.baseurl}}/assets/slides/Zirui SP25 vem-8min.pdf) [POSTER]({{site.baseurl}}/assets/slides/Zirui SP25 poster.pdf) [CODE](https://github.com/gongzir1/VEM) [WEB](https://gongzir1.github.io/vem.github.io/index.html)
