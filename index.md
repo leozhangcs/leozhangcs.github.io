@@ -34,6 +34,12 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Aug-25] Our new work __TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening__ has been accepted to the 2025 IEEE _International Conference on Data Mining (ICDM)_! Congrats to Nam!
+
+- [Aug-25] Our new work __Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment__ has been accepted to the main Conference on _Empirical Methods in Natural Language Processing (EMNLP)_! Congrats to the team!
+
+- the 2026 _Network and Distributed System Security (NDSS)  Symposium_! Well done, Zhaoxi and Xiaomei!
+
 - [Aug-25] Our new work __Character-Level Perturbations Disrupt LLM Watermarks__ has been accepted by the 2026 _Network and Distributed System Security (NDSS)  Symposium_! Well done, Zhaoxi and Xiaomei!
 
 - [Jul-25] I will serve as a __Senior PC__ for AAAI-26. Looking forward to your excellent submissions!
