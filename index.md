@@ -34,6 +34,11 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Aug-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
+
+
+- [Sep-25] I will serve as a __Area Chair__ for ICLR-26. Looking forward to your excellent submissions!
+
 - [Aug-25] Our new work __TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening__ has been accepted to the 2025 IEEE _International Conference on Data Mining (ICDM)_! Congrats to Nam!
 
 - [Aug-25] Our new work __Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment__ has been accepted to the main Conference on _Empirical Methods in Natural Language Processing (EMNLP)_! Congrats to the team!
