@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Aug-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
+- [Sep-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
 
 - [Sep-25] I will serve as a __Area Chair__ for ICLR-26. Looking forward to your excellent submissions!
 
