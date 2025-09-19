@@ -34,6 +34,10 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Sep-25] Three works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
+
+- [Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
+
 - [Sep-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
 
 - [Sep-25] I will serve as a __Area Chair__ for ICLR-26. Looking forward to your excellent submissions!
