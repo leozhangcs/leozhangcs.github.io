@@ -34,6 +34,8 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Sep-25] Three of our works have been accepted to AAAI-25. Congrats to Lulu, Yuhang and Shuyu!
+
 - [Sep-25] Three of our works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
 
 - [Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
