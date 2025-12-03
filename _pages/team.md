@@ -9,8 +9,8 @@ published: true
 I have a small group at Griffith and Deakin, and I also remotely supervise research students.
 
 ### Current Members:
-- Fang Long (Incoming PhD student@Griffith)
-- Shujun Wang (Incoming PhD student@Griffith)
+- Fang Long (2024.10-now, PhD student@Griffith)
+- Shujun Wang (2024.10-now, PhD student@Griffith)
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
 - [Shuyu Chang](https://changshuyu.github.io) (2024-now, Visiting PhD@Griffith): 
   * On the Adversarial Aspects of Source Code Vulnerabilities in AI Systems
