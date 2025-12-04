@@ -35,7 +35,7 @@ I am always actively looking for self-motivated students. Please email me your C
 
 ### News
 
-- [Dec-25] Our new work __Poisoning-based Link Inference Attacks Against Federated Graph Neural Networks__ has been accepted to the _26th Privacy Enhancing Technologies Symposium (PETS)_! Congrats to Guizhen!
+- [Dec-25] Our new work __Poisoning-based Link Inference Attacks Against Federated Graph Neural Networks__ has been accepted to the _26th Privacy Enhancing Technologies Symposium (PETS 2026)_! Congrats to Guizhen!
 
 - [Nov-25] Three of our works have been accepted to AAAI-26. Congrats to Lulu, Yuhang and Shuyu!
 
