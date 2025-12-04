@@ -34,45 +34,15 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+
+- [Dec-25] Our new work __Poisoning-based Link Inference Attacks Against Federated Graph Neural Networks__ has been accepted to the _26th Privacy Enhancing Technologies Symposium (PETS)_! Congrats to Guizhen!
+
 - [Nov-25] Three of our works have been accepted to AAAI-26. Congrats to Lulu, Yuhang and Shuyu!
 
 - [Sep-25] Three of our works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
 
 - [Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
 
-- [Sep-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
-
-- [Sep-25] I will serve as a __Area Chair__ for ICLR-26. Looking forward to your excellent submissions!
-
-- [Aug-25] Our new work __TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening__ has been accepted to the 2025 IEEE _International Conference on Data Mining (ICDM)_! Congrats to Nam!
-
-- [Aug-25] Our new work __Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment__ has been accepted to the main Conference on _Empirical Methods in Natural Language Processing (EMNLP)_! Congrats to the team!
-
-- [Aug-25] Our new work __Character-Level Perturbations Disrupt LLM Watermarks__ has been accepted by the 2026 _Network and Distributed System Security (NDSS)  Symposium_! Well done, Zhaoxi and Xiaomei!
-
-- [Jul-25] I will serve as a __Senior PC__ for AAAI-26. Looking forward to your excellent submissions!
-
-- [May-25] Happy to share that I was recognized as one of the [Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers) for ICLR 2025!
-
-- [May-25] I have joined the [Secure Learning Task Force](https://sites.google.com/view/ieee-tf-secure-learning) of the IEEE CIS Neural Networks Technical Committee as Vice Chair. Excited to contribute to advancing trustworthy AI!
-
-- [May-25] Our new work __BiMark: Unbiased Multilayer Watermarking for Large Language Models__ has been accepted by the 42nd _International Conference on Machine Learning (ICML)_! Well done, Xiaoyan!
-
-- [Apr-25] Two new works, __MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation__ and __Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach__, have been accepted by the 34th _International Joint Conference on Artificial Intelligence (IJCAI 2025)_!
-
-- [Apr-25] Our new work __When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning__ has been directly accepted (14 out of 269) to Cycle 2 of the 20th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2025)_! Congrats, Ruining!
-
-- [Apr-25] I will serve as an __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
-
-- [Mar-25] I will serve as a __Program Committee member__ for _ACSAC-25_. Excited to review your outstanding work!
-
-- [Mar-25] Two new works, __Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset__ and __Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning__, have been accepted by the _46th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Yechao, Zirui and the team!
-
-- [Feb-25] Our new work __Test-Time Backdoor Detection for Object Detection Models__ has been accepted by the 2025 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_! Well done, Hangtao!
-
-- [Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th Usenix Security Symposium_! Congrats to Dayong and the team! 
-
-- [Jan-25] Our new work __BadRobot: Manipulating Embodied LLMs in the Physical World__ has been accepted by the 2025 _International Conference on Learning Representations (ICLR)_! Congrats, Hangtao!
 
 <!--{::options parse_block_html="true" /}
 <details open> <summary markdown="span"> __News__ </summary>
@@ -83,6 +53,40 @@ I am always actively looking for self-motivated students. Please email me your C
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">Older News</summary>
+
+[Sep-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
+
+[Sep-25] I will serve as a __Area Chair__ for ICLR-26. Looking forward to your excellent submissions!
+
+[Aug-25] Our new work __TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening__ has been accepted to the 2025 IEEE _International Conference on Data Mining (ICDM)_! Congrats to Nam!
+
+[Aug-25] Our new work __Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment__ has been accepted to the main Conference on _Empirical Methods in Natural Language Processing (EMNLP)_! Congrats to the team!
+
+[Aug-25] Our new work __Character-Level Perturbations Disrupt LLM Watermarks__ has been accepted by the 2026 _Network and Distributed System Security (NDSS)  Symposium_! Well done, Zhaoxi and Xiaomei!
+
+[Jul-25] I will serve as a __Senior PC__ for AAAI-26. Looking forward to your excellent submissions!
+
+[May-25] Happy to share that I was recognized as one of the [Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers) for ICLR 2025!
+
+[May-25] I have joined the [Secure Learning Task Force](https://sites.google.com/view/ieee-tf-secure-learning) of the IEEE CIS Neural Networks Technical Committee as Vice Chair. Excited to contribute to advancing trustworthy AI!
+
+[May-25] Our new work __BiMark: Unbiased Multilayer Watermarking for Large Language Models__ has been accepted by the 42nd _International Conference on Machine Learning (ICML)_! Well done, Xiaoyan!
+
+[Apr-25] Two new works, __MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation__ and __Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach__, have been accepted by the 34th _International Joint Conference on Artificial Intelligence (IJCAI 2025)_!
+
+[Apr-25] Our new work __When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning__ has been directly accepted (14 out of 269) to Cycle 2 of the 20th _ACM ASIA Conference on Computer and Communications Security (ASIACCS 2025)_! Congrats, Ruining!
+
+[Apr-25] I will serve as an __Area Chair__ for _NeurIPS-25_. Looking forward to your excellent submissions!
+
+[Mar-25] I will serve as a __Program Committee member__ for _ACSAC-25_. Excited to review your outstanding work!
+
+[Mar-25] Two new works, __Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset__ and __Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning__, have been accepted by the _46th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Yechao, Zirui and the team!
+
+[Feb-25] Our new work __Test-Time Backdoor Detection for Object Detection Models__ has been accepted by the 2025 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_! Well done, Hangtao!
+
+[Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th Usenix Security Symposium_! Congrats to Dayong and the team! 
+
+[Jan-25] Our new work __BadRobot: Manipulating Embodied LLMs in the Physical World__ has been accepted by the 2025 _International Conference on Learning Representations (ICLR)_! Congrats, Hangtao!
 
 [Dec-24] Three new works __NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors__, __Detecting and Corrupting Convolution-based Unlearnable Examples__ and __Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization__  have been accepted by _AAAI 2025_! Congrats, Ziqi, Xianlong, and Yechao!
 
