@@ -36,8 +36,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Privacy Attack and Defense in Federated Learning
 - Linshan Hou (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   *  Backdoor Attack and Defense of Deep Neural Networks
-- Khondaker Tasrif Noor (2021-now, PhD student@Deakin, jointly supervised with [Prof. Wei LUO](https://scholar.google.com.hk/citations?user=fIxBU34AAAAJ) and [Prof. Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)): 
-  * Architecture and Algorithm Design for Hierarchical Classification
+
 - Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
   * Proactive Defense Mechanisms for Internet of Things
 - Bilal Hussain Abbasi (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
@@ -47,8 +46,9 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 
 
 ### Past Members: 
-+ Xiaoxing Mo (2022-25, PhD@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
 + Zeming Yao (21-25, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
++ Khondaker Tasrif Noor (2021-25, PhD@Deakin): Neural Architectures for Hierarchical Classification by Agreement
++ Xiaoxing Mo (2022-25, PhD@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
 + [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2022-2025.5, PhD@HUST -> Research Fellow@NTU Singapore): Research on the Transfer Mechanism of Security Vulnerabilities in Deep Learning Models
 + [Wei Wan](https://scholar.google.com/citations?user=UU79U-MAAAAJ) (21-25.5, PhD@HUST -> Assistant Professor@CityU Macau): Research on Key Technologies for Robustness Evaluation and Robustness Enhancement in Federated Learning
 + [Fuyi Wang](https://academics.rmit.edu.au/fuyi-wang/) (21-25.4, PhD@Deakin -> Research Fellow@RMIT): Privacy-Preserving Cloud Computing Applications With Secure Multiparty Computation
