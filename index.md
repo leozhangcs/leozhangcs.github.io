@@ -34,6 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+- [Jan-26] I have joined the editorial team of Transactions on Cybernetics as an associate editor. Please submit your good works!
 
 - [Dec-25] Thrilled to share that I have been promoted to __Associate Professor__ at Griffith University!
 
