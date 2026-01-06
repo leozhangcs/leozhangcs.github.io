@@ -11,7 +11,7 @@ published: true
 <!--### Profile-->
 I am an [Associate Professor](https://experts.griffith.edu.au/41503-leo-zhang) in the [School of ICT](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology) and the Program Director for [Bachelor of Cybersecurity](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677), [Griffith University](https://www.griffith.edu.au/). Prior to joining Griffith, I was a faculty member in the [School of IT](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/) (2018-2023). I obtained my Ph.D. in 2016 from the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/), where I later worked as a research fellow in the [Department of Computer Science](https://www.cs.cityu.edu.hk//) before commencing my academic career in Australia. My research spans a broad spectrum of cybersecurity, with a particular focus on Trustworthy Artificial Intelligence and Applied Cryptography.
 
-I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring  trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq) and [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046). 
+I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring  trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) and [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036).
 
 I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about __Griffith PhD admission and scholarships__ can be found [here]({{site.baseurl}}/prosStudents). 
 
@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Jan-26] I have joined the editorial team of Transactions on Cybernetics as an associate editor. Please submit your good works!
+- [Jan-26] I have joined the editorial team of IEEE Transactions on Cybernetics as an associate editor. Please submit your good works!
 
 - [Dec-25] Thrilled to share that I have been promoted to __Associate Professor__ at Griffith University!
 
