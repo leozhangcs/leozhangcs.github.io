@@ -46,6 +46,7 @@ Cryptography serves as a fundamental building block for information security, an
 [[TC'24]({{site.baseurl}}/research/appCrypt)]
 [[TIFS'22]({{site.baseurl}}/research/appCrypt)] </span>  
 - Privacy-preserving machine learning <span style="color:blue"> 
+[[TSC'25]({{site.baseurl}}/research/appCrypt)], 
 [[FC'25]({{site.baseurl}}/research/appCrypt)], 
 [[TDSC'19]({{site.baseurl}}/research/appCrypt)], 
 [[ISCC'22]({{site.baseurl}}/research/appCrypt)]</span>  
