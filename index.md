@@ -34,7 +34,7 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
-- [Jan-26] Our new work __Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning__ has been accepted to the _The ACM Web Conference 2026 (WWW 2026)_! Congrats to Zhihao!
+- [Jan-26] Our new work __Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning__ has been accepted to the _The ACM Web Conference 2026 (WWW 2026)_! Congrats to Zhihao and Zirui!
 
 - [Jan-26] I have joined the editorial team of IEEE Transactions on Cybernetics as an associate editor. Please submit your good works!
 
