@@ -6,6 +6,7 @@ published: true
 ---
 
 ### Organising Committee
++ 2026: [SiMLA](https://simlaacns.github.io/) (co-located with ACNS2026, Workshop Chair)
 + 2025: [RAID](https://raid2025.github.io/committees.html) (Local Organisation Chair), [PAKDD](https://pakdd2025.org/call-for-paper-survey/) (Survey Track Chair), [IWQoS](https://iwqos2025.ieee-iwqos.org/committees/organizing-committee) (Local Co-Chair)
 + 2024: [ProvSec](https://provsec2024.github.io/ProvSec2024/committee.html) (General Chair)
 + 2023: [CIMSS](https://cimssworkshop.github.io/contents/CIMSS2023/contents/committee.html) (co-located with ACNS2023, Workshop Chair)
