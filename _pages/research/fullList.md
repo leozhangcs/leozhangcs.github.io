@@ -16,7 +16,7 @@ published: true
 2. F. Wang, F. Sun, M. Fan, J. Zhou, J. Ma, C. Chen, J. Shu, __L. Y. Zhang__, "FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments", in ACSAC, 2025. (core a, ccf b)
 3. X. Feng, H. Zhang, Y. Zhang, __L. Y. Zhang__, S Pan, "BiMark: Unbiased Multilayer Watermarking for Large Language Models", in ICML, 2025. (core a*, ccf a)
 4. H. Pan, Y. Zhang, __L. Y. Zhang__, S. Adams, A. Kouzani, S. Khoo, "Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach," in IJCAI, 2025. DOI: 10.24963/ijcai.2025/670 (core a*, ccf a)
-5. L Zheng, Y Cao, __L. Y. Zhang__, W Wang, Y Shen, X Cao, "MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation," in IJCAI, 2025. DOI: 10.24963/ijcai.2025/886 (core a*, ccf a)
+5. L. Zheng, Y. Cao, __L. Y. Zhang__, W. Wang, Y. Shen, X. Cao, "MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation," in IJCAI, 2025. DOI: 10.24963/ijcai.2025/886 (core a*, ccf a)
 6. R. Sun, H. Hu, W. Luo, Z. Zhang, Y. Zhang, H. Yuan, __L. Y. Zhang__, "When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning," in AsiaCCS, 2025. DOI: 10.1145/3708821.3733915 (core a, ccf c)
 7. J. Ouyang, F. Wang, Y. Luo, J. Ning, __L. Y. Zhang__, "PP-DACMR: A Privacy-Preserving Deep Adversarial Hashing for Cross-Modal Retrieval," in IWQoS, 2025. DOI: 10.1109/IWQoS65803.2025.11143293 (core b, ccf b)
 8. Y. Song, Z. Zhou, M. Li, X. Wang, M. Deng, W. Wan, S. Hu, __L. Y.Zhang__, "PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation," in ICASSP, 2025. DOI: 10.1109/ICASSP49660.2025.10890418 (ccf b)
