@@ -21,6 +21,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 -->
 
 #### Selected Publications in Applied Cryptography:  
+- <span style="color:blue">[ACSAC'25]</span> F. Wang, F. Sun, M. Fan, J. Zhou, J. Ma, C. Chen, J. Shu, L. Y. Zhang, "FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments", in ACSAC, 2025.
 - <span style="color:blue">[FC'25]</span> F. Wang, Z. Chen, M. Fan, J. Zhou, L. Pan, L. Y. Zhang, "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks," in FC, 2025.
 - <span style="color:blue">[TSC'25]</span> F. Wang, J. Ouyang, X. Liu, L. Pan, L. Y. Zhang, R. Doss, "MedShield: A Fast Cryptographic Framework for Private Multi-Service Medical Diagnosis," IEEE Transactions on Services Computing, 2025. DOI: 10.1109/TSC.2025.3526369
 - <span style="color:blue">[ACNS'25]</span> F. Wang, J. Ouyang, L. Y. Zhang, L. Pan, S. Hu, R. Doss, J. Zhou, "SEBioID: Secure and Efficient Biometric Identification with Two-Party Computation," in ACNS, 2025.

@@ -55,6 +55,7 @@ Cryptography serves as a fundamental building block for information security, an
 [[ACNS'23]({{site.baseurl}}/research/appCrypt)], 
 [[TDSC'18]({{site.baseurl}}/research/appCrypt)]</span>  
 - Emerging authentication methods <span style="color:blue"> 
+[[ACSAC'25]({{site.baseurl}}/research/appCrypt)], 
 [[ACNS'25]({{site.baseurl}}/research/appCrypt)], 
 [[TVT'24]({{site.baseurl}}/research/appCrypt)], [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
 
