@@ -32,10 +32,12 @@ I am always actively looking for self-motivated students. Please email me your C
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; <del>The main round of the 2025 Griffith PhD Scholarship is open until 27-08-2024 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</del></h4>
 
-- [Jan-26] I am honored to serve as a __Program Committee member__ for Usenix Security-26 (Cycle 2). Excited to review your outstanding work!
+
 -->
 
 ### News
+- [Jan-26] I am honored to serve as a __Program Committee member__ for Usenix Security-26 (Cycle 2). Excited to review your outstanding work!
+
 - [Jan-26] Our new work __Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement__ has been accepted to the _Fourteenth International Conference on Learning Representations (ICLR 2026)_! Congrats to Yuhang!
 
 - [Jan-26] Our new work __Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning__ has been accepted to the _ACM Web Conference 2026 (WWW 2026)_! Congrats to Zhihao and Zirui!
