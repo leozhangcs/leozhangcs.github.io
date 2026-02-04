@@ -44,15 +44,6 @@ I am always actively looking for self-motivated students. Please email me your C
 
 - [Jan-26] I have joined the editorial team of IEEE Transactions on Cybernetics as an associate editor. Please submit your good works!
 
-- [Dec-25] Thrilled to share that I have been promoted to __Associate Professor__ at Griffith University!
-
-- [Dec-25] Our new work __Poisoning-based Link Inference Attacks Against Federated Graph Neural Networks__ has been accepted to the _26th Privacy Enhancing Technologies Symposium (PETS 2026)_! Congrats to Guizhen!
-
-- [Nov-25] Three of our works have been accepted to AAAI-26. Congrats to Lulu, Yuhang and Shuyu!
-
-- [Sep-25] Three of our works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
-
-- [Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
 
 
 <!--{::options parse_block_html="true" /}
@@ -64,6 +55,16 @@ I am always actively looking for self-motivated students. Please email me your C
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">Older News</summary>
+
+[Dec-25] Thrilled to share that I have been promoted to __Associate Professor__ at Griffith University!
+
+[Dec-25] Our new work __Poisoning-based Link Inference Attacks Against Federated Graph Neural Networks__ has been accepted to the _26th Privacy Enhancing Technologies Symposium (PETS 2026)_! Congrats to Guizhen!
+
+[Nov-25] Three of our works have been accepted to AAAI-26. Congrats to Lulu, Yuhang and Shuyu!
+
+[Sep-25] Three of our works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
+
+[Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
 
 [Sep-25] Our new work __FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments__ has been accepted to the 2025 _Annual Computer Security Applications Conference (ACSAC)_! Congrats to Fuyi!
 
