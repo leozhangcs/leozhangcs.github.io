@@ -16,7 +16,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * On the Adversarial Aspects of Source Code Vulnerabilities in AI Systems
 - Chenhong Luo (2024.10-now, PhD student@Griffith): 
   * Private and Fairness-aware Deep Learning
-- Xiaomei Zhang (2024.09-now, PhD student@Griffith):
+- [Xiaomei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0H4Apt0AAAAJ) (2024.09-now, PhD student@Griffith):
   * Security Risks in Large Language Model
 - Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
