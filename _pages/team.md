@@ -18,7 +18,7 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Private and Fairness-aware Deep Learning
 - [Xiaomei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0H4Apt0AAAAJ) (2024.09-now, PhD student@Griffith):
   * Security Risks in Large Language Model
-- Xiaoyan Feng (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
+- [Xiaoyan Feng](https://scholar.google.com/citations?user=wolUsiMAAAAJ) (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): 
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
