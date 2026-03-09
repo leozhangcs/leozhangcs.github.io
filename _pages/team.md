@@ -38,13 +38,13 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   *  Backdoor Attack and Defense of Deep Neural Networks
 - Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
   * Proactive Defense Mechanisms for Internet of Things
-- Bilal Hussain Abbasi (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
-  * Poisoning Attacks in Deep Learning
+
 - Di Mi (21-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
   * Model Extraction Attack and Defense in Image-to-Image Translation
 
 
 ### Past Members: 
+- Bilal Hussain Abbasi (22-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
 + Zeming Yao (21-25, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
 + Khondaker Tasrif Noor (2021-25, PhD@Deakin): Neural Architectures for Hierarchical Classification by Agreement
 + Xiaoxing Mo (2022-25, PhD@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
