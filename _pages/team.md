@@ -20,6 +20,8 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Security Risks in Large Language Model
 - [Xiaoyan Feng](https://scholar.google.com/citations?user=wolUsiMAAAAJ) (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
+- Di Mi (24-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
+  * Model Extraction Attack and Defense in Image-to-Image Translation
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith): 
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
 - Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
@@ -39,12 +41,10 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
 - Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
   * Proactive Defense Mechanisms for Internet of Things
 
-- Di Mi (21-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)): 
-  * Model Extraction Attack and Defense in Image-to-Image Translation
 
 
 ### Past Members: 
-- Bilal Hussain Abbasi (22-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
++ Bilal Hussain Abbasi (22-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
 + Zeming Yao (21-25, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
 + Khondaker Tasrif Noor (2021-25, PhD@Deakin): Neural Architectures for Hierarchical Classification by Agreement
 + Xiaoxing Mo (2022-25, PhD@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
