@@ -38,14 +38,14 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Privacy Attack and Defense in Federated Learning
 - Linshan Hou (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   *  Backdoor Attack and Defense of Deep Neural Networks
-- Guizhen Yang (2021-now, PhD student@Deakin, jointly supervised with [Prof. Shang GAO](https://scholar.google.com.hk/citations?user=lkgneeAAAAAJ)): 
-  * Proactive Defense Mechanisms for Internet of Things
+- 
 
 
 
 ### Past Members: 
-+ Bilal Hussain Abbasi (22-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
-+ Zeming Yao (21-25, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
++ [Guizhen Yang](https://scholar.google.com/citations?user=oqw64SIAAAAJ) (2022-26.03, PhD@Deakin): Analysing Network Security and Privacy: From Proactive Defence to Inference Attacks
++ Bilal Hussain Abbasi (2022-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
++ Zeming Yao (2021-2025, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
 + Khondaker Tasrif Noor (2021-25, PhD@Deakin): Neural Architectures for Hierarchical Classification by Agreement
 + Xiaoxing Mo (2022-25, PhD@Deakin): Backdoor Attack and Defense in Convolutional Neural Networks
 + [Yechao Zhang](https://scholar.google.com.au/citations?user=6DN1wxkAAAAJ) (2022-2025.5, PhD@HUST -> Research Fellow@NTU Singapore): Research on the Transfer Mechanism of Security Vulnerabilities in Deep Learning Models
