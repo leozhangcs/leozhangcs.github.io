@@ -38,7 +38,6 @@ I have a small group at Griffith and Deakin, and I also remotely supervise resea
   * Privacy Attack and Defense in Federated Learning
 - Linshan Hou (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   *  Backdoor Attack and Defense of Deep Neural Networks
-- 
 
 
 
