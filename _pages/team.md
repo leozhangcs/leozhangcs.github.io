@@ -36,7 +36,7 @@ I have a small group at Griffith, and I also remotely supervise research student
   * Memorization in Deep Learning and Its Interplay with Privacy and Security
 - [Lulu Xue](https://scholar.google.com/citations?user=64ilIFEAAAAJ) (2022-now, Msc student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Privacy Attack and Defense in Federated Learning
-- Linshan Hou (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
+- [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2021-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   *  Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
 
 
