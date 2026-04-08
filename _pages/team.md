@@ -9,7 +9,6 @@ published: true
 I have a small group at Griffith, and I also remotely supervise research students.
 
 ### Current Members:
-
 <!--  
 - Zhihao Chen (incoming  PhD student@Griffith)
 - Xiang Gao (incoming  PhD student@Griffith)
