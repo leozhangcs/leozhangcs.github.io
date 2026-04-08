@@ -32,7 +32,7 @@ I have a small group at Griffith, and I also remotely supervise research student
   * Detecting AI-Generated Contents
 - [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-now, Msc@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Fine-Grained Poisoning in Federated Learning
-- Jiaheng Wei (2022-now, PhD student@RMIT, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)): 
+- [Jiaheng Wei](https://scholar.google.com/citations?user=D27CK5YAAAAJ) (2022-now, PhD student@RMIT, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)): 
   * Memorization in Deep Learning and Its Interplay with Privacy and Security
 - [Lulu Xue](https://scholar.google.com/citations?user=64ilIFEAAAAJ) (2022-now, Msc student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Privacy Attack and Defense in Federated Learning
