@@ -15,7 +15,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about __Griffith PhD admission and scholarships__ can be found [here]({{site.baseurl}}/prosStudents). 
 
-
+<!--
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on Trustworthy AI. See <a href = "{{site.baseurl}}/CFP/AI-HDR-Adv">here</a> for more information.</h4>
@@ -23,6 +23,7 @@ I am always actively looking for self-motivated students. Please email me your C
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
 <h4> &nbsp; <del>2 CSC PhD students and</del> 2 CSC visiting positions are available for 26/27! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
 </p>
+-->
 
 
 <!--
