@@ -6,7 +6,7 @@ published: true
 ---
 
 
-I have a small group at Griffith and Deakin, and I also remotely supervise research students.
+I have a small group at Griffith, and I also remotely supervise research students.
 
 ### Current Members:
 - Fang Long (2025.10-now, PhD student@Griffith)
