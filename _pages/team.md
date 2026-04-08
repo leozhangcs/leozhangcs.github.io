@@ -9,6 +9,11 @@ published: true
 I have a small group at Griffith, and I also remotely supervise research students.
 
 ### Current Members:
+- Zhihao Chen (incoming  PhD student@Griffith)
+- Xiang Gao (incoming  PhD student@Griffith)
+- Jingming Dai (incoming  PhD student@Griffith)
+- Jintian Ji (incoming  PhD student@Griffith)
+- Yujiang Li (incoming  PhD student@Griffith)
 - Fang Long (2025.10-now, PhD student@Griffith)
 - Shujun Wang (2025.10-now, PhD student@Griffith)
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
