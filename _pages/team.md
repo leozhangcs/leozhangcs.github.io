@@ -37,7 +37,7 @@ I have a small group at Griffith, and I also remotely supervise research student
   * Adversarial Robustness and Generalization in Computer Vision
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Downstream Adversarial Attacks and Defenses
-- [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, Visiting PhD@Griffith, jointly supervised with [Prof. Yanjun ZHANG](https://scholar.google.com.hk/citations?user=HKq2LkwAAAAJ)): 
+- [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, PhD Student@Griffith, jointly supervised with [Prof. Yanjun ZHANG](https://scholar.google.com.hk/citations?user=HKq2LkwAAAAJ)): 
   * Detecting AI-Generated Contents
 - [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-now, Msc@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
   * Fine-Grained Poisoning in Federated Learning
