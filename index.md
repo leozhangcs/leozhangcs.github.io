@@ -37,6 +37,12 @@ I am always actively looking for self-motivated students. Please email me your C
 -->
 
 ### News
+<!--
+- [May-26] One work accepted by 
+- -->
+
+- [Apr-26] I will serve as an Area Chair for NeurIPS-25. Looking forward to your good work!
+
 - [Mar-26] Our new work __ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery__ has been accepted to the _47th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Zirui and the team!
 
 - [Jan-26] I am honored to serve as a __Program Committee member__ for Usenix Security-26 (Cycle 2). Excited to review your outstanding work!
