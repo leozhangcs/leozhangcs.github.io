@@ -40,12 +40,13 @@ I am always actively looking for self-motivated students. Please email me your C
 <!--
 - [May-26] One work accepted by 
 - -->
+- [May-26] Two papers from our group have been directly accepted to _USENIX Security 2026_, and another paper has received conditional acceptance with shepherding. Huge congratulations to Jun, Zeming, Hangtao, and all collaborators for this fantastic achievement!
 
 - [Apr-26] I will serve as an Area Chair for NeurIPS-25. Looking forward to your good work!
 
 - [Mar-26] Our new work __ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery__ has been accepted to the _47th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Zirui and the team!
 
-- [Jan-26] I am honored to serve as a __Program Committee member__ for Usenix Security-26 (Cycle 2). Excited to review your outstanding work!
+- [Jan-26] I am honored to serve as a __Program Committee member__ for _Usenix Security 2026_ (Cycle 2). Excited to review your outstanding work!
 
 - [Jan-26] Our new work __Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement__ has been accepted to the _Fourteenth International Conference on Learning Representations (ICLR 2026)_! Congrats to Yuhang!
 
