@@ -50,7 +50,7 @@ I have a small group at Griffith, and I also remotely supervise research student
 
 
 ### Past Members: 
-+ [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-Mar. 2026, PhD@HITsz, now@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
++ [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-2026.03, PhD@HITsz, now@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
 + [Guizhen Yang](https://scholar.google.com/citations?user=oqw64SIAAAAJ) (2022-26.03, PhD@Deakin): Analysing Network Security and Privacy: From Proactive Defence to Inference Attacks
 + Bilal Hussain Abbasi (2022-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
 + Zeming Yao (2021-2025, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
