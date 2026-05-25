@@ -46,7 +46,7 @@ I have a small group at Griffith, and I also remotely supervise research student
 
 
 ### Past Members: 
-- [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-2026.04, Msc@HUST -> PhD Student@UPenn): Fine-Grained Poisoning in Federated Learning
+- [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-2026.04, Msc@HUST -> PhD Student@UPenn): Investigating Backdoor Methods for Object Detection Models 
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-2026, PhD@HUST -> TTAP@Chongqing University): Research on Techniques for Robustness Evaluation and Enhancement of Pre-Trained Models
 + [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-2026.03, PhD@HITsz -> Engineer@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
 + [Guizhen Yang](https://scholar.google.com/citations?user=oqw64SIAAAAJ) (2022-26.03, PhD@Deakin): Analysing Network Security and Privacy: From Proactive Defence to Inference Attacks
