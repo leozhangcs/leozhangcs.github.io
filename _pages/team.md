@@ -35,12 +35,8 @@ I have a small group at Griffith, and I also remotely supervise research student
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
 - Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   * Adversarial Robustness and Generalization in Computer Vision
-- [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-now, PhD student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
-  * Downstream Adversarial Attacks and Defenses
 - [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, PhD Student@Griffith, jointly supervised with [Prof. Yanjun ZHANG](https://scholar.google.com.hk/citations?user=HKq2LkwAAAAJ)): 
   * Detecting AI-Generated Contents
-- [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-now, Msc@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
-  * Fine-Grained Poisoning in Federated Learning
 - [Jiaheng Wei](https://scholar.google.com/citations?user=D27CK5YAAAAJ) (2022-now, PhD student@RMIT, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)): 
   * Memorization in Deep Learning and Its Interplay with Privacy and Security
 - [Lulu Xue](https://scholar.google.com/citations?user=64ilIFEAAAAJ) (2022-now, Msc student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)): 
@@ -50,7 +46,9 @@ I have a small group at Griffith, and I also remotely supervise research student
 
 
 ### Past Members: 
-+ [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-2026.03, PhD@HITsz, now@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
+- [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-2026.04, Msc@HUST -> PhD Student@UPenn): Fine-Grained Poisoning in Federated Learning
+- [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-2026, PhD@HUST -> TTAP@Chongqing University): Research on Techniques for Robustness Evaluation and Enhancement of Pre-Trained Models
++ [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-2026.03, PhD@HITsz -> Engineer@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
 + [Guizhen Yang](https://scholar.google.com/citations?user=oqw64SIAAAAJ) (2022-26.03, PhD@Deakin): Analysing Network Security and Privacy: From Proactive Defence to Inference Attacks
 + Bilal Hussain Abbasi (2022-26.03, PhD@Deakin): Backdoor Attacks and Countermeasures in Deep Neural Networks
 + Zeming Yao (2021-2025, PhD@Swinburne): Preventing Neural Trojan in Computer Vision
