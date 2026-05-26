@@ -6,7 +6,7 @@ published: true
 ---
 
 
-I have a small group at Griffith, and I also remotely supervise research students.
+I am fortunate to work with a growing group of PhD students and visiting scholars at Griffith University. I have also had the pleasure of remotely supervising research students from other institutions.
 <!-- 
 Yanjun's two students
 -->
