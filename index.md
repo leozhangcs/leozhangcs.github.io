@@ -40,7 +40,10 @@ I am always actively looking for self-motivated students. Please email me your C
 <!--
 - [May-26] One work accepted by 
 - -->
-- [May-26] Two papers from our group have been directly accepted to _USENIX Security 2026_, and another paper has received conditional acceptance with shepherding. Huge congratulations to Jun, Zhihao, Hangtao, and all collaborators for this fantastic achievement!
+- [May-26] Three works, __Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics__, __"Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills__, and __Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations__, have been directly accepted to _USENIX Security 2026_! Congrats to Jun, Zhihao, Hangtao, and all collaborators for this fantastic achievement!
+
+- [May-26] Our new work __Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring__ has been accepted to the _43th International Conference on Machine Learning (ICML)_! Congrats to Junhuang and Linshan!
+
 
 - [Apr-26] I will serve as an Area Chair for NeurIPS-25. Looking forward to your good work!
 
