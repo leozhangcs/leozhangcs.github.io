@@ -7,20 +7,25 @@ published: true
 
 
 I have a small group at Griffith, and I also remotely supervise research students.
-
-### Current Members:
-<!--  
-- Zhihao Chen (incoming  PhD student@Griffith)
-- Xiang Gao (incoming  PhD student@Griffith)
-- Yiming Wang (incoming  PhD student@Griffith)
-- Jingming Dai (incoming  PhD student@Griffith)
-- Jintian Ji (incoming  PhD student@Griffith)
-- Yujiang Li (incoming  PhD student@Griffith)
+<!-- 
+Yanjun's two students
 -->
 
-- Fang Long (2025.10-now, PhD student@Griffith)
-- Shujun Wang (2025.10-now, PhD student@Griffith)
+### Incoming Members:
+
+- Yujiang Li (incoming PhD student@Griffith)
+- Zhihao Chen (incoming PhD student@Griffith)
+- Jingming Dai (incoming PhD student@Griffith)
+- Xiang Gao (incoming PhD student@Griffith)
+- Yiming Wang (incoming PhD student@Griffith)
+
+### Current Members:
+
+- Jintian Ji (2026.4-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)): 
+- Fang Long (2025.10-now, PhD student@Griffith): 
+- Shujun Wang (2025.10-now, PhD student@Griffith): 
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
+  * Robust and Efficient Federated Learning at the Edge
 - [Shuyu Chang](https://changshuyu.github.io) (2024-now, Visiting PhD@Griffith): 
   * On the Adversarial Aspects of Source Code Vulnerabilities in AI Systems
 - Chenhong Luo (2024.10-now, PhD student@Griffith): 
