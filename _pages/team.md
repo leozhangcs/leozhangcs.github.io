@@ -9,7 +9,6 @@ published: true
 I am fortunate to work with a growing group of PhD students and visiting scholars at Griffith University. I have also had the pleasure of remotely supervising research students from other institutions.
 <!-- 
 Yanjun's two students
--->
 
 ### Incoming Members:
 
@@ -18,6 +17,7 @@ Yanjun's two students
 - Jingming Dai (incoming PhD student@Griffith)
 - Xiang Gao (incoming PhD student@Griffith)
 - Yiming Wang (incoming PhD student@Griffith)
+-->
 
 ### Current Members:
 
