@@ -11,7 +11,6 @@ I am fortunate to work with a growing group of PhD students and visiting scholar
 <!-- 
 Yanjun's two students
 ### Incoming Members:
-
 - Yujiang Li (incoming PhD student@Griffith)
 - Zhihao Chen (incoming PhD student@Griffith)
 - Jingming Dai (incoming PhD student@Griffith)
