@@ -22,6 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:  
+- <span style="color:blue">[AAAI'26]</span> L. Xue, S. Hu, L. Qian, P. Guo, Y. Zhang, M. Li, Y. Zhang, D. Ye, L. Y. Zhang, "Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure", in AAAI, 2026. (core a*) [PDF](https://arxiv.org/abs/2512.16126)
 - <span style="color:blue">[Oakland'26]</span> Z. Gong, L. Y. Zhang, Y. Zhang, V. Vo, T. Zhu, S. Pan, C. Wang, "ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery", in Oakland, 2026. (core a*) [PDF](https://arxiv.org/pdf/2603.17623)
 - <span style="color:blue">[NDSS'26]</span> Z. Zhang, X. Zhang, Y. Zhang, H. Zhang, S. Pan, B. Liu, A. Gill, L. Y. Zhang, "Character-Level Perturbations Disrupt LLM Watermarks", in NDSS, 2026. (core a*) [PDF](https://arxiv.org/abs/2509.09112)
 - <span style="color:blue">[ICML'25]</span> X. Feng, H. Zhang, Y. Zhang, L. Y. Zhang, S Pan, "BiMark: Unbiased Multilayer Watermarking for Large Language Models", in ICML, 2025. (core a*, ccf a) [PDF](https://arxiv.org/pdf/2506.21602)
