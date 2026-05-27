@@ -27,7 +27,9 @@ Focuses I have interested on are:
 
 My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. I used to work on _Chaotic Cryptography_ (inactive since 2014) and _Compressed Sensing Secrecy_ (inactive since 2016). The word cloud on the right summarizes my current research focuses. 
 
-The complete list of my publications can be found [here]({{site.baseurl}}/research/fullList) or on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
+The complete list of my publications can be found on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
+<!--[here]({{site.baseurl}}/research/fullList) or -->
+
 
 ### Trustworthy AI:
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
