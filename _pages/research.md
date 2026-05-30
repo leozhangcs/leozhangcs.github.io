@@ -46,9 +46,25 @@ Given the critical importance of trust and transparency in AI technologies, addr
 [[ICLR'25]({{site.baseurl}}/research/trustworthyAI)], 
 [[NeurIPS'25]({{site.baseurl}}/research/trustworthyAI)], 
 [[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Understanding and improving adversarial robustness: [SEC'26c] <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
-- Designing and defeating poisoning attacks: [ICML'26] <span style="color:blue"> 
-[[Oakland25'a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland25'b]({{site.baseurl}}/research/trustworthyAI)], [[ICML'24]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Understanding and improving adversarial robustness:  <span style="color:blue"> 
+[[SEC'26c]({{site.baseurl}}/research/trustworthyAI)], 
+[[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], 
+[[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], 
+[[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], 
+[[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], 
+[[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Designing and defeating poisoning attacks: <span style="color:blue"> 
+[[ICML'26]({{site.baseurl}}/research/trustworthyAI)], 
+[[Oakland25'a]({{site.baseurl}}/research/trustworthyAI)], 
+[[Oakland25'b]({{site.baseurl}}/research/trustworthyAI)], 
+[[ICML'24]({{site.baseurl}}/research/trustworthyAI)], 
+[[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], 
+[[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], 
+[[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], 
+[[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], 
+[[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], 
+[[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], 
+[[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
 - Preventing privacy and IP leakage: <span style="color:blue"> [[Oakland'26]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24c]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23b]({{site.baseurl}}/research/trustworthyAI)] </span>  
 
 
