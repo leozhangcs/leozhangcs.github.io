@@ -38,7 +38,8 @@ Given the critical importance of trust and transparency in AI technologies, addr
 - Machine unlearning and its security and privacy issues:  <span style="color:blue"> 
 [[AAAI'26a]({{site.baseurl}}/research/trustworthyAI)], 
 [[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span> 
-- Investigating the security and privacy issues of foundation models: [SEC'26b], <span style="color:blue"> 
+- Investigating the security and privacy issues of foundation models: <span style="color:blue"> 
+[[SEC'26b]({{site.baseurl}}/research/trustworthyAI)], 
 [[NDSS'26]({{site.baseurl}}/research/trustworthyAI)], 
 [[ICML'25]({{site.baseurl}}/research/trustworthyAI)], 
 [[SEC'25b]({{site.baseurl}}/research/trustworthyAI)], 
