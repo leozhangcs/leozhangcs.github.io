@@ -22,6 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:
+- <span style="color:blue">[SEC'26b]</span> J. Liu, L. Y. Zhang, F. Li, I. Echizen, J. Zhou, "Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations", in Usenix Security, 2026. (core a*, ccf a) [PDF](https://arxiv.org/abs/2601.14300)
 - <span style="color:blue">[SEC'26b]</span> H. Zhang, Y. Zhao, S. Liu, Z. Zhou, Z. Ye, W. Wan, M. Li, S. Hu, Y. Zhang, Y. Liu, L. Y. Zhang, "Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics", in Usenix Security, 2026. (core a*, ccf a)
 - <span style="color:blue">[SEC'26a]</span> Y. Liu, Z. Chen, Y. Zhang, G. Deng, Y. Li, J. Ning, L. Y. Zhang, "Do Not Mention This to the User: Detecting and Understanding Malicious Agent Skills", in Usenix Security, 2026. (core a*, ccf a) [PDF](https://arxiv.org/abs/2602.06547)
 - <span style="color:blue">[AAAI'26]</span> L. Xue, S. Hu, L. Qian, P. Guo, Y. Zhang, M. Li, Y. Zhang, D. Ye, L. Y. Zhang, "Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure", in AAAI, 2026. (core a*) [PDF](https://arxiv.org/abs/2512.16126)
