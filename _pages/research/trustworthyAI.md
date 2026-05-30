@@ -23,7 +23,6 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 #### Selected Publications in Trustworthy AI:  
 - <span style="color:blue">[SEC'25a]</span> Y. Liu, Z. Chen, Y. Zhang, G. Deng, Y. Li, J. Ning, L. Y. Zhang, "Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills, in Usenix Security, 2026. (core a*, ccf a) [PDF](https://arxiv.org/abs/2602.06547)
-
 - <span style="color:blue">[AAAI'26]</span> L. Xue, S. Hu, L. Qian, P. Guo, Y. Zhang, M. Li, Y. Zhang, D. Ye, L. Y. Zhang, "Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure", in AAAI, 2026. (core a*) [PDF](https://arxiv.org/abs/2512.16126)
 - <span style="color:blue">[Oakland'26]</span> Z. Gong, L. Y. Zhang, Y. Zhang, V. Vo, T. Zhu, S. Pan, C. Wang, "ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery", in Oakland, 2026. (core a*) [PDF](https://arxiv.org/pdf/2603.17623)
 - <span style="color:blue">[NDSS'26]</span> Z. Zhang, X. Zhang, Y. Zhang, H. Zhang, S. Pan, B. Liu, A. Gill, L. Y. Zhang, "Character-Level Perturbations Disrupt LLM Watermarks", in NDSS, 2026. (core a*) [PDF](https://arxiv.org/abs/2509.09112)
