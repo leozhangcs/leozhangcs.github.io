@@ -33,9 +33,18 @@ The complete list of my publications can be found on [my Google Scholar profile]
 
 ### Trustworthy AI:
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
-- Agentic system security and privacy: [SEC'26a]
-- Machine unlearning and its security and privacy issues:  <span style="color:blue"> [[AAAI'26a]({{site.baseurl}}/research/trustworthyAI)], [[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span> 
-- Investigating the security and privacy issues of foundation models: [SEC'26b], <span style="color:blue"> [[NDSS'26]({{site.baseurl}}/research/trustworthyAI)], [[ICML'25]({{site.baseurl}}/research/trustworthyAI)], [[SEC'25b]({{site.baseurl}}/research/trustworthyAI)], [[ICLR'25]({{site.baseurl}}/research/trustworthyAI)], [[NeurIPS'25]({{site.baseurl}}/research/trustworthyAI)], [[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)] </span>  
+- Agentic system security and privacy: <span style="color:blue">
+[[SEC'26a]({{site.baseurl}}/research/trustworthyAI)] </span> 
+- Machine unlearning and its security and privacy issues:  <span style="color:blue"> 
+[[AAAI'26a]({{site.baseurl}}/research/trustworthyAI)], 
+[[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span> 
+- Investigating the security and privacy issues of foundation models: [SEC'26b], <span style="color:blue"> 
+[[NDSS'26]({{site.baseurl}}/research/trustworthyAI)], 
+[[ICML'25]({{site.baseurl}}/research/trustworthyAI)], 
+[[SEC'25b]({{site.baseurl}}/research/trustworthyAI)], 
+[[ICLR'25]({{site.baseurl}}/research/trustworthyAI)], 
+[[NeurIPS'25]({{site.baseurl}}/research/trustworthyAI)], 
+[[ACSAC'24]({{site.baseurl}}/research/trustworthyAI)] </span>  
 - Understanding and improving adversarial robustness: [SEC'26c] <span style="color:blue"> [[Oakland'24a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland'24c]({{site.baseurl}}/research/trustworthyAI)], [[ICCV'23]({{site.baseurl}}/research/trustworthyAI)], [[Asia CCS'23a]({{site.baseurl}}/research/trustworthyAI)], [[CVPR'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
 - Designing and defeating poisoning attacks: [ICML'26] <span style="color:blue"> 
 [[Oakland25'a]({{site.baseurl}}/research/trustworthyAI)], [[Oakland25'b]({{site.baseurl}}/research/trustworthyAI)], [[ICML'24]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24a]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'24b]({{site.baseurl}}/research/trustworthyAI)], [[AAAI'24a]({{site.baseurl}}/research/trsutworthyAI)], [[Oakland'24b]({{site.baseurl}}/research/trustworthyAI)], [[Acm MM'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'23]({{site.baseurl}}/research/trustworthyAI)], [[IJCAI'22]({{site.baseurl}}/research/trustworthyAI)] </span>  
