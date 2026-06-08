@@ -25,6 +25,9 @@ I totally understand your eagerness to get accepted to start your Ph.D. journey 
 - Griffith University Postgraduate Research Scholarship ([GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs))
 - China Scholarship Council - Griffith University Joint Funding Program ([CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship))
 - Normal [CSC](https://www.csc.edu.cn/chuguo) Scholarship
+- Griffith [Industry PhD](https://www.griffith.edu.au/research-study/industry-phd)
+  - [National Industry PhD Program](https://www.education.gov.au/national-industry-phd-program), open to both domestic and international candidates
+  - [CSIRO  Industry PhD University Partner Project](https://www.csiro.au/en/careers/Scholarships-student-opportunities/Postgraduate-programs-and-Scholarships/industry-PhD/iPhD-University-Partner), open to domestic candidates only, including Australian citizens, Australian permanent residents, and New Zealand citizens
 
 
 ### University Admission Process
