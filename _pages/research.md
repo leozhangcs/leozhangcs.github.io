@@ -27,6 +27,8 @@ Focuses I have interested on are:
 
 My current research interests focus on __Trustworthy AI__ and __Applied Cryptography__. I used to work on _Chaotic Cryptography_ (inactive since 2014) and _Compressed Sensing Secrecy_ (inactive since 2016). The word cloud on the right summarizes my current research focuses. 
 
+<img class="mobile-research-image" src="{{site.baseurl}}/assets/images/research.jpg" alt="Research word cloud">
+
 The complete list of my publications can be found on [my Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ). 
 <!--[here]({{site.baseurl}}/research/fullList) or -->
 
@@ -86,7 +88,6 @@ Cryptography serves as a fundamental building block for information security, an
 [[ACSAC'25]({{site.baseurl}}/research/appCrypt)], 
 [[ACNS'25]({{site.baseurl}}/research/appCrypt)], 
 [[TVT'24]({{site.baseurl}}/research/appCrypt)], [[RAID'23]({{site.baseurl}}/research/appCrypt)]</span>  
-
 
 
 

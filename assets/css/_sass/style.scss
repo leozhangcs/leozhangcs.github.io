@@ -1,9 +1,15 @@
 html, body {
   height: 100%;
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   max-width: $content-width;
+  overflow-x: hidden;
   font-family: $base-font-family;
   margin: 0 auto;
   line-height: $base-line-height;
@@ -90,6 +96,10 @@ p a {
   .student-notice-title {
     margin-top: 0;
     font-weight: bold;
+  }
+
+  @include media-query($on-palm) {
+    padding: 0.8em 0.95em;
   }
 }
 
@@ -193,3 +203,18 @@ blockquote {
 
 .scroll::-webkit-scrollbar {
   display: none; }
+
+@include media-query($on-palm) {
+  .scroll {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em 1em;
+    white-space: normal;
+    overflow-x: visible;
+  }
+
+  .links a {
+    display: inline-block;
+    margin-right: 0;
+  }
+}

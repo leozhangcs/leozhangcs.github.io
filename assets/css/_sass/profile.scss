@@ -2,6 +2,7 @@
 .profile {
     border-style: solid;
     border-color: $light-gray;
+    width: 18%;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
@@ -16,13 +17,28 @@
     float: right;
 }
 
-// adjust tile sizes on smaller screens
-@include media-query($on-phone) {
-  @media screen and (max-width: $on-phone){
+.research {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
 
-    .profile {
-      width: 40%;
-    }
+.mobile-research-image {
+    display: none;
+}
 
+@include media-query($on-palm) {
+  .profile {
+    display: none;
+  }
+
+  .research {
+    display: none;
+  }
+
+  .mobile-research-image {
+    display: block;
+    width: 80%;
+    max-width: 520px;
+    margin: 0.8rem auto 1.2rem;
   }
 }
