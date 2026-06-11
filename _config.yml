@@ -1,6 +1,7 @@
 ### your site title here
 title: Leo Zhang
 description: Associate Professor, Griffith University
+footer_last_updated: "09 June 2026"
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository

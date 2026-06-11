@@ -15,6 +15,9 @@ gem "jekyll-paginate"
 gem "jekyll-email-protect"
 gem "jekyll-target-blank"
 
+# Keep local builds compatible with the macOS system Ruby 2.6.
+gem "ffi", ">= 1.16", "< 1.17"
+
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

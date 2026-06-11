@@ -3,6 +3,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.jekyll-metadata*
 vendor
 
 # Ruby
@@ -13,6 +14,9 @@ vendor
 .ruby-version
 *.gem
 Gemfile.lock
+
+# macOS
+.DS_Store
 
 # vscode
 workspace.code-workspace

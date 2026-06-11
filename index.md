@@ -9,33 +9,33 @@ published: true
 
 
 <!--### Profile-->
-I am an [Associate Professor](https://experts.griffith.edu.au/41503-leo-zhang) in the [School of ICT](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology) and the Program Director for [Bachelor of Cybersecurity](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677), [Griffith University](https://www.griffith.edu.au/). Prior to joining Griffith, I was a faculty member in the [School of IT](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/) (2018-2023). I obtained my Ph.D. in 2016 from the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/), where I later worked as a research fellow in the [Department of Computer Science](https://www.cs.cityu.edu.hk//) before commencing my academic career in Australia. My research spans a broad spectrum of cybersecurity, with a particular focus on Trustworthy Artificial Intelligence and Applied Cryptography.
+I am an [Associate Professor](https://experts.griffith.edu.au/41503-leo-zhang) in the [School of ICT](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology) and the Program Director for [Bachelor of Cybersecurity](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677), [Griffith University](https://www.griffith.edu.au/). Prior to joining Griffith, I was a faculty member in the [School of IT](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/) (2018-2023). I obtained my Ph.D. in 2016 from the [Department of Electrical Engineering](https://www.ee.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/), where I later worked as a research fellow in the [Department of Computer Science](https://www.cs.cityu.edu.hk/) before commencing my academic career in Australia. My research spans a broad spectrum of cybersecurity, with a particular focus on Trustworthy Artificial Intelligence and Applied Cryptography.
 
-I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring  trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) and [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036).
+I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) and [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036).
 
 
 <div class="student-notice">
   <p class="student-notice-title">Prospective PhD Students</p>
-  <p>I am always actively looking for self-motivated students. Please email me your CV, transcript and english test score if you are interested in my research topics. Information about <strong>Griffith PhD admission and scholarships</strong> can be found <a href="{{site.baseurl}}/prosStudents">here</a>.</p>
+  <p>I am always actively looking for self-motivated students. Please email me your CV, transcript and English test score if you are interested in my research topics. Information about <strong>Griffith PhD admission and scholarships</strong> can be found <a href="{{site.baseurl}}/prosStudents">here</a>.</p>
   <p><a href="{{site.baseurl}}/prosStudents">CSIRO's Industry PhD</a> is currently open, with Griffith's internal deadline in mid-July. Domestic students (Australian citizens or PR) are welcome to contact me directly!</p>
 </div>
 
 <!--
 <p>
-<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div>
 <h4> &nbsp; I am recruiting <del>2</del> 1 PhD students with full scholarship to work on Trustworthy AI. See <a href = "{{site.baseurl}}/CFP/AI-HDR-Adv">here</a> for more information.</h4>
 
-<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div>
 <h4> &nbsp; <del>2 CSC PhD students and</del> 2 CSC visiting positions are available for 26/27! See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</h4>
 </p>
 -->
 
 
 <!--
-<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div>
 <h4> &nbsp; <del>I am recruiting 2  PhD students with full scholarship to work on quantum-safe algorithms and protocols. See <a href = "{{site.baseurl}}/CFP/HDR-Adv">here</a> for more information.</del></h4>
 
-<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div> 
+<div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div>
 <h4> &nbsp; <del>The main round of the 2025 Griffith PhD Scholarship is open until 27-08-2024 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</del></h4>
 
 
@@ -43,7 +43,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 ### News
 <!--
-- [May-26] One work accepted by 
+- [May-26] One work accepted by
 - -->
 - [May-26] Three works, __Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics__, __"Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills__, and __Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations__, have been accepted to _USENIX Security 2026_! Congrats to Hangtao, Zhihao, Jun, and all collaborators for this fantastic achievement!
 
@@ -51,11 +51,11 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 - [May-26] Our new work __Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring__ has been accepted to the _43rd International Conference on Machine Learning (ICML)_! Congrats to Junhuang and Linshan!
 
-- [Apr-26] I will serve as an Area Chair for NeurIPS-25. Looking forward to your good work!
+- [Apr-26] I will serve as an Area Chair for NeurIPS-26. Looking forward to your good work!
 
 - [Mar-26] Our new work __ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery__ has been accepted to the _47th IEEE Symposium on Security and Privacy (Oakland)_! Congrats to Zirui and the team!
 
-- [Jan-26] I am honored to serve as a __Program Committee member__ for _Usenix Security 2026_ (Cycle 2). Excited to review your outstanding work!
+- [Jan-26] I am honored to serve as a __Program Committee member__ for _USENIX Security 2026_ (Cycle 2). Excited to review your outstanding work!
 
 - [Jan-26] Our new work __Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement__ has been accepted to the _Fourteenth International Conference on Learning Representations (ICLR 2026)_! Congrats to Yuhang!
 
@@ -81,7 +81,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 [Nov-25] Three of our works have been accepted to AAAI-26. Congrats to Lulu, Yuhang and Shuyu!
 
-[Sep-25] Three of our works have been accepted to NeurIPS-25. Speical congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
+[Sep-25] Three of our works have been accepted to NeurIPS-25. Special congratulations to Ziqi for his spotlight paper: __Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2__!
 
 [Sep-25] I am honored to serve as a __Program Committee member__ for CCS-26 (Machine Learning and Security Track). Excited to review your outstanding work!
 
@@ -115,7 +115,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 [Feb-25] Our new work __Test-Time Backdoor Detection for Object Detection Models__ has been accepted by the 2025 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_! Well done, Hangtao!
 
-[Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th Usenix Security Symposium_! Congrats to Dayong and the team! 
+[Jan-25] Two new works, __Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI__ and __Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning__, have been accepted by the _34th USENIX Security Symposium_! Congrats to Dayong and the team!
 
 [Jan-25] Our new work __BadRobot: Manipulating Embodied LLMs in the Physical World__ has been accepted by the 2025 _International Conference on Learning Representations (ICLR)_! Congrats, Hangtao!
 
@@ -137,7 +137,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 
 [Jul-24] Our new work __DERD: Data-free Adversarial Robustness Distillation through Self-adversarial Teacher Group__ has been accepted to _ACM Multimedia (MM 2024)_! Congrats, Yuhang!
 
-[Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Srping Cycle of _ESORICS 2024_! Congrats, Xianlong!
+[Jun-24] Our new work __ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification__ has been accepted to the Spring Cycle of _ESORICS 2024_! Congrats, Xianlong!
 
 [May-24] Our new work __IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency__ has been accepted by the 2024 _International Conference on Machine Learning (ICML 2024)_! Congrats, Linshan!
 

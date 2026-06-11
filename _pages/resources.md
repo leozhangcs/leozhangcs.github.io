@@ -13,7 +13,7 @@ This page contains some information that is useful for research.
 <!-- - Cryptography II (by Dan Boneh)-->
 - [Matrix Analysis and Computations](https://www.ee.cuhk.edu.hk/~wkma/engg5781/)
 - [Statistics](https://www.coursera.org/course/introstats)
-- [Numerical Optimization]()
+- Numerical Optimization
 - Analysis of Algorithms
 - Information Theory
 - Machine Learning
@@ -39,6 +39,5 @@ This page contains some information that is useful for research.
 
 ### Reading Lists
 [[Crpto. Papers](https://www.cs.purdue.edu/homes/ninghui/SecurityReadings.html)], [[Sec. Paper Lists](https://www.cs.unb.ca/~rlu1/resources.htm)], [[DL Backdoor List 1](https://github.com/THUYimingLi/backdoor-learning-resources#survey)], [[DL Backdoor List 2](https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning)], [[Adversarial Reading List](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)], [[Federated Learning Papers](https://github.com/FedML-AI/FedML/blob/master/research/Awesome-Federated-Learning.md)], [[AI security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)], [[LLM List a](https://github.com/ThuCCSLab/Awesome-LM-SSP)], [[LLM List b](https://unispac.github.io/arxiv-llm-alignment-safety-security/)], [[LLM Watermark](https://github.com/hzy312/Awesome-LLM-Watermark)], [[CS Best Papers](https://jeffhuang.com/best_paper_awards/)]
-
 
 

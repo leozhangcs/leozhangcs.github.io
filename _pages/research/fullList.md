@@ -22,13 +22,13 @@ published: true
 8. Y. Song, Z. Zhou, M. Li, X. Wang, M. Deng, W. Wan, S. Hu, __L. Y.Zhang__, "PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation," in ICASSP, 2025. DOI: 10.1109/ICASSP49660.2025.10890418 (ccf b)
 9. Y. Zhang, Y. Zhou, T. Li, M. Li, S. Hu, W. Luo, __L. Y. Zhang__, "Secure Transfer Learning: Training Clean Models Against Backdoor in (Both) Pre-trained Encoders and Downstream Datasets," in Oakland, 2025. (core a*, ccf a)
 10. Z. Gong, Y. Zhang, __L. Y. Zhang__, Z. Zhang, Y. Xiang, S. Pan, "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning," in Oakland, 2025. (core a*, ccf a)
-11. D. Ye, T. Zhu, J. Li, K. Gao, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning," in Usenix Security, 2025. (core a*, ccf a)
-12. D. Ye, T. Zhu, S. Wang, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI," in Usenix Security, 2025. (core a*, ccf a)
+11. D. Ye, T. Zhu, J. Li, K. Gao, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning," in USENIX Security, 2025. (core a*, ccf a)
+12. D. Ye, T. Zhu, S. Wang, B. Liu, __L. Y. Zhang__, W. Zhou, Y. Zhang, "Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI," in USENIX Security, 2025. (core a*, ccf a)
 13. H. Zhang, Y. Wang, S. Yan, C. Zhu, Z. Zhou, L. Hou, S. Hu, M. Li, Y. Zhang, __L. Y. Zhang__, "Test-Time Backdoor Detection for Object Detection Models," in CVPR, 2025. (core a*, ccf a)
 14. H. Zhang, C. Zhu, X. Wang, Z. Zhou, C. Yin, M. Li, L. Xue, Y. Wang, S. Hu, A. Liu, P. Guo, __L. Y Zhang__, "BadRobot: Jailbreaking Embodied LLMs in the Physical World," in ICLR, 2025. (core a*)
 15. Z. Zhou, Y. Song, M. Li, S. Hu, X. Wang, __L. Y. Zhang__, D. Yao, H. Jin, "DarkSAM: Fooling Segment Anything Model to Segment Nothing," in NeurIPS, 2025. (core a*, ccf a)
 16. M. Li, X. Wang, Z. Yu, S. Hu, Z. Zhou, L. Zhang, __L. Y. Zhang__, "Detecting and Corrupting Convolution-based Unlearnable Examples," in AAAI, 2025. (core a*, ccf a)
-17. Y. Zhang, Y. Xu, J. Shi, __L. Y. Zhang__, S. Hu, M. Li, Y. Zhang, 
+17. Y. Zhang, Y. Xu, J. Shi, __L. Y. Zhang__, S. Hu, M. Li, Y. Zhang,
 "Improving Generalization of Universal Adversarial Perturbation via Dynamic Maximin Optimization," in AAAI, 2025. (core a*, ccf a)
 1.  Z. Zhou, B. Li, Y. Song, Z. Yu, S. Hu, W. Wan, __L. Y. Zhang__, D. Yao, H. Jin, "NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors," in AAAI, 2025. (core a*, ccf a)
 2.   F. Wang, Z. Chen, M. Fan, J. Zhou, L. Pan, __L. Y. Zhang__, "PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks," in International Conference on Financial Cryptography and Data Security (FC), 2025. (core a, ccf c)
@@ -41,9 +41,9 @@ published: true
 9.  H. Zhang, S. Hu, Y. Wang, L. Y. Zhang, Z. Zhou, X. Wang, Y. Zhang, C. Chen,  "Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness," in IJCAI, 2024. (core a*, ccf a)
 10. W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, __L. Y. Zhang__, H. Jin, "MISA: Unveiling the Vulnerabilities in Split Federated Learning," in ICASSP, 2024. (ccf b)
 11. Z. Zhou, M. Li, W. Liu, S. Hu, Y. Zhang, W. Wan, L. Xue, __L. Y. Zhang__, D. Yao, H. Jin, "Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples," in Oakland, 2024. (core a*, ccf a)
-12. X. Wang, S. Hu, Y. Zhang, Z. Zhou, __L. Y. Zhang__, P. Xu, W. Wan, H. Jin, 
+12. X. Wang, S. Hu, Y. Zhang, Z. Zhou, __L. Y. Zhang__, P. Xu, W. Wan, H. Jin,
 "ECLIPSE: Expunging clean-label indiscriminate poisons via sparse diffusion purification," in Esorics, 2024. (core a, ccf b)
-1.  X. Wang, S. Hu, P. Xu, W. Liu, __L. Y. Zhang__, M. Li, Y. Zhang, “PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds,” in Esorics, 2024. (core a, ccf b) 
+1.  X. Wang, S. Hu, P. Xu, W. Liu, __L. Y. Zhang__, M. Li, Y. Zhang, “PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds,” in Esorics, 2024. (core a, ccf b)
 2.  F. Wang, Z. Chen, L. Pan, __L. Y. Zhang__, J. Zhou, "CryptGraph: An Efficient Privacy-Enhancing Solution for Accurate Shortest Path Retrieval in Cloud Environments," in AsiaCCS, 2024. (core a, ccf c)
 3.  D. Mi, Y. Zhang, __L. Y. Zhang__, S. Hu, Q. Zhong, H. Yuan, S. Pan, "Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation," in AAAI, 2024. (core a*, ccf a)
 4.  Q. Duan, Z. Hua, Q. Liao, Y. Zhang, __L. Y. Zhang__, "Conditional Backdoor Attack via JPEG Compression," in AAAI, 2024. (core a*, ccf a)
@@ -59,10 +59,10 @@ published: true
 14. X. Mo, __L. Y. Zhang__, N. Sun, W. Luo, S. Gao, "Backdoor Attack on Deep Neural Networks in Perception Domain," in IJCNN, 2023. (core-21 b, ccf c)
 15. L. Li, C. Chen, L. Pan, __L. Y. Zhang__, J. Zhang, Y. Xiang, "SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display," in RAID, 2023. (core-23 a, ccf b)
 16. H. Zhang, Z. Yao, __L. Y. Zhang__, S. Hu, C. Chen, A. W.-C. Liew, Z. Li, "Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning," in IJCAI 2023. (core a*, ccf a)
-17. M. Ma, Y. Zhang, P. C. M. Arachchige, __L. Y. Zhang__, M. B. Chhetri, G. Bai, "LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks," in AsiaCCS, 2023. (core a, ccf c) 
+17. M. Ma, Y. Zhang, P. C. M. Arachchige, __L. Y. Zhang__, M. B. Chhetri, G. Bai, "LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks," in AsiaCCS, 2023. (core a, ccf c)
 18. Y. Yang, J. Weng, Y. Yi, C. Dong, __L. Y. Zhang__, J. Y. Zhou, "Predicate Private Set Intersection with Linear Complexity," in ACNS, pp. 143-166, 2023. (ccf c)
 19. X. Zhang, Z. Zhang, Q. Zhong, X. Zheng,  Y. Zhang,  S. Hu, __L. Y. Zhang__, "Masked Language Model Based Textual Adversarial Example Detection," in AsiaCCS, 2023. (core-21 a, ccf c)
-20. T. Cai, Y. Li, T. Jia, __L. Y. Zhang__, Z. Yang, "Catch Me If You Can: A New Low-Rate DDoS Attack Strategy Disguised by Feint," in CSCWD, 2023. (core-21 b, ccf c) 
+20. T. Cai, Y. Li, T. Jia, __L. Y. Zhang__, Z. Yang, "Catch Me If You Can: A New Low-Rate DDoS Attack Strategy Disguised by Feint," in CSCWD, 2023. (core-21 b, ccf c)
 21. S. Hu, J. Zhang, W. Liu, J. Hou, M. Li, __L. Y. Zhang__, H. Jin, and L. Sun, "PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples," in AAAI, 2023. (core-21 a*, ccf a)
 22. M. Li, J. Shi, W. Wan, J. Lu, S. Hu and __L. Y. Zhang__, "Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraint," in IEEE MSN, 2022. (ccf c)
 23. Z. Zheng, Z. Hua and __L. Y. Zhang__, "Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers," in ICONIP, 2022. (core-21 b, ccf c)
@@ -87,12 +87,12 @@ published: true
 42. Yushu Zhang, Xiaofeng Liao, Jiantao Zhou, __Leo Yu Zhang__, Jun-xin Chen, Di Xiao, "A Cascade Chaotic Map and Block Compressive Sensing Based Scalable Encryption Framework to Protect Significant Image Regions," Proceedings of  The 1st International Conference on Chaotic Secure Communication (ICCSC2015), Beijing, P.R. China, 2015.
 43. Yushu Zhang, Jiantao Zhou, __Leo Yu Zhang__, Fei Chen, Xinyu Lei, "Support-Set-Assured Parallel Outsourcing of Sparse Reconstruction Service for Compressive Sensing in Multi-Clouds," International Symposium on Security and Privacy in Social Networks and Big Data (SocialSec2015), accepted, 2015.
 44. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Qiuzhen Lin, "Joint Quantization and Diffusion for Compressed Sensing Measurements of Natural Images," Proceedings of 2015 IEEE International Symposium on Circuits and Systems (ISCAS2015), pp. 2744-2747, 2015. (ccf c)
-  
+
 ### Journal Papers
 1. F. Wang, J. Ouyang, X. Liu, L. Pan, __L. Y. Zhang__, R. Doss, "MedShield: A Fast Cryptographic Framework for Private Multi-Service Medical Diagnosis," IEEE Transactions on Services Computing, 2025. DOI: 10.1109/TSC.2025.3526369
 2. J. Wei, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Pan, K.-L. Ong, J. Zhang, Y. Xiang, "Extracting Private Training Data in Federated Learning from Clients," IEEE Transactions on Information Forensics and Security, 2025. DOI: 10.1109/TIFS.2025.3558581
 3. M. Li, H. Zhang, Y. Zhang, L. Zeng, C. Chen, Q. Shao, W. Wan, S. Hu, __L. Y. Zhang__, "Fine-Grained Poisoning Framework Against Federated Learning," IEEE Transactions on Dependable and Secure Computing, 2025. DOI: 10.1109/TDSC.2025.3604514
-4. J. Wei, Y. Zhang, __L. Y. Zhang__, M. Ding, C. Chen, K.-L. Ong, J. Zhang, Y. Xiang, "Memorization in deep learning: A survey," ACM Computing Surveys, 2025. DOI: 10.1145/3769076 
+4. J. Wei, Y. Zhang, __L. Y. Zhang__, M. Ding, C. Chen, K.-L. Ong, J. Zhang, Y. Xiang, "Memorization in deep learning: A survey," ACM Computing Surveys, 2025. DOI: 10.1145/3769076
 5. Z. Zhou, M. Deng, Y. Song, H. Zhang, W. Wan, S. Hu, M. Li, __L. Y. Zhang__, D. Yao, "DarkHash: A Data-Free Backdoor Attack Against Deep Hashing," IEEE Transactions on Information Forensics and Security, 2025. DOI: 10.1109/TIFS.2025.3593813
 6. L. Hou, W. Luo, Z. Hua, S. Chen, __L. Y. Zhang__, Y. Li, "FLARE: Towards Universal Dataset Purification against Backdoor Attacks," IEEE Transactions on Information Forensics and Security, 2025. DOI: 10.1109/TIFS.2025.3581719
 7. J. Wei, Y. Zhang, __L. Y. Zhang__, C. Chen, S. Pan, K. Ong, "Extracting Private Training Data in Federated Learning from Clients," IEEE Transactions on Information Forensics and Security, 2025. DOI: 10.1109/TIFS.2025.3558581
@@ -106,7 +106,7 @@ published: true
 15. X. Xiao, Y. Zhang, __L. Y. Zhang__, Z. Hua, Z. Liu, J. Huang, "FairCMS: Cloud Media Sharing With Fair Copyright Protection," IEEE Transactions on Computational Social Systems, in press, 2024. DOI: 10.1109/TCSS.2024.3374452.
 16. Z. Hou, J. Ning, X. Huang, S. Xu, __L. Y. Zhang__, "Blockchain-based efficient verifiable outsourced attribute-based encryption in cloud," Computer Standards & Interfaces, in press, 2024. DOI: 10.1016/j.csi.2024.103854.
 17. H. Liu, Y. Wang, Z. Zhang, J. Deng, C. Chen, __L. Y. Zhang__, "Matrix factorization recommender based on adaptive Gaussian differential privacy for implicit feedback," vol. 61, no. 4, Information Processing & Management, 2024. DOI: 10.1016/j.ipm.2024.103720.
-18. Z. Yao, H. Zhang, Y. Guo, X. Tian, W. Peng, Y. Zou, __L. Y. Zhang__, C. Chen, "Reverse Backdoor Distillation: Towards Online Backdoor Attack Detection for Deep Neural Network Model," IEEE Transactions on Dependable and Secure Computing, in press, 2024. 
+18. Z. Yao, H. Zhang, Y. Guo, X. Tian, W. Peng, Y. Zou, __L. Y. Zhang__, C. Chen, "Reverse Backdoor Distillation: Towards Online Backdoor Attack Detection for Deep Neural Network Model," IEEE Transactions on Dependable and Secure Computing, in press, 2024.
 19. J. Lu, S. Hu, W. Wan, M. Li, __L. Y. Zhang__, L. Xue, H. Wang, H. Jin, "Depriving the Survival Space of Adversaries Against Poisoned Gradients in Federated Learning," IEEE Transactions on Information Forensics and Security, in press, 2024. DOI: 10.1109/TIFS.2024.3360869.
 20. M. Xue, Y. Wu, S. Ni, __L. Y. Zhang__, Y. Zhang, W. Liu, "Untargeted Backdoor Attack Against Deep Neural Networks With Imperceptible Trigger," IEEE Transactions on Industrial Informatics, pp. 1241-1250, 2023, DOI: 10.1109/TII.2023.3329641.
 21. Z. Gong, L. Shen, Y. Zhang, __L. Y. Zhang__, J. Wang, G. Bai, Y. Xiang, "AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification," IEEE Transactions on Information Forensics and Security, in press, 2023, DOI: 10.1109/TIFS.2023.3333555.
@@ -114,7 +114,7 @@ published: true
 23. Y. Wang, X. Zhang, R. Chen, H.-N. Dai, X. Wang, __L. Y. Zhang__, M. Li, "Multi-Receiver Conditional Anonymous Singcryption for IoMT Crowdsourcing," IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3319074.
 24. J. Deng, H. Li, J. Guo, __L. Y. Zhang__, Y. Wang, "Providing prediction reliability through deep neural networks for recommender systems," vol. 185, no. 109627, Computers & Industrial Engineering, 2023. 10.1016/j.cie.2023.109627.
 25. J. Deng, X. Ran, Y. Wang, __L. Y. Zhang__, J. Guo, "Probabilistic Matrix Factorization Recommendation Approach for Integrating Multiple Information Sources," IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, DOI: 10.1109/TSMC.2023.3281706.
-26. C. Luo, Y. Wang, B. Li, H. Liu, P. Wang, __L. Y. Zhang__, "An Efficient Approach to Manage Natural Noises in Recommender Systems," Algorithms, vol. 16 no. 5: 228, 2023. 
+26. C. Luo, Y. Wang, B. Li, H. Liu, P. Wang, __L. Y. Zhang__, "An Efficient Approach to Manage Natural Noises in Recommender Systems," Algorithms, vol. 16 no. 5: 228, 2023.
 27. Y. Yang, J. Weng, Y. Tong, J.-N. Liu, Z. Wu, L. Y. Zhang, A. Yang, "PriGenX: Privacy-preserving Query With Anonymous Access Control for Genomic Data," IEEE Transactions on Dependable and Secure Computing, in press, 2023. DOI: 10.1109/TDSC.2023.3266292.
 28. Y. Wang, M. Gao, X. Ran, J. Ma, __L. Y. Zhang__, "An improved matrix factorization with local differential privacy based on piecewise mechanism for recommendation systems," Expert Systems with Applications, in press, 2023. DOI: 10.1016/j.eswa.2022.119457.
 29. Y. Yang, Y. Tong, J. Weng, Y. Yi, Y. Zheng, __L. Y. Zhang__, R. Lu, "PriRanGe: Privacy-Preserving Range-Constrained Intersection Query Over Genomic Data," IEEE Transactions on Cloud Computing, in press, 2022. DOI: 10.1109/TCC.2022.3205700
@@ -124,7 +124,7 @@ published: true
 33. Z. Zhang, H. Zhu, P. Ban, Y. Wang, __L. Y. Zhang__, "Buffeting Chaotification Model for Enhancing Chaos and Its Hardware Implementation," IEEE Transactions on Industrial Electronics, in press, 2022. DOI: 10.1109/TIE.2022.3174288
 34. N. Sun, C.-T. Li, H. Chan, B. D. Le, M. Z. Islam, __L. Y. Zhang__, M. R. Islam, W. Armstrong, "Defining Security Requirements with the Common Criteria: Applications, Adoptions, and Challenges," IEEE Access, in press, 2022. DOI: 10.1109/ACCESS.2022.3168716
 35. F. Zhao, L. Zhou, Q. Zhong, R. Lan, __L. Y. Zhang__, "Natural Backdoor Attacks on Deep Neural Networks via Raindrops," Security and Communication Networks, 2022. DOI: 10.1155/2022/4593002
-36. Z. Liu, J. Y. Liu, __L. Y. Zhang__, Y. Zhao, X. F. Gong, "Performance of the 2D Coupled Map Lattice Model and Its Application in Image Encryption," Complexity, in press, 2022. 
+36. Z. Liu, J. Y. Liu, __L. Y. Zhang__, Y. Zhao, X. F. Gong, "Performance of the 2D Coupled Map Lattice Model and Its Application in Image Encryption," Complexity, in press, 2022.
 37. F. Wang, L. Y. Zhang*, "Equiprobable symbolization pattern entropy for time series complexity measurement," Nonlinear Dynamics, pp. 1-14, 2022. DOI: 10.1007/s11071-022-07772-1
 38. Nan Sun, Jun Zhang, Shang Gao, __Leo Yu Zhang__, Seyit Camtepe, Yang Xiang, "Cyber Information Retrieval Through Pragmatics Understanding and Visualization," IEEE Transactions on Dependable and Secure Computing, in press, 2022. DOI: 10.1109/TDSC.2022.3151148
 39. Xun Ran, Yong Wang, __Leo Yu Zhang__, Jun Ma, "A Differentially Private Matrix Factorization Based on Vector Perturbation for Recommender System," Neurocomputing, in press, 2022.
@@ -137,41 +137,41 @@ published: true
 46. Junxin Chen, __Leo Yu Zhang__, Yicong Zhou, "Re-evaluation of the security of a family of image diffusion mechanisms," IEEE Transactions on Circuits and Systems for Video Technology, 2021. DOI: 10.1109/TCSVT.2021.3054508
 47. Zhuo Liu, Yong Wang, Gongkun Jiang, __Leo Yu Zhang__, "Design and Analysis on a Parallel Chaos-Based Hash Function," International Journal of Bifurcation and Chaos, 2020. DOI: 10.1142/S0218127420501886
 48. C.K. Ng, S. Rajasegarar, L. Pan, F. Jiang, __L. Y. Zhang__, "VoterChoice: A ransomware detection honeypot with multiple voting framework," Concurrency and Computation: Practice and Experience, e5726, 2020.
-49. Y. Wang, Z. Zhang, __L. Y. Zhang__, J. Feng, J. Gao, P. Lei, "A genetic algorithm for constructing bijective substitution boxes with high nonlinearity," Information Sciences, vol. 523, pp. 152-166, 2020. 
+49. Y. Wang, Z. Zhang, __L. Y. Zhang__, J. Feng, J. Gao, P. Lei, "A genetic algorithm for constructing bijective substitution boxes with high nonlinearity," Information Sciences, vol. 523, pp. 152-166, 2020.
 50. G. Hua, Y. Xiang, __L. Y. Zhang__, "Informed Histogram-Based Watermarking," IEEE Signal Processing Letters, in press, 2020. DOI: 10.1109/LSP.2020.2965331
 51. Y. Zhang, X. Huang, X. Chen, __L. Y. Zhang__, J. Zhang, Y. Xiang, "A Hybrid Key Agreement Scheme for Smart Homes Using the Merkle Puzzle," IEEE Internet of Things Journal, in press, 2019. DOI: 10.1109/JIOT.2019.2949407
 52. J. Chen, J. Xing, __L. Y. Zhang__, Q. Lin, "Compressed sensing for electrocardiogram acquisition in wireless body sensor network: A comparative analysis," International Journal of Distributed Sensor Networks, in press, 2019. DOI: 10.1177/1550147719864884
 53. Y. Zhang, Y. Xiang, __L. Y. Zhang__, Y. Rong, S. Guo, "Secure Wireless Communications Based on Compressive Sensing: A Survey," IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1093-1111, 2019.
 54. Y. Zhang, Y. Xiang, __L. Y. Zhang__, L. Yang, J. Zhou, "Efficiently and Securely Outsourcing Compressed Sensing Reconstruction to a Cloud," Information Sciences, in press, 2019. DOI: 10.1016/j.ins.2019.05.024
 55. Yuansheng Liu, __L. Y. Zhang__, Jinyan Li, "Fast detection of maximal exact matches via fixed sampling of query k-mers and Bloom filtering of index k-mers," Bioinformatics, in press, 2019. DOI: 10.1093/bioinformatics/btz273
-56. J. Chen, L. Chen, __L. Y. Zhang__, Z. Zhu, "Medical image cipher using hierarchical diffusion and non-sequential encryption," Nonlinear Dynamics, in press, 2019. 
+56. J. Chen, L. Chen, __L. Y. Zhang__, Z. Zhu, "Medical image cipher using hierarchical diffusion and non-sequential encryption," Nonlinear Dynamics, in press, 2019.
 57. C.K. Ng, F. Jiang, __L. Y. Zhang__, W. Zhou, "Static malware clustering using enhanced deep embedding method," Concurrency and Computation: Practice and Experience, e5234, 2019.
 58. N. Sun, J. Zhang, P. Rimba, S. Gao, __L. Y. Zhang__, Y. Xiang, "Data-driven cybersecurity incident prediction: A survey," IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1744-1772, 2019.
 59. S. Hu, __L. Y. Zhang__, Q. Wang, Z. Qin, C. Wang, "Towards Private and Scalable Cross-Media Retrieval," IEEE Transactions on Dependable and Secure Computing, in press, 2019. DOI: 10.1109/TDSC.2019.2926968
 60. J. Wang, __L. Y. Zhang__, J. Chen, G. Hua, Y. Zhang, Y. Xiang, "Compressed Sensing Based Selective Encryption With Data Hiding Capability," IEEE Transactions on Industrial Informatics, in press, 2019. DOI: 10.1109/TII.2019.2924083
-61. J. Wang, J. Li, H. Wang, __L. Y. Zhang__, L. M. Cheng, Q. Lin, “Dynamic Scalable Elliptic Curve Cryptographic Scheme and Its Application to In-Vehicle Security,” IEEE Internet of Things Journal, vol. 6, no. 4, pp. 5892-5901, 2019. 
+61. J. Wang, J. Li, H. Wang, __L. Y. Zhang__, L. M. Cheng, Q. Lin, “Dynamic Scalable Elliptic Curve Cryptographic Scheme and Its Application to In-Vehicle Security,” IEEE Internet of Things Journal, vol. 6, no. 4, pp. 5892-5901, 2019.
 62. __Leo Yu Zhang__, Yifeng Zheng, Jian Weng, Cong Wang, Zihao Shan, Kui Ren, "You Can Access But You Cannot Leak: Defending Against Illegal Content Redistribution in Encrypted Cloud Media Center," IEEE Transactions on Dependable and Secure Computing, vol. 17, no. 6, pp. 1218-1231, 2018.
 63. Junxin Chen, Nan Bao, __Leo Yu Zhang__, Zhiliang Zhu, "Optical information authentication using optical encryption and sparsity constraint," Optics and Lasers in Engineering, vol. 107, pp. 352-363, 2018.
 64. Yushu Zhang, Qi He, Yong Xiang, __Leo Yu Zhang__, Bo Liu, Junxin Chen, Yiyuan Xie, "Low-Cost and Confidentiality-Preserving Data Acquisition for Internet of Multimedia Things," IEEE Internet of Things Journal, in press, 2018.
-65. __Leo Yu Zhang__, Yuansheng Liu, Cong Wang, Jiantao Zhou, Yushu Zhang, and Guanrong Chen, "Improved Known-plaintext Attack on Permutation-only Multimedia Ciphers," Information Sciences, vols. 430-431, pp. 228-239, 2018. 
+65. __Leo Yu Zhang__, Yuansheng Liu, Cong Wang, Jiantao Zhou, Yushu Zhang, and Guanrong Chen, "Improved Known-plaintext Attack on Permutation-only Multimedia Ciphers," Information Sciences, vols. 430-431, pp. 228-239, 2018.
 66. Junxin Chen, Nan Bao, Jinchang Li, Zhiliang Zhu, __Leo Yu Zhang__, "Cryptanalysis of Optical Ciphers Integrating Double Random Phase Encoding With Permutation," IEEE Access, vol. 5, pp. 16124-16129, 2017.
-67. Yushu Zhang, Jiantao Zhou, Yong Xiang, __Leo Yu Zhang__, Fei Chen, Shaoning Pang, and Xiaofeng Liao, "Computation Outsourcing Meets Lossy Channel: Secure Sparse Robustness Decoding Service in Multi-Clouds," IEEE Transactions on Big Data, in press, 2017. 
+67. Yushu Zhang, Jiantao Zhou, Yong Xiang, __Leo Yu Zhang__, Fei Chen, Shaoning Pang, and Xiaofeng Liao, "Computation Outsourcing Meets Lossy Channel: Secure Sparse Robustness Decoding Service in Multi-Clouds," IEEE Transactions on Big Data, in press, 2017.
 68. Qiuzhen Lin, Bishan Hu, Ya Tang, __Leo Yu Zhang__, Jianyong Chen, Xiaomin Wang, Zhong Ming, "A Local Search Enhanced Differential Evolutionary Algorithm for Sparse Recovery," Applied Soft Computing, vol. 57, pp. 144-163, 2017.
 69. __Leo Yu Zhang__, Yuansheng Liu, Fabio Pareschi, Yushu Zhang, Kwok-Wo Wong, Riccardo Rovatti, Gianluca Setti, "On the security of a class of diffusion mechanisms for image encryption," IEEE Transactions on Cybernetics, vol. 48, no. 4, pp. 1163-1175, 2018. [Code]
 70. __Leo Yu Zhang__, Yushu Zhang, Yuansheng Liu, Anjia Yang, Guanrong Chen, "Security analysis of some diffusion mechanisms used in chaotic ciphers," International Journal of Bifurcation and Chaos, vol. 27, no. 10, article no. 1750155, 2017.
-71. Yushu Zhang, Hui Huang, Yong Xiang, __Leo Yu Zhang__, Xing He, "Harnessing the hybrid cloud for secure big image data service," IEEE Internet of Things Journal, vol. 4, no. 5, pp. 1380-1388, 2017.  
+71. Yushu Zhang, Hui Huang, Yong Xiang, __Leo Yu Zhang__, Xing He, "Harnessing the hybrid cloud for secure big image data service," IEEE Internet of Things Journal, vol. 4, no. 5, pp. 1380-1388, 2017.
 72. Junxin Chen, Yushu Zhang, __Leo Yu Zhang__, "On the security of optical ciphers under the architecture of compressed sensing combining with double random phase encoding," IEEE Photonics Journal, vol. 9, no. 4, 7802711, 2017.
 73. Guodong Ye, Xiaoling Huang, __Leo Yu Zhang__, Zhengxia Wang. "A self-cited pixel summation based image encryption algorithm," Chinese Physics B, vol. 26, no. 1, 10501, 2017.
 74. __Leo Yu Zhang__, Kwok-Wo Wong, Yushu Zhang, Jiantao Zhou, "Bi-level Protected Compressive Sampling," IEEE Transactions on Multimedia, vol. 18, no. 9, pp. 1720-1732, 2016.
 75. Yushu Zhang, __Leo Yu Zhang__, Jiantao Zhou, Licheng Liu, Fei Chen, Xing He, "A Review of Compressive Sensing in Information Security Field," IEEE Access, vol. 4, pp. 2507-2519, 2016.
 76. Yushu Zhang, Jiantao Zhou, Fei Chen, __Leo Yu Zhang__, Di Xiao, Bin Chen, Xiaofeng Liao, A Block Compressive Sensing Based Scalable Encryption Framework for Protecting Significant Image Regions," International Journal of Bifurcation and Chaos, vol. 26, no. 11, 1650191, 2016.
 77. Yushu Zhang, Jiantao Zhou, Fei Chen, __Leo Yu Zhang__, Kwok-Wo Wong, Xing He, Xiao Di, "Embedding Cryptographic Features in Compressive Sensing," Neurocomputing, vol. 40, no. 12, pp. 472-480, 2016.
-78. Yuansheng Liu, __Leo Yu Zhang__, Jia Wang, Yushu Zhang, Kwok-Wo Wong, "Chosen-plaintext attack of an image encryption scheme based on modified permutation-diffusion structure," Nonlinear Dynamics, vol. 84, no. 4, pp. 2241-2250, 2016. 
-79. Li Zeng, Renren Liu, __Leo Yu Zhang__, Yuansheng Liu, Kwok-Wo Wong, "Cryptanalyzing an image encryption algorithm based on scrambling and Veginere cipher," Multimedia Tools and Applications, vol. 75, no. 10, pp. 5439-5453, 2016. 
+78. Yuansheng Liu, __Leo Yu Zhang__, Jia Wang, Yushu Zhang, Kwok-Wo Wong, "Chosen-plaintext attack of an image encryption scheme based on modified permutation-diffusion structure," Nonlinear Dynamics, vol. 84, no. 4, pp. 2241-2250, 2016.
+79. Li Zeng, Renren Liu, __Leo Yu Zhang__, Yuansheng Liu, Kwok-Wo Wong, "Cryptanalyzing an image encryption algorithm based on scrambling and Veginere cipher," Multimedia Tools and Applications, vol. 75, no. 10, pp. 5439-5453, 2016.
 80. Yushu Zhang, Kwok-Wo Wong, __Leo Yu Zhang__, Wenying Wen, Jiantao Zhou, Xing He, "Robust Coding of Encrypted Images via Structural Matrix," Signal Processing: Image Communication, vol. 39, part A, pp. 202-211, 2015.
 81. Yushu Zhang, __Leo Yu Zhang__, "Exploiting random convolution and random subsampling for optical image encryption and compression," Electronics Letters, vol. 51, no. 20, pp. 1572-1574, 2015.
 82. Chengqing Li, Yuansheng Liu, __Leo Yu Zhang__, Kwok-Wo Wong, "Breaking an image compression and encryption scheme based on Chinese Remainder Theorem," Signal Processing: Image Communication, vol. 29, no. 8, pp. 914-920, 2014.
-83. __Leo Yu Zhang__, Xiaobo Hu, Yuansheng Liu, Kwok-Wo Wong, "A chaotic image encryption scheme owning temp-value feedback," Communications in Nonlinear Science and Numerical Simulation, vol. 19, no. 10, pp. 3653-3659, 2014. 
+83. __Leo Yu Zhang__, Xiaobo Hu, Yuansheng Liu, Kwok-Wo Wong, "A chaotic image encryption scheme owning temp-value feedback," Communications in Nonlinear Science and Numerical Simulation, vol. 19, no. 10, pp. 3653-3659, 2014.
 84. Chengqing Li, Yuansheng Liu, __Leo Yu Zhang__, Michael Z. Q. Chen, "Breaking a chaotic image encryption algorithm based on modulo addition and XOR operation," International Journal of Bifurcation and Chaos, vol. 23, no. 4, 2013.
 85. Chengqing Li, __Leo Yu Zhang__, Rong Ou, Kwok-Wo Wong, "Breaking a novel colour image encryption algorithm based on chaos," Nonlinear Dynamics, vol. 70, no. 4, pp. 2383-2388, 2012.
 86. __Leo Yu Zhang__, Chengqing Li, Kwok-Wo Wong, Shi Shu, Guanrong Chen, "Cryptanalyzing a chaos-based image encryption algorithm using alternate structure," Journal of Systems and Software, vol. 85, no. 9, pp. 2077-2085, 2012.

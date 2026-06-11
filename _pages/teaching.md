@@ -10,7 +10,7 @@ published: true
 + Trustworthy AI (3015ICT/7017ICT): T2-2024, T2-2025, T2-2026
 + Cyber Security Risk Management & Standards (2007ICT/7019ICT): T2-2024, T2-2025, T2-2026
 + Cryptography (3012ICT): T1-2025, T1-2026
-+ Programming Principles (1811ICT/2807ICT/7001ICT): T3-2023, S1-2026@JUFE 
++ Programming Principles (1811ICT/2807ICT/7001ICT): T3-2023, S1-2026@JUFE
 
 
 ### At Deakin (2018-2022)
@@ -22,7 +22,7 @@ published: true
 - Advanced Digital Forensics (SIT703): 2018-T2
 - Networks and Communications (SIT202): 2020-T1
 
-<!-- 
+<!--
 ## Classes
 - **University of Messina**, Computer Networks [2021 - now], [eLearning 2022/2023](https://moodle2.unime.it/course/view.php?id=48404) - [git](https://github.com/lcarnevale/computer-networks)
 - **University of Messina**, Algoritmi e Strutture Dati [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
@@ -31,8 +31,8 @@ published: true
 
 ## Thesis Students (Co-)Advisor
 1. [Mark Adrian Gambito](https://www.linkedin.com/in/mark-adrian-gambito-42b79a195/), "*Development of a Virtual Reality Drunk Driving Immersive Experience with Reinforcement Learning Trained Non-Player Characters*", ME 22/23, University of Messina
-1. [Serena Sebbio](https://www.linkedin.com/in/serena-sebbio-2775b9180/), "*Client Selection Algorithm fornFederated Learning Based on Edge Device Power Consumption*", ME 22/23, University of Messina
-1. [Danny De Novi](), "*Implementazione e analisi di algoritmi di Reinforcement Learning nella guida autonoma: confronto tra PPO, DQN e DDQN in environment 2D e 3D*", BS 22/23, University of Messina
+1. [Serena Sebbio](https://www.linkedin.com/in/serena-sebbio-2775b9180/), "*Client Selection Algorithm for Federated Learning Based on Edge Device Power Consumption*", ME 22/23, University of Messina
+1. Danny De Novi, "*Implementazione e analisi di algoritmi di Reinforcement Learning nella guida autonoma: confronto tra PPO, DQN e DDQN in environment 2D e 3D*", BS 22/23, University of Messina
 1. [Emanuele Lisi](https://www.linkedin.com/in/emanuele-lisi-724380250), "*Instradamento dei pacchetti con AODV e DSDV in un ambiente simulato con OMNeT++ durante un disastro ambientale*", BS 22/23, University of Messina
 1. [Alex Restuccia](https://www.linkedin.com/in/alex-restuccia), "*Coordinazione di veicoli a guida autonoma in una VANET durante l’attraversamento di un incrocio in un ambiente simulato con Omnet++ e SUMO*", BS 22/23, University of Messina
 1. [Gianluca Catalfamo](https://www.linkedin.com/in/gianluca-catalfamo-a9826b19b/), "*Secure and Reliable Over The Air IoTs Setup in a Wireless Mesh Network Useful for Distributing Intelligence at the Disconnected Edge*", ME 22/23, University of Messina

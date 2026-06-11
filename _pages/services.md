@@ -13,12 +13,12 @@ published: true
 
 
 ### Program Committee/SPC/AC
-+ 2026: AAAI (SPC), ICLR (AC), AISTATS, CVPR, ACM CCS, ICML, ICICS, SecureComm, IJCAI, ECCV, Usenix Security (Cycle 2), ACISP (Cycle 2), KDD, ACM Multimedia, NeurIPS (AC), ACSAC; 
-+ 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS (AC), WPES@CCS; 
++ 2026: AAAI (SPC), ICLR (AC), AISTATS, CVPR, ACM CCS, ICML, ICICS, SecureComm, IJCAI, ECCV, USENIX Security (Cycle 2), ACISP (Cycle 2), KDD, ACM Multimedia, NeurIPS (AC), ACSAC;
++ 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS (AC), WPES@CCS;
 + 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
 + 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR;
 + 2022: NeurIPS, ACM Multimedia, IJCAI, AAAI, NSS;
-+ 2021: NSS, ACM Multimedia, International Conference on Mobility, Sensing and Networking (MSN), PRDC,  IEEE International Conference on Cyber, Physical and Social Computing (CPSCom);  
++ 2021: NSS, ACM Multimedia, International Conference on Mobility, Sensing and Networking (MSN), PRDC,  IEEE International Conference on Cyber, Physical and Social Computing (CPSCom);
 + ...
 
 ### Editorship
