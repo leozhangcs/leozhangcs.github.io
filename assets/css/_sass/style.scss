@@ -34,6 +34,22 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: inherit;
 }
 
+.post-headline {
+  line-height: 1.25;
+  margin: 0 0 0.25rem;
+}
+
+.post-description {
+  line-height: 1.35;
+  margin: 0 0 0.45rem;
+}
+
+.header-contact {
+  margin: 0 0 0.55rem;
+  color: $light-gray;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
 
 a {
   color: $brand-color;
@@ -142,7 +158,7 @@ blockquote {
 
 .headline, .post-headline {
   font-size: 2em;
-  margin-bottom: -0.4em;
+  margin-bottom: 0.25rem;
 
   @include media-query($on-palm) {
     font-size: 2em;
