@@ -13,7 +13,6 @@ I am an [Associate Professor](https://experts.griffith.edu.au/41503-leo-zhang) i
 
 I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose goal is to endow machines with human-level intelligence while ensuring trustworthiness and transparency. I am a member of IEEE and ACM, and an Associate Editor of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) and [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036).
 
-
 <div class="student-notice">
   <p class="student-notice-title">Prospective PhD Students</p>
   <p>I am always actively looking for self-motivated students. Please email me your CV, transcript and English test score if you are interested in my research topics. Information about <strong>Griffith PhD admission and scholarships</strong> can be found <a href="{{site.baseurl}}/prosStudents">here</a>.</p>

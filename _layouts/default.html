@@ -13,6 +13,9 @@
          
         <h1 class="post-headline">{{site.title}}</h1>
         <h3 class="post-description">{{site.description}}</h3>
+        {% if page.url == "/" %}
+        <p class="header-contact">Email: leo dot zhang AT griffith.edu.au</p>
+        {% endif %}
 
         {% include navigation.html %}
 
