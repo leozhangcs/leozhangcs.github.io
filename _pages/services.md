@@ -13,7 +13,8 @@ published: true
 
 
 ### Program Committee/SPC/AC
-+ 2026: AAAI (SPC), ICLR (AC), AISTATS, CVPR, ACM CCS, ICML, ICICS, SecureComm, IJCAI, ECCV, USENIX Security (Cycle 2), ACISP (Cycle 2), KDD, ACM Multimedia, NeurIPS (AC), ACSAC;
++ 2027: AAAI (SPC), 
++ 2026: AAAI (SPC), ICLR (AC), AISTATS, CVPR, ACM CCS, ICML, ICICS, SecureComm, IJCAI, ECCV, USENIX Security (Cycle 2), ACISP (Cycle 2), KDD, ACM Multimedia, NeurIPS (AC), ACSAC, ML4CS;
 + 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS (AC), WPES@CCS;
 + 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
 + 2023: ACM Multimedia, IJCAI, AAAI, ICCV, CVPR;
@@ -27,6 +28,11 @@ published: true
 + Nov. 2023-Now, [Associate Editor](https://www.computer.org/csdl/journal/tq/about/107350), IEEE Transactions on Dependable and Secure Computing (TDSC)
 + 2020-2025, [Academic Editor](https://www.hindawi.com/journals/scn/editors/), Security and Communication Networks (SCN)
 
+### Professional Society Service
++ 2026-Now: Chair, [Secure Learning Task Force](https://sites.google.com/view/cis-nntc-securelearning/home?authuser=0), IEEE CIS Neural Networks Technical Committee
++ 2025-2026: Vice Chair, [Secure Learning Task Force](https://sites.google.com/view/cis-nntc-securelearning/home?authuser=0), IEEE CIS Neural Networks Technical Committee
+ 
 ### University Service
-+ 2024-Now: Program Director, [Bachelor of Cyber Security](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677) (Degree Code: 1677)
++ Jun. 2026-Now: Acting Deputy Head of School Research, School of ICT, Griffith University
++ 2024-2026: Program Director, [Bachelor of Cyber Security](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677) (Degree Code: 1677)
 + 2023-Now: Partnership Coordinator (China), School of ICT (take care of existing education and research partnerships and develop new ones)
