@@ -49,7 +49,6 @@ Yanjun's two students
 
 
 
-
 ### Past Members:
 - [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-2026.04, Msc@HUST -> PhD Student@UPenn): Investigating Backdoor Methods for Object Detection Models
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-2026, PhD@HUST -> TTAP@Chongqing University): Research on Techniques for Robustness Evaluation and Enhancement of Pre-Trained Models
