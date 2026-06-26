@@ -12,18 +12,18 @@ I am fortunate to work with a growing group of PhD students and visiting scholar
 Yanjun's two students
 ### Incoming Members:
 - Yujiang Li (incoming PhD student@Griffith)
-- Zhihao Chen (incoming PhD student@Griffith)
-- Jingming Dai (incoming PhD student@Griffith)
 - Xiang Gao (incoming PhD student@Griffith)
 - Yiming Wang (incoming PhD student@Griffith)
 --->
 
 ### Current Members:
-
+- Zhihao Chen (Incoming PhD at 2026, co-supervised with [Prof. Yi LIU](https://scholar.google.com/citations?user=DcFodKsAAAAJ)):
+- Jingming Dai (Incoming PhD at intake 3, 2026): 
 - Jintian Ji (2026.4-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
 - Ziwen Tan (2026.2-now, PhD student@Griffith, co-supervised with [Prof. Alan Liew](https://scholar.google.com.au/citations?user=CNgJ3LYAAAAJ)): 
-- Fang Long (2025.10-now, PhD student@Griffith):
-- Shujun Wang (2025.10-now, PhD student@Griffith):
+- Fang Long (2025.10-now, PhD student@Griffith): 
+- Shujun Wang (2025.10-now, PhD student@Griffith, co-supervised with [Prof. Qinyi Li](https://experts.griffith.edu.au/9201-qinyi-li)): 
+- Haoqi Zhang (2025.10-now, PhD student@Griffith, co-supervised with [Prof. Qinyi Li](https://experts.griffith.edu.au/9201-qinyi-li)): 
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
   * Robust and Efficient Federated Learning at the Edge
 - [Shuyu Chang](https://changshuyu.github.io) (2024-now, Visiting PhD@Griffith):
