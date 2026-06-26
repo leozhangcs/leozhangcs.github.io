@@ -21,27 +21,40 @@ Yanjun's two students
 - Jingming Dai (Incoming PhD at intake 3, 2026): 
 - Jintian Ji (2026.4-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
 - Ziwen Tan (2026.2-now, PhD student@Griffith, co-supervised with [Prof. Alan Liew](https://scholar.google.com.au/citations?user=CNgJ3LYAAAAJ)): 
+
 - Fang Long (2025.10-now, PhD student@Griffith): 
+
 - Shujun Wang (2025.10-now, PhD student@Griffith, co-supervised with [Prof. Qinyi Li](https://experts.griffith.edu.au/9201-qinyi-li)): 
+
 - Haoqi Zhang (2025.10-now, PhD student@Griffith, co-supervised with [Prof. Qinyi Li](https://experts.griffith.edu.au/9201-qinyi-li)): 
+
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
   * Robust and Efficient Federated Learning at the Edge
+
 - [Shuyu Chang](https://changshuyu.github.io) (2024-now, Visiting PhD@Griffith):
   * On the Adversarial Aspects of Source Code Vulnerabilities in AI Systems
+
 - Chenhong Luo (2024.10-now, PhD student@Griffith):
   * Private and Fairness-aware Deep Learning
+
 - [Xiaomei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=0H4Apt0AAAAJ) (2024.09-now, PhD student@Griffith):
   * Security Risks in Large Language Model
+
 - [Xiaoyan Feng](https://scholar.google.com/citations?user=wolUsiMAAAAJ) (2024-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
   * Detecting LLM-generated Content
+
 - Di Mi (24-now, PhD student@XTU, jointly supervised with [Prof. Haizhuan YUAN](https://scholar.google.com.hk/citations?user=iAt4C50AAAAJ)):
   * Model Extraction Attack and Defense in Image-to-Image Translation
+
 - [Zirui Gong](https://scholar.google.com/citations?hl=en&user=ze6m7AMAAAAJ) (2024-now, PhD student@Griffith):
   * On the Trade-off of Robustness, Privacy and Fairness in Federated Learning
+
 - Yuhang Zhou (2023-now, PhD student@HITsz, jointly supervised with [Prof. Zhongyun HUA](https://scholar.google.com/citations?user=Sl0BI_IAAAAJ)):
   * Adversarial Robustness and Generalization in Computer Vision
+
 - [Zhaoxi Zhang](https://scholar.google.com/citations?user=YMcMkLcAAAAJ) (2023-now, PhD Student@Griffith, jointly supervised with [Prof. Yanjun ZHANG](https://scholar.google.com.hk/citations?user=HKq2LkwAAAAJ)):
   * Detecting AI-Generated Contents
+  
 - [Jiaheng Wei](https://scholar.google.com/citations?user=D27CK5YAAAAJ) (2022-now, PhD student@RMIT, jointly supervised with [Prof. Chao CHEN](https://scholar.google.com.hk/citations?user=QZWRJkYAAAAJ)):
   * Memorization in Deep Learning and Its Interplay with Privacy and Security
 - [Lulu Xue](https://scholar.google.com/citations?user=64ilIFEAAAAJ) (2022-now, Msc student@HUST, jointly supervised with [Prof. Shengshan HU](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ)):
