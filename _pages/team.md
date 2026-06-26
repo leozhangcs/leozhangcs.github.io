@@ -21,6 +21,7 @@ Yanjun's two students
 ### Current Members:
 
 - Jintian Ji (2026.4-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
+- Ziwen Tan (2026.2-now, PhD student@Griffith, co-supervised with [Prof. Alan Liew](https://scholar.google.com.au/citations?user=CNgJ3LYAAAAJ)): 
 - Fang Long (2025.10-now, PhD student@Griffith):
 - Shujun Wang (2025.10-now, PhD student@Griffith):
 - [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-now, Visiting Professor@Griffith)
