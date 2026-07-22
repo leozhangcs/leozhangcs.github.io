@@ -16,7 +16,7 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 <div class="student-notice">
   <p class="student-notice-title">Prospective PhD Students</p>
   <p>I am always actively looking for self-motivated students. Please email me your CV, transcript and English test score if you are interested in my research topics. Information about <strong>Griffith PhD admission and scholarships</strong> can be found <a href="{{site.baseurl}}/prosStudents">here</a>.</p>
-  <p>The main round of the 2026 Griffith University Postgraduate Research Scholarship (GUPRS) is open until 25-08-2026 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.<p>
+  <p>The main round of the 2026 Griffith University Postgraduate Research Scholarship (GUPRS) is open until 25-08-2026 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</p>
 </div>
 
 <!--
