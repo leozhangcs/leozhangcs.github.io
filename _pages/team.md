@@ -17,8 +17,8 @@ Yanjun's two students
 --->
 
 ### Current Members:
-- Zhihao Chen (Incoming PhD at 2026, co-supervised with [Prof. Yi LIU](https://scholar.google.com/citations?user=DcFodKsAAAAJ)):
-- Jingming Dai (Incoming PhD at intake 3, 2026): 
+- Zhihao Chen (Incoming PhD at 2026, co-supervised with [Prof. Yi LIU](https://scholar.google.com/citations?user=DcFodKsAAAAJ)): 
+- Jingming Dai (2026.7-now, PhD student@Griffith): 
 - Jintian Ji (2026.4-now, PhD student@Griffith, co-supervised with [Prof. Shirui PAN](https://scholar.google.com.hk/citations?user=frWRJN4AAAAJ)):
 - Ziwen Tan (2026.2-now, PhD student@Griffith, co-supervised with [Prof. Alan Liew](https://scholar.google.com.au/citations?user=CNgJ3LYAAAAJ)): 
 - Fang Long (2025.10-now, PhD student@Griffith): 
