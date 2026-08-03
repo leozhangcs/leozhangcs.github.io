@@ -17,9 +17,11 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
   <p class="student-notice-title">Prospective PhD Students</p>
   <p>I am always actively looking for self-motivated students. Please email me your CV, transcript and English test score if you are interested in my research topics. Information about <strong>Griffith PhD admission and scholarships</strong> can be found <a href="{{site.baseurl}}/prosStudents">here</a>.</p>
   <p>The main round of the 2026 Griffith University Postgraduate Research Scholarship (GUPRS) is open until 25-08-2026 for international applicants. See <a href = "{{site.baseurl}}/prosStudents/">here</a> for more information.</p>
+
 </div>
 
 <!--
+<p>Due to the large number of enquiries, I may not be able to reply to every email. Priority will be given to enquiries from applicants who have read my <a href="{{site.baseurl}}/prosStudents/">Pros.-Students</a> notes and include all requested information in their email.</p>
 <p><a href="{{site.baseurl}}/prosStudents">CSIRO's Industry PhD</a> is currently open, with Griffith's internal deadline in mid-July. Domestic students (Australian citizens or PR) are welcome to contact me directly!</p>
 <p>
 <div style="float: left;"><img src="/assets/images/icon.png" width="15" height="18"/></div>

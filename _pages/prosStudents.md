@@ -6,7 +6,7 @@ published: true
 ---
 ### For Prospective Students
 - I am interested in a wide range of research topics in cyber security (currently focusing on Trustworthy AI and Applied Cryptography), and I am always actively looking for self-motivated students. 
-- If you have the same research interests as me and want to do a PhD degree at Griffith, please email me with your CV, transcript, and eligible English test score.
+- If you have the same research interests as me and want to do a PhD degree at Griffith, please <strong><u>email me with your CV, transcript, and eligible English test score</u></strong>.
 - If you work in a slightly different field and want me to host you, please email me the required material, and I will contact you further. 
 
 
@@ -35,7 +35,7 @@ I totally understand your eagerness to get accepted to start your Ph.D. journey 
 - For the [GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs) scheme, there is an EOI (express of interest) stage followed by the full application (3 rounds per year, with September being the main round).
 - For the [CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship) scheme, there is a separate application at Griffith (normally open in November every year). After obtaining the conditional offer from Griffith, you can then make the application to CSC.
 - For the normal [CSC](https://www.csc.edu.cn/chuguo) scheme, please follow the instructions from CSC.
-- To be successful in the scholarship competition, applicants generally should have: 1. a valid English test, 2. GPA > 80 (out of 100 and the higher the better) for both the Bachelor and the Master, and 3. at least two first-authored peer-reviewed publications. Publications in decent venues, such as JCR Q1 journals or CORE A*/A conference papers, will further increase the chance of success.
+- **Notes:** To be competitive in the scholarship selection, applicants generally should have: 1. a valid English test, 2. GPA > 80 (out of 100 and the higher the better) for both the Bachelor and the Master, and 3. at least two first-authored peer-reviewed publications. Publications in decent venues, such as JCR Q1 journals or CORE A*/A conference papers, will further increase the chance of success.
 
 ### Opportunities for Visiting Scholars/PhD Students
 - I can host up to 2 CSC visiting scholars (including visiting PhD students) each year as per CSC requirement.
