@@ -35,7 +35,7 @@ I totally understand your eagerness to get accepted to start your Ph.D. journey 
 - For the [GUPRS](https://www.griffith.edu.au/research-study/scholarships/guprs) scheme, there is an EOI (express of interest) stage followed by the full application (3 rounds per year, with September being the main round).
 - For the [CSC-Griffith](https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship) scheme, there is a separate application at Griffith (normally open in November every year). After obtaining the conditional offer from Griffith, you can then make the application to CSC.
 - For the normal [CSC](https://www.csc.edu.cn/chuguo) scheme, please follow the instructions from CSC.
-- To be successful in the scholarship competition, applicants generally should have: 1. a valid English test, 2. GPA > 80 (out of 100 and the higher the better) for the Bachelor and the Master, 3. First-authored JCR Q1 publications >= 2.
+- To be successful in the scholarship competition, applicants generally should have: 1. a valid English test, 2. GPA > 80 (out of 100 and the higher the better) for both the Bachelor and the Master, and 3. at least two first-authored peer-reviewed publications. Publications in decent venues, such as JCR Q1 journals or CORE A*/A conference papers, will further increase the chance of success.
 
 ### Opportunities for Visiting Scholars/PhD Students
 - I can host up to 2 CSC visiting scholars (including visiting PhD students) each year as per CSC requirement.
