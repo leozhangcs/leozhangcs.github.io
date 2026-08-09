@@ -36,7 +36,8 @@ The complete list of my publications can be found on [my Google Scholar profile]
 ### Trustworthy AI:
 Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects:
 - Agentic system security and privacy: <span style="color:blue">
-[[SEC'26a]({{site.baseurl}}/research/trustworthyAI)] </span>
+[[SEC'26a]({{site.baseurl}}/research/trustworthyAI)],
+[[ASE'26a]({{site.baseurl}}/research/trustworthyAI)] </span>
 - Machine unlearning and its security and privacy issues:  <span style="color:blue">
 [[AAAI'26]({{site.baseurl}}/research/trustworthyAI)],
 [[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span>
