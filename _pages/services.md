@@ -13,7 +13,7 @@ published: true
 
 
 ### Program Committee/SPC/AC
-+ 2027: AAAI (AC);
++ 2027: AAAI (AC), ICLR (AC);
 + 2026: AAAI (SPC), ICLR (AC), AISTATS, CVPR, ACM CCS, ICML, ICICS, SecureComm, IJCAI, ECCV, USENIX Security (Cycle 2), ACISP (Cycle 2), KDD, ACM Multimedia, NeurIPS (AC), ACSAC, ML4CS;
 + 2025: PETS, AAAI, ASIACCS, ICLR, AISTATS, IJCAI, CVPR, ICML, ICCV, ICICS, ACSAC, NeurIPS (AC), WPES@CCS;
 + 2024: ACM Multimedia, IJCAI, AAAI, ECCV, CVPR, PRDC, CIKM, PRICAI, NeurIPS;
