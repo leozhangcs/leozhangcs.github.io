@@ -33,6 +33,7 @@ published: true
 + 2025-2026: Vice Chair, [Secure Learning Task Force](https://sites.google.com/view/cis-nntc-securelearning/home?authuser=0), IEEE CIS Neural Networks Technical Committee
  
 ### University Service
-+ Jun. 2026-Now: Acting Deputy Head of School Research, School of ICT, Griffith University
++ Sep. 2026-Now: Deputy Head of School Research, School of ICT, Griffith University
++ Jun. 2026-Aug. 2026: Acting Deputy Head of School Research, School of ICT, Griffith University
 + 2024-2026: Program Director, [Bachelor of Cyber Security](https://www.griffith.edu.au/study/degrees/bachelor-of-cyber-security-1677) (Degree Code: 1677)
 + 2023-Now: Partnership Coordinator (China), School of ICT (take care of existing education and research partnerships and develop new ones)
