@@ -48,7 +48,7 @@ Yanjun's two students
 
 
 ### Past Members:
-- [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-2026.08, Visiting Professor@Griffith -> [Chungbuk National University](https://scholar.google.com/citations?view_op=view_org&hl=en&org=468863548551678057)): Robust and Efficient Federated Learning at the Edge
+- [Taehong Kim](https://scholar.google.com/citations?user=D3jpuXkAAAAJ) (2025.07-2026.08, Visiting Professor@Griffith -> Professor@Chungbuk National University): Robust and Efficient Federated Learning at the Edge
 - [Hangtao Zhang](https://scholar.google.com/citations?user=H6wMyNEAAAAJ) (2023-2026.04, Msc@HUST -> PhD Student@UPenn): Investigating Backdoor Methods for Object Detection Models
 - [Ziqi Zhou](https://scholar.google.com/citations?hl=en&user=-eyLn4wAAAAJ) (2023-2026, PhD@HUST -> TTAP@Chongqing University): Research on Techniques for Robustness Evaluation and Enhancement of Pre-Trained Models
 + [Linshan Hou](https://scholar.google.com/citations?user=uHVNhf8AAAAJ) (2022-2026.03, PhD@HITsz -> Senior Engineer@Hua Wei): Research On Backdoor Defense Techniques From A Deep Learning Model Lifecycle Perspective
