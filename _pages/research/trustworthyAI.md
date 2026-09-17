@@ -22,6 +22,7 @@ In fact, when talking about the computation of AI tasks at the edge of the netwo
 
 
 #### Selected Publications in Trustworthy AI:
+- <span style="color:blue">[NDSS'27]</span> X. Zhang, Z. Zhang, L. Y. Zhang, Y. Zhang, G. Tao, S. Pan, "Cutting Tokens, Creating Threats: Evaluating Token Compression-Induced Vulnerabilities in Large Vision-Language Models", in NDSS, 2027. (core a*) [PDF](https://arxiv.org/abs/2601.12042)
 - <span style="color:blue">[SEC'26a]</span> Y. Liu, Z. Chen, Y. Zhang, G. Deng, Y. Li, J. Ning, L. Y. Zhang, "Do Not Mention This to the User: Detecting and Understanding Malicious Agent Skills", in USENIX Security, 2026. (core a*, ccf a) [PDF](https://arxiv.org/abs/2602.06547)
 - <span style="color:blue">[SEC'26b]</span> H. Zhang, Y. Zhao, S. Liu, Z. Zhou, Z. Ye, W. Wan, M. Li, S. Hu, Y. Zhang, Y. Liu, L. Y. Zhang, "Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics", in USENIX Security, 2026. (core a*, ccf a)
 - <span style="color:blue">[SEC'26c]</span> J. Liu, L. Y. Zhang, F. Li, I. Echizen, J. Zhou, "Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations", in USENIX Security, 2026. (core a*, ccf a) [PDF](https://arxiv.org/abs/2601.14300)

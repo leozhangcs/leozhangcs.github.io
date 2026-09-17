@@ -42,6 +42,7 @@ Given the critical importance of trust and transparency in AI technologies, addr
 [[AAAI'26]({{site.baseurl}}/research/trustworthyAI)],
 [[SEC'25a]({{site.baseurl}}/research/trustworthyAI)] </span>
 - Investigating the security and privacy issues of foundation models: <span style="color:blue">
+[[NDSS'27]({{site.baseurl}}/research/trustworthyAI)],
 [[SEC'26b]({{site.baseurl}}/research/trustworthyAI)],
 [[NDSS'26]({{site.baseurl}}/research/trustworthyAI)],
 [[ICML'25]({{site.baseurl}}/research/trustworthyAI)],
