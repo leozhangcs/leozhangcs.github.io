@@ -43,6 +43,10 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 <!--
 - [May-26] One work accepted by
 - -->
+- [Oct-26] Our new work __Silent and Costly: Characterizing and Detecting Prompt-Caching Mis-Integration in LLM Agents__ has been directly accepted to the _IEEE/ACM International Conference on Software Engineering (ICSE 2027)_!
+
+- [Sep-26] Four new papers have been accepted to the _Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_!
+
 - [Sep-26] Our new work __Cutting Tokens, Creating Threats: Evaluating Token Compression-Induced Vulnerabilities in Large Vision-Language Models__ has been accepted to the _Network and Distributed System Security Symposium (NDSS 2027)_! Congrats to Xiaomei!
 
 - [May-26] Three works, __Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics__, __"Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills__, and __Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations__, have been accepted to _USENIX Security 2026_! Congrats to Hangtao, Zhihao, Jun, and all collaborators for this fantastic achievement!
