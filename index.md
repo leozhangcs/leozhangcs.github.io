@@ -43,6 +43,8 @@ I am a core member of the [TrustAGI Lab](https://trust-agi.github.io/), whose go
 <!--
 - [May-26] One work accepted by
 - -->
+- [Nov-26] Our new work __Input-Level Backdoor Detection for Pretrained Contrastive Vision Encoders via Reference-Frame Transformations__ has been directly accepted to Cycle 1 of the _ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2027)_!
+
 - [Oct-26] Our new work __Silent and Costly: Characterizing and Detecting Prompt-Caching Mis-Integration in LLM Agents__ has been directly accepted to the _IEEE/ACM International Conference on Software Engineering (ICSE 2027)_!
 
 - [Sep-26] Four new papers have been accepted to the _Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_!
